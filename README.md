@@ -1,2 +1,2 @@
-# jupyter
-jupyter notebooks
+# data analysis
+notebooks and app
