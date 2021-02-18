@@ -7,4 +7,4 @@ def hello_world():
     return 'Flask Dockerized and deployed to Heroku'
 
 if __name__ == '__main__':
-    app.run(host='https://circuitflow.herokuapp.com/', port=80)
+    app.run(host='0.0.0.0', port=5000)
