@@ -1,4 +1,4 @@
 build:
   docker:
-    - web: Dockerfile
-    - web: gunicorn app:app
+    web: Dockerfile
+  web: gunicorn app:app
