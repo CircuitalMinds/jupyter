@@ -10,7 +10,7 @@ RUN pip install pip pipenv --upgrade
 RUN pipenv install --skip-lock --system --dev
 
 CMD ["./scripts/entrypoint.sh"]
-
+EXPOSE 80
 RUN apt-get update && apt-get install -y git && apt-get clean && git clone https://github.com/CircuitalMinds/manager.git
 RUN pip install -r ./manager/requirements.txt
 CMD ["python", "./manager/circuitflow.py"]
