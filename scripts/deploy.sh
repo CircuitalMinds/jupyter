@@ -1,2 +1,2 @@
-heroku container:push web -a jupyter
-heroku container:release web -a jupyter
+heroku container:push web -a circuitflow
+heroku container:release web -a circuitflow
