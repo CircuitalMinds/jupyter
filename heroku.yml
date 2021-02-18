@@ -3,4 +3,4 @@ build:
     web: Dockerfile
 
 run:
-  web: gunicorn manager/circuitflow:circuitflow
+  web: gunicorn app:app
