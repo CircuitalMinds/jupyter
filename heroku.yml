@@ -1,4 +1,3 @@
 build:
-  docker:
-    run: Dockerfile
-    web: gunicorn circuitflow:circuitflow
+  docker: Dockerfile
+  web: gunicorn circuitflow:circuitflow
