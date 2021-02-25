@@ -9,7 +9,9 @@ RUN apt-get update && apt-get install -y git && apt-get clean && cd ./nbs && git
 
 RUN pip install pip pipenv --upgrade
 RUN pipenv install --skip-lock --system --dev
-RUN pip install numpy scipy pandas matplotplib seaborn scikit-learn
-RUN pip install beautifulsoup4 requests html5lib nltk urllib3 PyYAML
+RUN pip install pip --upgrade
+RUN pip install numpy scipy pandas
+RUN pip install beautifulsoup4 requests PyYAML
+RUN pip install matplotlib
 
 CMD ["./scripts/entrypoint.sh"]
