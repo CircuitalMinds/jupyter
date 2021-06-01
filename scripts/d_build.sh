@@ -1,1 +1,1 @@
-docker build -t jupyter -f Dockerfile .
+docker build -t jupyter-nbs -f Dockerfile .
