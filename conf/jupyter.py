@@ -7,7 +7,7 @@ c.IPKernelApp.pylab = 'inline'  # if you want plotting support always in your no
 
 # Notebook config
 c.NotebookApp.notebook_dir = 'nbs'
-c.NotebookApp.allow_origin = u'192.168.1.91' # put your public IP Address here
+c.NotebookApp.allow_origin = u'https://circuitalminds.github.io' # put your public IP Address here
 c.NotebookApp.ip = '*'
 c.NotebookApp.allow_remote_access = True
 c.NotebookApp.open_browser = False
@@ -192,7 +192,7 @@ c.ConfigurableHTTPProxy.command = ['configurable-http-proxy', '--redirect-port',
 #c.NotebookApp.iopub_msg_rate_limit = 1000
 
 ## The IP address the notebook server will listen on.
-#c.NotebookApp.ip = 'localhost'
+c.NotebookApp.ip = 'localhost'
 
 ## Supply extra arguments that will be passed to Jinja environment.
 #c.NotebookApp.jinja_environment_options = {}
