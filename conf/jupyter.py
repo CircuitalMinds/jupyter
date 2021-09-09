@@ -4,14 +4,12 @@ c = get_config()
 
 # Kernel config
 c.IPKernelApp.pylab = 'inline'  # if you want plotting support always in your notebook
-
 # Notebook config
 c.NotebookApp.notebook_dir = 'nbs'
-c.NotebookApp.allow_origin = u'jupyter-nbs.herokuapp.com' # put your public IP Address here
+c.NotebookApp.allow_origin = u'jupyternbs.herokuapp.com' # put your public IP Address here
 c.NotebookApp.ip = '*'
 c.NotebookApp.allow_remote_access = True
 c.NotebookApp.open_browser = False
-
 # ipython -c "from notebook.auth import passwd; passwd()"
 c.NotebookApp.password = u'argon2:$argon2id$v=19$m=10240,t=10,p=8$IhVAmDErgzufPr7UZVXZXw$GWVInJDB18fN6q4zR6j9Ow'
 c.NotebookApp.port = int(os.environ.get("PORT", 80))
@@ -192,7 +190,7 @@ c.ConfigurableHTTPProxy.command = ['configurable-http-proxy', '--redirect-port',
 #c.NotebookApp.iopub_msg_rate_limit = 1000
 
 ## The IP address the notebook server will listen on.
-c.NotebookApp.ip = 'localhost'
+#c.NotebookApp.ip = 'localhost'
 
 ## Supply extra arguments that will be passed to Jinja environment.
 #c.NotebookApp.jinja_environment_options = {}

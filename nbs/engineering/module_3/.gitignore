@@ -1,0 +1,14 @@
+.DS_Store
+
+notebooks/.ipynb_checkpoints/
+
+.texpadtmp/
+*.aux
+*.log
+
+matlab/html/
+
+*.m~
+simulink/*.autosave
+
+notebooks/Solutions/

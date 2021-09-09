@@ -1,2 +1,2 @@
-heroku container:push web -a jupyter-nbs
-heroku container:release web -a jupyter-nbs
+heroku container:push web -a jupyternbs
+heroku container:release web -a jupyternbs
