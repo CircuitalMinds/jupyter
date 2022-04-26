@@ -5,61 +5,50 @@ from os.path import join, isdir
 
 
 class Jupyter:
-    data = dict(
-        topics=[
-            i for i in listdir("./nbs")
-            if i not in ["assets", "info.json", "run.py", "__pycache__"]
-        ],
-        content={}
-    )
-    
-    def start(self):
+    path = "./nbs"
+    topics = ("Intro", "Engineering", "ScienceData")
+
+    def __init__(self):
+        self.data = dict()
+        self.get_data()
+
+    def get_data(self):
+        for i in self.topics:
+            self.data[i] = {}
+            for j in listdir(join(self.path, i)):
+                fpath = join(self.path, i, j)
+                if isdir(fpath):
+                    self.data[i][j] = {}
+                    for f in filter(lambda x: x.endswith(".ipynb"), listdir(fpath)):
+                        self.data[i][j][f] = join("notebooks", i, j, f)
+                elif j.endswith(".ipynb"):
+                    self.data[i][j] = join("notebooks", i, j)
+
+    def save_info(self):
+        with open("info.json", "w") as f:
+            f.write(dumps(
+                self.data, **dict(
+                    indent=4, sort_keys=True, ensure_ascii=False
+                )
+            ))
+
+    def update(self):
+        self.get_data()
+        self.save_info()
+        system("bash push.sh")
+
+    def run(self):
         self.update()
         try:
             system("cd ./nbs && jupyter notebook")
         except KeyboardInterrupt:
             pass
-            
-    def get_topic(self, name):
-        x, xdata = listdir(join("./nbs", name)), {}
-        if x:
-            for xi in x:
-                xpath = join("./nbs", name, xi)
-                if isdir(xpath):
-                    xdata[xi] = {y: join("notebooks", name, xi, y) for y in listdir(xpath) if y.endswith(".ipynb")}
-                elif xi.endswith(".ipynb"):
-                    xdata[xi] = join("notebooks", name, xi)
-        self.data["content"][name] = xdata
-    
-    def update(self):
-        for i in self.data["topics"]:
-            self.get_topic(i)            
-        with open("info.json", "w") as f:
-            f.write(dumps(
-                self.data, 
-                **dict(
-                    indent=4,
-                    sort_keys=True,
-                    ensure_ascii=False
-                )
-            ))
-            
-    def git_push(self):
-        self.update()
-        system(
-            " && ".join([
-                "git add .", "git commit -m 'autocommit'"
-            ])
-        )
-        system("git push")
-                    
-    
+
+
 if __name__ == "__main__":
     args = argv[1:]
+    if "jupyter" in args:
+        Jupyter().run()
     if "update" in args:
         Jupyter().update()
-    if "push" in args:
-        Jupyter().git_push()
-    if "jupyter" in args:
-        Jupyter().start()
 
