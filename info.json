@@ -1,535 +1,2538 @@
 {
-    "Engineering": {
-        "01": {
-            "00_Quick_Python_Intro.ipynb": "notebooks/Engineering/01/00_Quick_Python_Intro.ipynb",
-            "01_Step_1.ipynb": "notebooks/Engineering/01/01_Step_1.ipynb",
-            "02_Step_2.ipynb": "notebooks/Engineering/01/02_Step_2.ipynb",
-            "03_CFL_Condition.ipynb": "notebooks/Engineering/01/03_CFL_Condition.ipynb",
-            "04_Step_3.ipynb": "notebooks/Engineering/01/04_Step_3.ipynb",
-            "05_Step_4.ipynb": "notebooks/Engineering/01/05_Step_4.ipynb",
-            "06_Array_Operations_with_NumPy.ipynb": "notebooks/Engineering/01/06_Array_Operations_with_NumPy.ipynb",
-            "07_Step_5.ipynb": "notebooks/Engineering/01/07_Step_5.ipynb",
-            "08_Step_6.ipynb": "notebooks/Engineering/01/08_Step_6.ipynb",
-            "09_Step_7.ipynb": "notebooks/Engineering/01/09_Step_7.ipynb",
-            "10_Step_8.ipynb": "notebooks/Engineering/01/10_Step_8.ipynb",
-            "11_Defining_Function_in_Python.ipynb": "notebooks/Engineering/01/11_Defining_Function_in_Python.ipynb",
-            "12_Step_9.ipynb": "notebooks/Engineering/01/12_Step_9.ipynb",
-            "13_Step_10.ipynb": "notebooks/Engineering/01/13_Step_10.ipynb",
-            "14_Optimizing_Loops_with_Numba.ipynb": "notebooks/Engineering/01/14_Optimizing_Loops_with_Numba.ipynb",
-            "15_Step_11.ipynb": "notebooks/Engineering/01/15_Step_11.ipynb",
-            "16_Step_12.ipynb": "notebooks/Engineering/01/16_Step_12.ipynb",
-            "18_Burgers_equation.ipynb": "notebooks/Engineering/01/18_Burgers_equation.ipynb",
-            "19_Odd_Even_Decoupling.ipynb": "notebooks/Engineering/01/19_Odd_Even_Decoupling.ipynb"
+    "available_space": true,
+    "content": {
+        "data_science": {
+            "01": [
+                {
+                    "name": "03.05d-Agent-based-model-covid.ipynb",
+                    "path": "data_science/01/03.05d-Agent-based-model-covid.ipynb",
+                    "size": 0.060324864000000006
+                },
+                {
+                    "name": "02.02-Campus-SEIR-modeling.ipynb",
+                    "path": "data_science/01/02.02-Campus-SEIR-modeling.ipynb",
+                    "size": 0.057510912000000004
+                },
+                {
+                    "name": "03.02-Introduction-to-Simpy.ipynb",
+                    "path": "data_science/01/03.02-Introduction-to-Simpy.ipynb",
+                    "size": 0.013918208000000001
+                },
+                {
+                    "name": "brownian_motion_animation.ipynb",
+                    "path": "data_science/01/brownian_motion_animation.ipynb",
+                    "size": 0.19577344000000002
+                },
+                {
+                    "name": "02.01-Campus-SIR-modeling.ipynb",
+                    "path": "data_science/01/02.01-Campus-SIR-modeling.ipynb",
+                    "size": 0.091380736
+                },
+                {
+                    "name": "random_walk_animation.ipynb",
+                    "path": "data_science/01/random_walk_animation.ipynb",
+                    "size": 0.25027072
+                },
+                {
+                    "name": "03.03-Agent-Based-Models.ipynb",
+                    "path": "data_science/01/03.03-Agent-Based-Models.ipynb",
+                    "size": 0.062224384
+                },
+                {
+                    "name": "02.04-Linear-Analysis-of-Campus-Reopening.ipynb",
+                    "path": "data_science/01/02.04-Linear-Analysis-of-Campus-Reopening.ipynb",
+                    "size": 0.000791552
+                },
+                {
+                    "name": "03.01-Python-Generators.ipynb",
+                    "path": "data_science/01/03.01-Python-Generators.ipynb",
+                    "size": 0.008059904
+                },
+                {
+                    "name": "03.08-Grocery-Store.ipynb",
+                    "path": "data_science/01/03.08-Grocery-Store.ipynb",
+                    "size": 0.066963456
+                },
+                {
+                    "name": "03.06-Queuing-Systems-and-Poisson-Processes.ipynb",
+                    "path": "data_science/01/03.06-Queuing-Systems-and-Poisson-Processes.ipynb",
+                    "size": 0.185686016
+                },
+                {
+                    "name": "03.07-Simulating-Queuing-Systems.ipynb",
+                    "path": "data_science/01/03.07-Simulating-Queuing-Systems.ipynb",
+                    "size": 0.031661056
+                },
+                {
+                    "name": "03.00-Introduction-to-Discrete-Event-Modeling.ipynb",
+                    "path": "data_science/01/03.00-Introduction-to-Discrete-Event-Modeling.ipynb",
+                    "size": 0.0032184320000000002
+                },
+                {
+                    "name": "02.00-Modeling.ipynb",
+                    "path": "data_science/01/02.00-Modeling.ipynb",
+                    "size": 0.002423808
+                },
+                {
+                    "name": "drifted_brownian_motion.ipynb",
+                    "path": "data_science/01/drifted_brownian_motion.ipynb",
+                    "size": 0.20451532800000002
+                },
+                {
+                    "name": "geometric_brownian_motion.ipynb",
+                    "path": "data_science/01/geometric_brownian_motion.ipynb",
+                    "size": 0.611513344
+                },
+                {
+                    "name": "03.05-Assignment.ipynb",
+                    "path": "data_science/01/03.05-Assignment.ipynb",
+                    "size": 0.050492416000000005
+                },
+                {
+                    "name": "03.10a-Agent-based-campus-covid-model.ipynb",
+                    "path": "data_science/01/03.10a-Agent-based-campus-covid-model.ipynb",
+                    "size": 0.05169664
+                },
+                {
+                    "name": "01.00-Syllabus.ipynb",
+                    "path": "data_science/01/01.00-Syllabus.ipynb",
+                    "size": 0.0111616
+                },
+                {
+                    "name": "03.09-Batch-Chemical-Process.ipynb",
+                    "path": "data_science/01/03.09-Batch-Chemical-Process.ipynb",
+                    "size": 0.029688832000000002
+                },
+                {
+                    "name": "03.04-Modeling-Events.ipynb",
+                    "path": "data_science/01/03.04-Modeling-Events.ipynb",
+                    "size": 0.111399936
+                },
+                {
+                    "name": "02.03-Campus-reopening.ipynb",
+                    "path": "data_science/01/02.03-Campus-reopening.ipynb",
+                    "size": 0.089480192
+                }
+            ],
+            "02": [
+                {
+                    "name": "Changes_in_Rainy_River_Flows_1970-2010-Copy1.ipynb",
+                    "path": "data_science/02/Changes_in_Rainy_River_Flows_1970-2010-Copy1.ipynb",
+                    "size": 1.747659776
+                },
+                {
+                    "name": "Ice_Out_Dates.ipynb",
+                    "path": "data_science/02/Ice_Out_Dates.ipynb",
+                    "size": 0.19458150400000002
+                },
+                {
+                    "name": "Rule_Curve_Optimization.ipynb",
+                    "path": "data_science/02/Rule_Curve_Optimization.ipynb",
+                    "size": 0.003401728
+                },
+                {
+                    "name": "Water_Survey_of_Canada_Usage.ipynb",
+                    "path": "data_science/02/Water_Survey_of_Canada_Usage.ipynb",
+                    "size": 3.5930060800000003
+                },
+                {
+                    "name": "Lumped_Parameter_Model_for_Lake_Dynamics.ipynb",
+                    "path": "data_science/02/Lumped_Parameter_Model_for_Lake_Dynamics.ipynb",
+                    "size": 0.177447936
+                },
+                {
+                    "name": "Rainy_River_Flows.ipynb",
+                    "path": "data_science/02/Rainy_River_Flows.ipynb",
+                    "size": 0.5379246080000001
+                },
+                {
+                    "name": "Rule_Curves_for_Rainy_and_Namakan_Lakes.ipynb",
+                    "path": "data_science/02/Rule_Curves_for_Rainy_and_Namakan_Lakes.ipynb",
+                    "size": 0.36066816
+                },
+                {
+                    "name": "Harmonizing_Rule_Curves_to_Seasonal_Inflows.ipynb",
+                    "path": "data_science/02/Harmonizing_Rule_Curves_to_Seasonal_Inflows.ipynb",
+                    "size": 0.182263808
+                },
+                {
+                    "name": "Ice_Out_Predictor_for_Rainy_Lake.ipynb",
+                    "path": "data_science/02/Ice_Out_Predictor_for_Rainy_Lake.ipynb",
+                    "size": 2.534267904
+                },
+                {
+                    "name": "Improved_Prediction_of_Inflows.ipynb",
+                    "path": "data_science/02/Improved_Prediction_of_Inflows.ipynb",
+                    "size": 0.006975488
+                },
+                {
+                    "name": "Projects.ipynb",
+                    "path": "data_science/02/Projects.ipynb",
+                    "size": 0.001755136
+                },
+                {
+                    "name": "Implementation_of_Rainy_Lake_Rule_Curves_with_Feedback_Control.ipynb",
+                    "path": "data_science/02/Implementation_of_Rainy_Lake_Rule_Curves_with_Feedback_Control.ipynb",
+                    "size": 2.188432384
+                },
+                {
+                    "name": "Model Predictive Control.ipynb",
+                    "path": "data_science/02/Model Predictive Control.ipynb",
+                    "size": 1.1202580480000002
+                },
+                {
+                    "name": "Stage-Volume_Relationships.ipynb",
+                    "path": "data_science/02/Stage-Volume_Relationships.ipynb",
+                    "size": 0.196255744
+                },
+                {
+                    "name": "Global_Historical_Climatology_Network.ipynb",
+                    "path": "data_science/02/Global_Historical_Climatology_Network.ipynb",
+                    "size": 0.6400245760000001
+                },
+                {
+                    "name": "Namakan_Lake_Water_Levels.ipynb",
+                    "path": "data_science/02/Namakan_Lake_Water_Levels.ipynb",
+                    "size": 0.364837888
+                },
+                {
+                    "name": "Imputing_the_Effect_of_the_2000_Rule_Curve_Changes_on_Rainy_River.ipynb",
+                    "path": "data_science/02/Imputing_the_Effect_of_the_2000_Rule_Curve_Changes_on_Rainy_River.ipynb",
+                    "size": 0.449682432
+                },
+                {
+                    "name": "Rainy_Lake_Water_Levels.ipynb",
+                    "path": "data_science/02/Rainy_Lake_Water_Levels.ipynb",
+                    "size": 1.258525696
+                },
+                {
+                    "name": "Model_Predictive_Control_of_Dams_at_Kettle_Falls_and_International_Falls.ipynb",
+                    "path": "data_science/02/Model_Predictive_Control_of_Dams_at_Kettle_Falls_and_International_Falls.ipynb",
+                    "size": 0.0070195200000000004
+                },
+                {
+                    "name": "Namakan_Lake_Outflows.ipynb",
+                    "path": "data_science/02/Namakan_Lake_Outflows.ipynb",
+                    "size": 0.5788487680000001
+                },
+                {
+                    "name": "ENSO.ipynb",
+                    "path": "data_science/02/ENSO.ipynb",
+                    "size": 0.038956032
+                },
+                {
+                    "name": "Data_Examples.ipynb",
+                    "path": "data_science/02/Data_Examples.ipynb",
+                    "size": 0.148795392
+                },
+                {
+                    "name": "Precipitation_at_International_Falls_1970-2010.ipynb",
+                    "path": "data_science/02/Precipitation_at_International_Falls_1970-2010.ipynb",
+                    "size": 0.321026048
+                },
+                {
+                    "name": "Untitled.ipynb",
+                    "path": "data_science/02/Untitled.ipynb",
+                    "size": 0.5187727360000001
+                },
+                {
+                    "name": "Feasibility_of_Rainy_Lake_Rule_Curves.ipynb",
+                    "path": "data_science/02/Feasibility_of_Rainy_Lake_Rule_Curves.ipynb",
+                    "size": 0.801133568
+                },
+                {
+                    "name": "Changes_in_Rainy_River_Flows_1970-2010.ipynb",
+                    "path": "data_science/02/Changes_in_Rainy_River_Flows_1970-2010.ipynb",
+                    "size": 1.5822878720000002
+                },
+                {
+                    "name": "USGS Surface Water Daily Data.ipynb",
+                    "path": "data_science/02/USGS Surface Water Daily Data.ipynb",
+                    "size": 5.40141568
+                },
+                {
+                    "name": "preprocess_laptop_dataset.ipynb",
+                    "path": "data_science/02/preprocess_laptop_dataset.ipynb",
+                    "size": 0.022417408
+                },
+                {
+                    "name": "Estimating_Rainy_Lake_Inflows_1971-2010.ipynb",
+                    "path": "data_science/02/Estimating_Rainy_Lake_Inflows_1971-2010.ipynb",
+                    "size": 1.649580032
+                },
+                {
+                    "name": "Namakan_and_Rainy_Lake_Water_Levels_1970-2010.ipynb",
+                    "path": "data_science/02/Namakan_and_Rainy_Lake_Water_Levels_1970-2010.ipynb",
+                    "size": 1.003282432
+                },
+                {
+                    "name": "Water_Survey_of_Canada_HYDAT.ipynb",
+                    "path": "data_science/02/Water_Survey_of_Canada_HYDAT.ipynb",
+                    "size": 0.038409216
+                },
+                {
+                    "name": "Flow_Constrictions_on_Upper_Rainy_River.ipynb",
+                    "path": "data_science/02/Flow_Constrictions_on_Upper_Rainy_River.ipynb",
+                    "size": 0.29480448000000004
+                },
+                {
+                    "name": "Limits to Rule Curve Performance.ipynb",
+                    "path": "data_science/02/Limits to Rule Curve Performance.ipynb",
+                    "size": 1.308504064
+                },
+                {
+                    "name": "Freshet_Predictor_for_Rainy_Lake.ipynb",
+                    "path": "data_science/02/Freshet_Predictor_for_Rainy_Lake.ipynb",
+                    "size": 3.099347968
+                },
+                {
+                    "name": "Dashboard.ipynb",
+                    "path": "data_science/02/Dashboard.ipynb",
+                    "size": 0.12730265600000001
+                }
+            ],
+            "03": [
+                {
+                    "name": "08.01-Obtaining-Historical-Stock_-ata.ipynb",
+                    "path": "data_science/03/08.01-Obtaining-Historical-Stock_-ata.ipynb",
+                    "size": 0.014200832
+                },
+                {
+                    "name": "05.02-Exothermic-CSTR.ipynb",
+                    "path": "data_science/03/05.02-Exothermic-CSTR.ipynb",
+                    "size": 0.21693952000000002
+                },
+                {
+                    "name": "05.00-Simulation.ipynb",
+                    "path": "data_science/03/05.00-Simulation.ipynb",
+                    "size": 0.002772992
+                },
+                {
+                    "name": "02.05-Model-Predictive-Control-of-a-Double-Integrator.ipynb",
+                    "path": "data_science/03/02.05-Model-Predictive-Control-of-a-Double-Integrator.ipynb",
+                    "size": 0.24616448000000002
+                },
+                {
+                    "name": "06.02-Maximizing-Concentration-of-an-Intermediate-in-a-Batch-Reactor.ipynb",
+                    "path": "data_science/03/06.02-Maximizing-Concentration-of-an-Intermediate-in-a-Batch-Reactor.ipynb",
+                    "size": 0.038588416
+                },
+                {
+                    "name": "01.04-Cross-Platform-Installation-of-Pyomo-and-Solvers.ipynb",
+                    "path": "data_science/03/01.04-Cross-Platform-Installation-of-Pyomo-and-Solvers.ipynb",
+                    "size": 0.005174272000000001
+                },
+                {
+                    "name": "08.00-Financial-Applications.ipynb",
+                    "path": "data_science/03/08.00-Financial-Applications.ipynb",
+                    "size": 0.002736128
+                },
+                {
+                    "name": "07.01-Parameter-Estimation-Catalytic-Reactor.ipynb",
+                    "path": "data_science/03/07.01-Parameter-Estimation-Catalytic-Reactor.ipynb",
+                    "size": 0.352520192
+                },
+                {
+                    "name": "02.03-Mixture-Design-Cold-Weather-Fuel.ipynb",
+                    "path": "data_science/03/02.03-Mixture-Design-Cold-Weather-Fuel.ipynb",
+                    "size": 0.11150438400000001
+                },
+                {
+                    "name": "08.04-MAD-Portfolio-Optimization.ipynb",
+                    "path": "data_science/03/08.04-MAD-Portfolio-Optimization.ipynb",
+                    "size": 0.9797355520000001
+                },
+                {
+                    "name": "06.01-Unconstrained-Scalar-Optimization.ipynb",
+                    "path": "data_science/03/06.01-Unconstrained-Scalar-Optimization.ipynb",
+                    "size": 0.037472256
+                },
+                {
+                    "name": "01.00-Getting-Started-with-Pyomo.ipynb",
+                    "path": "data_science/03/01.00-Getting-Started-with-Pyomo.ipynb",
+                    "size": 0.005665792
+                },
+                {
+                    "name": "04.04-Scheduling-Multipurpose-Batch-Processes-using-State-Task_Networks.ipynb",
+                    "path": "data_science/03/04.04-Scheduling-Multipurpose-Batch-Processes-using-State-Task_Networks.ipynb",
+                    "size": 0.11001753600000001
+                },
+                {
+                    "name": "05.03-Heat_Conduction_in_Various_Geometries.ipynb",
+                    "path": "data_science/03/05.03-Heat_Conduction_in_Various_Geometries.ipynb",
+                    "size": 0.535939072
+                },
+                {
+                    "name": "01.02-Running-Pyomo-on-Google-Colab.ipynb",
+                    "path": "data_science/03/01.02-Running-Pyomo-on-Google-Colab.ipynb",
+                    "size": 0.034445312
+                },
+                {
+                    "name": "A.00-Style-Guide.ipynb",
+                    "path": "data_science/03/A.00-Style-Guide.ipynb",
+                    "size": 0.011651072
+                },
+                {
+                    "name": "02.01-Production-Models-with-Linear-Constraints.ipynb",
+                    "path": "data_science/03/02.01-Production-Models-with-Linear-Constraints.ipynb",
+                    "size": 0.08916787200000001
+                },
+                {
+                    "name": "02.00-Linear-Programming.ipynb",
+                    "path": "data_science/03/02.00-Linear-Programming.ipynb",
+                    "size": 0.002842624
+                },
+                {
+                    "name": "03.00-Assignment-Problems.ipynb",
+                    "path": "data_science/03/03.00-Assignment-Problems.ipynb",
+                    "size": 0.002767872
+                },
+                {
+                    "name": "06.04-Soft-Landing-Apollo-11-on-the-Moon.ipynb",
+                    "path": "data_science/03/06.04-Soft-Landing-Apollo-11-on-the-Moon.ipynb",
+                    "size": 0.28840550400000003
+                },
+                {
+                    "name": "08.02-Consolidating-and-Charting-Stock-Data.ipynb",
+                    "path": "data_science/03/08.02-Consolidating-and-Charting-Stock-Data.ipynb",
+                    "size": 0.489788416
+                },
+                {
+                    "name": "01.03-Running-Pyomo-on-the-Notre-Dame-CRC-Cluster.ipynb",
+                    "path": "data_science/03/01.03-Running-Pyomo-on-the-Notre-Dame-CRC-Cluster.ipynb",
+                    "size": 0.030547968
+                },
+                {
+                    "name": "04.02-Job-Shop-Scheduling.ipynb",
+                    "path": "data_science/03/04.02-Job-Shop-Scheduling.ipynb",
+                    "size": 0.485459968
+                },
+                {
+                    "name": "02.04-Gasoline-Blending.ipynb",
+                    "path": "data_science/03/02.04-Gasoline-Blending.ipynb",
+                    "size": 0.0231936
+                },
+                {
+                    "name": "05.01-Response-of-a-First-Order-System-to-Step-and-Square-Wave-Inputs.ipynb",
+                    "path": "data_science/03/05.01-Response-of-a-First-Order-System-to-Step-and-Square-Wave-Inputs.ipynb",
+                    "size": 0.12703129600000002
+                },
+                {
+                    "name": "04.03-Maintenance-Planning.ipynb",
+                    "path": "data_science/03/04.03-Maintenance-Planning.ipynb",
+                    "size": 0.07508684800000001
+                },
+                {
+                    "name": "01.01-Installing-Pyomo.ipynb",
+                    "path": "data_science/03/01.01-Installing-Pyomo.ipynb",
+                    "size": 0.012174336000000001
+                },
+                {
+                    "name": "06.03-Path-Planning-for-a-Simple-Car.ipynb",
+                    "path": "data_science/03/06.03-Path-Planning-for-a-Simple-Car.ipynb",
+                    "size": 0.21434368
+                },
+                {
+                    "name": "toc.ipynb",
+                    "path": "data_science/03/toc.ipynb",
+                    "size": 0.07379456000000001
+                },
+                {
+                    "name": "07.00-Parameter-Estimation.ipynb",
+                    "path": "data_science/03/07.00-Parameter-Estimation.ipynb",
+                    "size": 0.002742272
+                },
+                {
+                    "name": "08.05-Real-Options.ipynb",
+                    "path": "data_science/03/08.05-Real-Options.ipynb",
+                    "size": 1.088934912
+                },
+                {
+                    "name": "04.00-Scheduling-with-Disjunctive-Constraints.ipynb",
+                    "path": "data_science/03/04.00-Scheduling-with-Disjunctive-Constraints.ipynb",
+                    "size": 0.0027105280000000002
+                },
+                {
+                    "name": "08.03-Binomial-Model-for-Pricing-Options.ipynb",
+                    "path": "data_science/03/08.03-Binomial-Model-for-Pricing-Options.ipynb",
+                    "size": 1.082540032
+                },
+                {
+                    "name": "03.01-Transportation-Networks.ipynb",
+                    "path": "data_science/03/03.01-Transportation-Networks.ipynb",
+                    "size": 0.024193024
+                },
+                {
+                    "name": "index.ipynb",
+                    "path": "data_science/03/index.ipynb",
+                    "size": 0.020020224
+                },
+                {
+                    "name": "04.01-Machine-Bottleneck.ipynb",
+                    "path": "data_science/03/04.01-Machine-Bottleneck.ipynb",
+                    "size": 0.235009024
+                },
+                {
+                    "name": "02.02-Linear-Blending-Problem.ipynb",
+                    "path": "data_science/03/02.02-Linear-Blending-Problem.ipynb",
+                    "size": 0.011916288
+                },
+                {
+                    "name": "04.05-Unit-Commitment.ipynb",
+                    "path": "data_science/03/04.05-Unit-Commitment.ipynb",
+                    "size": 0.074500096
+                },
+                {
+                    "name": "06.00-Differential-Algebraic-Equations.ipynb",
+                    "path": "data_science/03/06.00-Differential-Algebraic-Equations.ipynb",
+                    "size": 0.002828288
+                }
+            ],
+            "04": [
+                {
+                    "name": "A.09-Rule_Curves_for_Rainy_and_Namakan_Lakes.ipynb",
+                    "path": "data_science/04/A.09-Rule_Curves_for_Rainy_and_Namakan_Lakes.ipynb",
+                    "size": 0.36311552
+                },
+                {
+                    "name": "06.00-Adaptive_Management.ipynb",
+                    "path": "data_science/04/06.00-Adaptive_Management.ipynb",
+                    "size": 0.0031795200000000003
+                },
+                {
+                    "name": "05.00-Control.ipynb",
+                    "path": "data_science/04/05.00-Control.ipynb",
+                    "size": 0.0032133120000000003
+                },
+                {
+                    "name": "A.10-Ice_Out_Dates.ipynb",
+                    "path": "data_science/04/A.10-Ice_Out_Dates.ipynb",
+                    "size": 0.197118976
+                },
+                {
+                    "name": "03.05-Rule_Curve_Optimization.ipynb",
+                    "path": "data_science/04/03.05-Rule_Curve_Optimization.ipynb",
+                    "size": 0.0062054400000000004
+                },
+                {
+                    "name": "03.03-Limits_to_Rule_Curve_Performance.ipynb",
+                    "path": "data_science/04/03.03-Limits_to_Rule_Curve_Performance.ipynb",
+                    "size": 1.310749696
+                },
+                {
+                    "name": "04.00-Estimation.ipynb",
+                    "path": "data_science/04/04.00-Estimation.ipynb",
+                    "size": 0.00315904
+                },
+                {
+                    "name": "05.02-Implementation_of_Rainy_Lake_Rule_Curves_with_Feedback_Control.ipynb",
+                    "path": "data_science/04/05.02-Implementation_of_Rainy_Lake_Rule_Curves_with_Feedback_Control.ipynb",
+                    "size": 2.1909585920000003
+                },
+                {
+                    "name": "02.02-Changes_in_Rainy_River_Flows_1970-2010-Copy1.ipynb",
+                    "path": "data_science/04/02.02-Changes_in_Rainy_River_Flows_1970-2010-Copy1.ipynb",
+                    "size": 1.7491609600000002
+                },
+                {
+                    "name": "06.01-Ice_Out_Predictor_for_Rainy_Lake.ipynb",
+                    "path": "data_science/04/06.01-Ice_Out_Predictor_for_Rainy_Lake.ipynb",
+                    "size": 2.5368043520000003
+                },
+                {
+                    "name": "02.03-Changes_in_Rainy_River_Flows_1970-2010.ipynb",
+                    "path": "data_science/04/02.03-Changes_in_Rainy_River_Flows_1970-2010.ipynb",
+                    "size": 1.5842887680000002
+                },
+                {
+                    "name": "A.11-Global_Historical_Climatology_Network.ipynb",
+                    "path": "data_science/04/A.11-Global_Historical_Climatology_Network.ipynb",
+                    "size": 0.642589696
+                },
+                {
+                    "name": "04.01-Estimating_Rainy_Lake_Inflows_1971-2010.ipynb",
+                    "path": "data_science/04/04.01-Estimating_Rainy_Lake_Inflows_1971-2010.ipynb",
+                    "size": 1.6514478080000001
+                },
+                {
+                    "name": "05.03-Model_Predictive_Control.ipynb",
+                    "path": "data_science/04/05.03-Model_Predictive_Control.ipynb",
+                    "size": 1.1228416
+                },
+                {
+                    "name": "02.01-Namakan_and_Rainy_Lake_Water_Levels_1970-2010.ipynb",
+                    "path": "data_science/04/02.01-Namakan_and_Rainy_Lake_Water_Levels_1970-2010.ipynb",
+                    "size": 1.00598272
+                },
+                {
+                    "name": "02.05-State-of-Nature-Flows.ipynb",
+                    "path": "data_science/04/02.05-State-of-Nature-Flows.ipynb",
+                    "size": 2.573791232
+                },
+                {
+                    "name": "06.02-Freshet_Predictor_for_Rainy_Lake.ipynb",
+                    "path": "data_science/04/06.02-Freshet_Predictor_for_Rainy_Lake.ipynb",
+                    "size": 3.10181376
+                },
+                {
+                    "name": "A.01-Water_Survey_of_Canada_HYDAT_Database.ipynb",
+                    "path": "data_science/04/A.01-Water_Survey_of_Canada_HYDAT_Database.ipynb",
+                    "size": 0.041060352
+                },
+                {
+                    "name": "A.04-Namakan_Lake_Water_Levels.ipynb",
+                    "path": "data_science/04/A.04-Namakan_Lake_Water_Levels.ipynb",
+                    "size": 0.367286272
+                },
+                {
+                    "name": "A.08-Stage-Volume_Relationships.ipynb",
+                    "path": "data_science/04/A.08-Stage-Volume_Relationships.ipynb",
+                    "size": 0.198777856
+                },
+                {
+                    "name": "02.00-Challenge_of_Controlling_Natural_Watersheds.ipynb",
+                    "path": "data_science/04/02.00-Challenge_of_Controlling_Natural_Watersheds.ipynb",
+                    "size": 0.0033116160000000003
+                },
+                {
+                    "name": "A.13-ENSO.ipynb",
+                    "path": "data_science/04/A.13-ENSO.ipynb",
+                    "size": 0.041457664000000005
+                },
+                {
+                    "name": "B.00-Projects.ipynb",
+                    "path": "data_science/04/B.00-Projects.ipynb",
+                    "size": 0.0041338880000000005
+                },
+                {
+                    "name": "A.03-Rainy_Lake_Water_Levels.ipynb",
+                    "path": "data_science/04/A.03-Rainy_Lake_Water_Levels.ipynb",
+                    "size": 1.261021184
+                },
+                {
+                    "name": "03.02-Imputing_the_Effect_of_the_2000_Rule_Curve_Changes_on_Rainy_River.ipynb",
+                    "path": "data_science/04/03.02-Imputing_the_Effect_of_the_2000_Rule_Curve_Changes_on_Rainy_River.ipynb",
+                    "size": 0.45204172800000003
+                },
+                {
+                    "name": "B.01-Solar_Cycle.ipynb",
+                    "path": "data_science/04/B.01-Solar_Cycle.ipynb",
+                    "size": 0.521167872
+                },
+                {
+                    "name": "B.02-Dashboard.ipynb",
+                    "path": "data_science/04/B.02-Dashboard.ipynb",
+                    "size": 0.129339392
+                },
+                {
+                    "name": "A.02-Water_Survey_of_Canada_Usage.ipynb",
+                    "path": "data_science/04/A.02-Water_Survey_of_Canada_Usage.ipynb",
+                    "size": 0.5732218880000001
+                },
+                {
+                    "name": "03.01-Feasibility_of_Rainy_Lake_Rule_Curves.ipynb",
+                    "path": "data_science/04/03.01-Feasibility_of_Rainy_Lake_Rule_Curves.ipynb",
+                    "size": 0.804989952
+                },
+                {
+                    "name": "A.12-Precipitation_at_International_Falls_1970-2010.ipynb",
+                    "path": "data_science/04/A.12-Precipitation_at_International_Falls_1970-2010.ipynb",
+                    "size": 0.32348672
+                },
+                {
+                    "name": "03.00-Analysis_and_Design_of_Rule_Curves.ipynb",
+                    "path": "data_science/04/03.00-Analysis_and_Design_of_Rule_Curves.ipynb",
+                    "size": 0.0032655360000000003
+                },
+                {
+                    "name": "toc.ipynb",
+                    "path": "data_science/04/toc.ipynb",
+                    "size": 0.057491456
+                },
+                {
+                    "name": "05.01-Lumped_Parameter_Model_for_Lake_Dynamics.ipynb",
+                    "path": "data_science/04/05.01-Lumped_Parameter_Model_for_Lake_Dynamics.ipynb",
+                    "size": 0.179570688
+                },
+                {
+                    "name": "A.06-Namakan_Lake_Outflows.ipynb",
+                    "path": "data_science/04/A.06-Namakan_Lake_Outflows.ipynb",
+                    "size": 0.581312512
+                },
+                {
+                    "name": "index.ipynb",
+                    "path": "data_science/04/index.ipynb",
+                    "size": 0.000254976
+                },
+                {
+                    "name": "03.04-Harmonizing_Rule_Curves_to_Seasonal_Inflows.ipynb",
+                    "path": "data_science/04/03.04-Harmonizing_Rule_Curves_to_Seasonal_Inflows.ipynb",
+                    "size": 0.18499379200000002
+                },
+                {
+                    "name": "A.07-USGS_Surface_Water_Daily_Data.ipynb",
+                    "path": "data_science/04/A.07-USGS_Surface_Water_Daily_Data.ipynb",
+                    "size": 5.4039736320000005
+                },
+                {
+                    "name": "A.00-Data_Sources.ipynb",
+                    "path": "data_science/04/A.00-Data_Sources.ipynb",
+                    "size": 0.0031918080000000004
+                },
+                {
+                    "name": "A.05-Rainy_River_Flows.ipynb",
+                    "path": "data_science/04/A.05-Rainy_River_Flows.ipynb",
+                    "size": 0.540355584
+                },
+                {
+                    "name": "01.00-Introduction.ipynb",
+                    "path": "data_science/04/01.00-Introduction.ipynb",
+                    "size": 0.0027453440000000003
+                },
+                {
+                    "name": "02.04-Flow_Constrictions_on_Upper_Rainy_River.ipynb",
+                    "path": "data_science/04/02.04-Flow_Constrictions_on_Upper_Rainy_River.ipynb",
+                    "size": 0.297404416
+                }
+            ],
+            "05": [
+                {
+                    "name": "T12 - 1 - R y Python.ipynb",
+                    "path": "data_science/05/T12 - 1 - R y Python.ipynb",
+                    "size": 1.192818688
+                },
+                {
+                    "name": "T8 - 3 - SVM - Kernels.ipynb",
+                    "path": "data_science/05/T8 - 3 - SVM - Kernels.ipynb",
+                    "size": 0.207200256
+                },
+                {
+                    "name": "T9 - 3 - Sistemas de recomendación.ipynb",
+                    "path": "data_science/05/T9 - 3 - Sistemas de recomendación.ipynb",
+                    "size": 0.059124736000000004
+                },
+                {
+                    "name": "T9 - 1 - K Nearest Neighbors.ipynb",
+                    "path": "data_science/05/T9 - 1 - K Nearest Neighbors.ipynb",
+                    "size": 0.024133632000000002
+                },
+                {
+                    "name": "T4 - 3 - Linear Regression - Validación del modelo.ipynb",
+                    "path": "data_science/05/T4 - 3 - Linear Regression - Validación del modelo.ipynb",
+                    "size": 0.135510016
+                },
+                {
+                    "name": "T4 - 2 - Linear Regression - Regresión lineal con statsmodel.ipynb",
+                    "path": "data_science/05/T4 - 2 - Linear Regression - Regresión lineal con statsmodel.ipynb",
+                    "size": 0.074431488
+                },
+                {
+                    "name": "050-Pandas-Intro.ipynb",
+                    "path": "data_science/05/050-Pandas-Intro.ipynb",
+                    "size": 0.232101888
+                },
+                {
+                    "name": "T5 - 3 - Logistic Regression - Implementación con Python.ipynb",
+                    "path": "data_science/05/T5 - 3 - Logistic Regression - Implementación con Python.ipynb",
+                    "size": 0.28018790400000004
+                },
+                {
+                    "name": "051-Pandas-Ejercicios.ipynb",
+                    "path": "data_science/05/051-Pandas-Ejercicios.ipynb",
+                    "size": 0.644851712
+                },
+                {
+                    "name": "T5 - 1 - Logistic Regression - Matemáticas.ipynb",
+                    "path": "data_science/05/T5 - 1 - Logistic Regression - Matemáticas.ipynb",
+                    "size": 0.025525248
+                },
+                {
+                    "name": "T2 - 3 - Data Cleaning - Agrupación de datos.ipynb",
+                    "path": "data_science/05/T2 - 3 - Data Cleaning - Agrupación de datos.ipynb",
+                    "size": 0.202269696
+                },
+                {
+                    "name": "T6 - 2 - Clustering Jerárquico.ipynb",
+                    "path": "data_science/05/T6 - 2 - Clustering Jerárquico.ipynb",
+                    "size": 0.294119424
+                },
+                {
+                    "name": "T1 - 3 - Data Cleaning - Plots.ipynb",
+                    "path": "data_science/05/T1 - 3 - Data Cleaning - Plots.ipynb",
+                    "size": 0.14291968000000002
+                },
+                {
+                    "name": "T10 - 2 - Analisis de Componentes Principales SK Learn.ipynb",
+                    "path": "data_science/05/T10 - 2 - Analisis de Componentes Principales SK Learn.ipynb",
+                    "size": 0.010676224000000002
+                },
+                {
+                    "name": "T9 - 2 - K Nearest Neighbors Implementation.ipynb",
+                    "path": "data_science/05/T9 - 2 - K Nearest Neighbors Implementation.ipynb",
+                    "size": 0.071417856
+                },
+                {
+                    "name": "T7 - 2 - Trees - Árboles de Regresión.ipynb",
+                    "path": "data_science/05/T7 - 2 - Trees - Árboles de Regresión.ipynb",
+                    "size": 0.07212544
+                },
+                {
+                    "name": "T6 - 5 - Método del codo y la silueta.ipynb",
+                    "path": "data_science/05/T6 - 5 - Método del codo y la silueta.ipynb",
+                    "size": 0.27010048000000003
+                },
+                {
+                    "name": "T6 - 4 - Clustering completo.ipynb",
+                    "path": "data_science/05/T6 - 4 - Clustering completo.ipynb",
+                    "size": 0.12062412800000001
+                },
+                {
+                    "name": "T2 - 1 - Data Cleaning - Data Wrangling.ipynb",
+                    "path": "data_science/05/T2 - 1 - Data Cleaning - Data Wrangling.ipynb",
+                    "size": 0.165149696
+                },
+                {
+                    "name": "T10 - 1 - Analisis de Componentes Principales.ipynb",
+                    "path": "data_science/05/T10 - 1 - Analisis de Componentes Principales.ipynb",
+                    "size": 0.033478656
+                },
+                {
+                    "name": "T8 - 6 - SVM - Regresión.ipynb",
+                    "path": "data_science/05/T8 - 6 - SVM - Regresión.ipynb",
+                    "size": 0.067132416
+                },
+                {
+                    "name": "T6 - 6 - Propagación de la afinidad.ipynb",
+                    "path": "data_science/05/T6 - 6 - Propagación de la afinidad.ipynb",
+                    "size": 0.197251072
+                },
+                {
+                    "name": "T6 - 1 - Distancias.ipynb",
+                    "path": "data_science/05/T6 - 1 - Distancias.ipynb",
+                    "size": 0.20408832000000002
+                },
+                {
+                    "name": "T11 - 3 - Reconocimiento de texto escrito.ipynb",
+                    "path": "data_science/05/T11 - 3 - Reconocimiento de texto escrito.ipynb",
+                    "size": 0.015686656
+                },
+                {
+                    "name": "T11 - 1 - TensorFlow101.ipynb",
+                    "path": "data_science/05/T11 - 1 - TensorFlow101.ipynb",
+                    "size": 0.0022599680000000002
+                },
+                {
+                    "name": "T6 - 7 - K Medoides.ipynb",
+                    "path": "data_science/05/T6 - 7 - K Medoides.ipynb",
+                    "size": 0.104556544
+                },
+                {
+                    "name": "T8 - 4 - SVM - Face Recognition.ipynb",
+                    "path": "data_science/05/T8 - 4 - SVM - Face Recognition.ipynb",
+                    "size": 0.6341713920000001
+                },
+                {
+                    "name": "T3 - 1 - Statistics - Correlación.ipynb",
+                    "path": "data_science/05/T3 - 1 - Statistics - Correlación.ipynb",
+                    "size": 0.068527104
+                },
+                {
+                    "name": "T6 - 3 - K-Means.ipynb",
+                    "path": "data_science/05/T6 - 3 - K-Means.ipynb",
+                    "size": 0.008128512000000001
+                },
+                {
+                    "name": "T8 - 5 - SVM - Clasificación de Iris.ipynb",
+                    "path": "data_science/05/T8 - 5 - SVM - Clasificación de Iris.ipynb",
+                    "size": 0.199061504
+                },
+                {
+                    "name": "T7 - 1 - Trees - Árboles de Decisión.ipynb",
+                    "path": "data_science/05/T7 - 1 - Trees - Árboles de Decisión.ipynb",
+                    "size": 0.047374336
+                },
+                {
+                    "name": "T2 - 4 - Data Cleaning - Concatenación de datos.ipynb",
+                    "path": "data_science/05/T2 - 4 - Data Cleaning - Concatenación de datos.ipynb",
+                    "size": 0.17394483200000002
+                },
+                {
+                    "name": "T10 - 3 - Plotly para dibujar.ipynb",
+                    "path": "data_science/05/T10 - 3 - Plotly para dibujar.ipynb",
+                    "size": 0.21130547200000002
+                },
+                {
+                    "name": "T4 - 1 - Linear Regression - Datos ficticios.ipynb",
+                    "path": "data_science/05/T4 - 1 - Linear Regression - Datos ficticios.ipynb",
+                    "size": 0.053504
+                },
+                {
+                    "name": "T4 - 5 - Linear Regression - Problemas con la regresión lineal.ipynb",
+                    "path": "data_science/05/T4 - 5 - Linear Regression - Problemas con la regresión lineal.ipynb",
+                    "size": 0.158487552
+                },
+                {
+                    "name": "T4 - 4 - Linear Regression - SciKit-Learn.ipynb",
+                    "path": "data_science/05/T4 - 4 - Linear Regression - SciKit-Learn.ipynb",
+                    "size": 0.004230144
+                },
+                {
+                    "name": "T1 - 1 - Data Cleaning - Carga de datos.ipynb",
+                    "path": "data_science/05/T1 - 1 - Data Cleaning - Carga de datos.ipynb",
+                    "size": 0.048581632
+                },
+                {
+                    "name": "T8 - 2 - SVM - Model.ipynb",
+                    "path": "data_science/05/T8 - 2 - SVM - Model.ipynb",
+                    "size": 0.187689984
+                },
+                {
+                    "name": "T5 - 2 - Logistic Regression - Implementación.ipynb",
+                    "path": "data_science/05/T5 - 2 - Logistic Regression - Implementación.ipynb",
+                    "size": 0.019827712
+                },
+                {
+                    "name": "T1 - 2 - Data Cleaning - Análisis Preliminar de los Datos.ipynb",
+                    "path": "data_science/05/T1 - 2 - Data Cleaning - Análisis Preliminar de los Datos.ipynb",
+                    "size": 0.209855488
+                },
+                {
+                    "name": "T2 - 2 - Data Cleaning - Funciones de distribución de probabilidad.ipynb",
+                    "path": "data_science/05/T2 - 2 - Data Cleaning - Funciones de distribución de probabilidad.ipynb",
+                    "size": 0.14314700800000002
+                },
+                {
+                    "name": "T11 - 2 - Señales de tráfico.ipynb",
+                    "path": "data_science/05/T11 - 2 - Señales de tráfico.ipynb",
+                    "size": 1.6137308160000001
+                },
+                {
+                    "name": "T8 - 1 - SVM - Linear SVC.ipynb",
+                    "path": "data_science/05/T8 - 1 - SVM - Linear SVC.ipynb",
+                    "size": 0.027595776000000002
+                },
+                {
+                    "name": "COVID-19.ipynb",
+                    "path": "data_science/05/COVID-19.ipynb",
+                    "size": 0.114957312
+                }
+            ],
+            "06": [
+                {
+                    "name": "05.00-Logistics.ipynb",
+                    "path": "data_science/06/05.00-Logistics.ipynb",
+                    "size": 0.0033239040000000004
+                },
+                {
+                    "name": "07.08-Log-Optimal-Growth-and-the-Kelly-Criterion.ipynb",
+                    "path": "data_science/06/07.08-Log-Optimal-Growth-and-the-Kelly-Criterion.ipynb",
+                    "size": 0.15981260800000002
+                },
+                {
+                    "name": "02.02-Queuing-Systems.ipynb",
+                    "path": "data_science/06/02.02-Queuing-Systems.ipynb",
+                    "size": 0.25448960000000004
+                },
+                {
+                    "name": "05.04-Vehicle-Routing-with-Time-Windows.ipynb",
+                    "path": "data_science/06/05.04-Vehicle-Routing-with-Time-Windows.ipynb",
+                    "size": 0.020400128
+                },
+                {
+                    "name": "04.06-Scheduling-Multipurpose-Batch-Processes-using-State-Task-Networks.ipynb",
+                    "path": "data_science/06/04.06-Scheduling-Multipurpose-Batch-Processes-using-State-Task-Networks.ipynb",
+                    "size": 0.107987968
+                },
+                {
+                    "name": "02.04-Discrete-Event-Simulation-of-a-Batch-Process.ipynb",
+                    "path": "data_science/06/02.04-Discrete-Event-Simulation-of-a-Batch-Process.ipynb",
+                    "size": 0.042756096
+                },
+                {
+                    "name": "07.03-Binomial-Model-for-Pricing-Options.ipynb",
+                    "path": "data_science/06/07.03-Binomial-Model-for-Pricing-Options.ipynb",
+                    "size": 1.101089792
+                },
+                {
+                    "name": "07.05-Portfolio-Optimization.ipynb",
+                    "path": "data_science/06/07.05-Portfolio-Optimization.ipynb",
+                    "size": 1.8666977280000001
+                },
+                {
+                    "name": "05.06-Pickup-and-Delivery.ipynb",
+                    "path": "data_science/06/05.06-Pickup-and-Delivery.ipynb",
+                    "size": 0.015679488000000002
+                },
+                {
+                    "name": "01.02-Getting-Started-with-Gurobi.ipynb",
+                    "path": "data_science/06/01.02-Getting-Started-with-Gurobi.ipynb",
+                    "size": 0.011196416
+                },
+                {
+                    "name": "01.04-Getting-Started-with-Pandas.ipynb",
+                    "path": "data_science/06/01.04-Getting-Started-with-Pandas.ipynb",
+                    "size": 1.0511810560000001
+                },
+                {
+                    "name": "06.04-Risk-Averse-Gambler.ipynb",
+                    "path": "data_science/06/06.04-Risk-Averse-Gambler.ipynb",
+                    "size": 0.014962688000000002
+                },
+                {
+                    "name": "06.03-Risk-Neutral-Gambler.ipynb",
+                    "path": "data_science/06/06.03-Risk-Neutral-Gambler.ipynb",
+                    "size": 0.029856768000000002
+                },
+                {
+                    "name": "02.00-Simulation-of-Discrete-Event-Systems.ipynb",
+                    "path": "data_science/06/02.00-Simulation-of-Discrete-Event-Systems.ipynb",
+                    "size": 0.003320832
+                },
+                {
+                    "name": "05.03-Vehicle-Routing.ipynb",
+                    "path": "data_science/06/05.03-Vehicle-Routing.ipynb",
+                    "size": 0.012359680000000001
+                },
+                {
+                    "name": "04.01-Critical-Path-Method.ipynb",
+                    "path": "data_science/06/04.01-Critical-Path-Method.ipynb",
+                    "size": 0.033516544
+                },
+                {
+                    "name": "02.03-Emergency_Room_Simulation.ipynb",
+                    "path": "data_science/06/02.03-Emergency_Room_Simulation.ipynb",
+                    "size": 0.16812032000000002
+                },
+                {
+                    "name": "02.05-Extracting_Information_from_Discrete-Event_Simulations.ipynb",
+                    "path": "data_science/06/02.05-Extracting_Information_from_Discrete-Event_Simulations.ipynb",
+                    "size": 0.12524236800000002
+                },
+                {
+                    "name": "05.05-Traveling-Salesman-Problem-with-Time-Windows.ipynb",
+                    "path": "data_science/06/05.05-Traveling-Salesman-Problem-with-Time-Windows.ipynb",
+                    "size": 0.012722176
+                },
+                {
+                    "name": "05.01-Economic-Order-Quantity.ipynb",
+                    "path": "data_science/06/05.01-Economic-Order-Quantity.ipynb",
+                    "size": 0.10247270400000001
+                },
+                {
+                    "name": "02.01-Getting-Started-with-SimPy.ipynb",
+                    "path": "data_science/06/02.01-Getting-Started-with-SimPy.ipynb",
+                    "size": 0.017568768000000002
+                },
+                {
+                    "name": "07.00-Risk-and-Diversification.ipynb",
+                    "path": "data_science/06/07.00-Risk-and-Diversification.ipynb",
+                    "size": 0.003222528
+                },
+                {
+                    "name": "06.01-Newsvendor-Problem.ipynb",
+                    "path": "data_science/06/06.01-Newsvendor-Problem.ipynb",
+                    "size": 0.037041152
+                },
+                {
+                    "name": "08.00-Optimization-in-Google-Sheets.ipynb",
+                    "path": "data_science/06/08.00-Optimization-in-Google-Sheets.ipynb",
+                    "size": 0.004842496
+                },
+                {
+                    "name": "02.09-Continuous-Time-Simulation-in-SimPy.ipynb",
+                    "path": "data_science/06/02.09-Continuous-Time-Simulation-in-SimPy.ipynb",
+                    "size": 0.03926528
+                },
+                {
+                    "name": "05.07-Stock-Cutting.ipynb",
+                    "path": "data_science/06/05.07-Stock-Cutting.ipynb",
+                    "size": 0.022057984000000003
+                },
+                {
+                    "name": "04.04-Jesuit-Volunteer-Corps.ipynb",
+                    "path": "data_science/06/04.04-Jesuit-Volunteer-Corps.ipynb",
+                    "size": 0.015978496000000002
+                },
+                {
+                    "name": "04.02-Machine-Bottleneck.ipynb",
+                    "path": "data_science/06/04.02-Machine-Bottleneck.ipynb",
+                    "size": 0.076772352
+                },
+                {
+                    "name": "02.06-Spankys-Pizzeria.ipynb",
+                    "path": "data_science/06/02.06-Spankys-Pizzeria.ipynb",
+                    "size": 0.07564902400000001
+                },
+                {
+                    "name": "04.00-Scheduling.ipynb",
+                    "path": "data_science/06/04.00-Scheduling.ipynb",
+                    "size": 0.00311808
+                },
+                {
+                    "name": "01.03-Getting-Started-with-GNU-MathProg.ipynb",
+                    "path": "data_science/06/01.03-Getting-Started-with-GNU-MathProg.ipynb",
+                    "size": 0.249629696
+                },
+                {
+                    "name": "07.02-Geometric-Brownian-Motion.ipynb",
+                    "path": "data_science/06/07.02-Geometric-Brownian-Motion.ipynb",
+                    "size": 0.327474176
+                },
+                {
+                    "name": "06.00-Optimization-under-Uncertainty.ipynb",
+                    "path": "data_science/06/06.00-Optimization-under-Uncertainty.ipynb",
+                    "size": 0.003197952
+                },
+                {
+                    "name": "07.04-Real-Options.ipynb",
+                    "path": "data_science/06/07.04-Real-Options.ipynb",
+                    "size": 1.09590528
+                },
+                {
+                    "name": "06.05-Points-after-Touchdown-Decision.ipynb",
+                    "path": "data_science/06/06.05-Points-after-Touchdown-Decision.ipynb",
+                    "size": 0.12407193600000001
+                },
+                {
+                    "name": "03.02-Transportation-Networks.ipynb",
+                    "path": "data_science/06/03.02-Transportation-Networks.ipynb",
+                    "size": 0.019922944
+                },
+                {
+                    "name": "06.02-Scenario-Analysis-for-a-Plant-Expansion.ipynb",
+                    "path": "data_science/06/06.02-Scenario-Analysis-for-a-Plant-Expansion.ipynb",
+                    "size": 0.010391552
+                },
+                {
+                    "name": "05.02-Assignment-Problems.ipynb",
+                    "path": "data_science/06/05.02-Assignment-Problems.ipynb",
+                    "size": 0.108425216
+                },
+                {
+                    "name": "02.10-Decentralized-Control-in-a-Supply-Chain.ipynb",
+                    "path": "data_science/06/02.10-Decentralized-Control-in-a-Supply-Chain.ipynb",
+                    "size": 0.068861952
+                },
+                {
+                    "name": "01.00-Getting-Started-Guides.ipynb",
+                    "path": "data_science/06/01.00-Getting-Started-Guides.ipynb",
+                    "size": 0.00293376
+                },
+                {
+                    "name": "toc.ipynb",
+                    "path": "data_science/06/toc.ipynb",
+                    "size": 0.080980992
+                },
+                {
+                    "name": "02.08-Geometric-Brownian-Price-Process.ipynb",
+                    "path": "data_science/06/02.08-Geometric-Brownian-Price-Process.ipynb",
+                    "size": 0.08028672
+                },
+                {
+                    "name": "07.01-Measuring-Return.ipynb",
+                    "path": "data_science/06/07.01-Measuring-Return.ipynb",
+                    "size": 0.496671744
+                },
+                {
+                    "name": "01.01-Getting-Started-with-CVXPY.ipynb",
+                    "path": "data_science/06/01.01-Getting-Started-with-CVXPY.ipynb",
+                    "size": 0.10237747200000001
+                },
+                {
+                    "name": "02.07-Warehouse-Fulfillment-Operations.ipynb",
+                    "path": "data_science/06/02.07-Warehouse-Fulfillment-Operations.ipynb",
+                    "size": 0.19873689600000002
+                },
+                {
+                    "name": "03.00-Linear-Optimization.ipynb",
+                    "path": "data_science/06/03.00-Linear-Optimization.ipynb",
+                    "size": 0.003303424
+                },
+                {
+                    "name": "09.00-Student-Projects.ipynb",
+                    "path": "data_science/06/09.00-Student-Projects.ipynb",
+                    "size": 0.002857984
+                },
+                {
+                    "name": "07.06-Portfolio-Optimization-using-Mean-Absolute-Deviation.ipynb",
+                    "path": "data_science/06/07.06-Portfolio-Optimization-using-Mean-Absolute-Deviation.ipynb",
+                    "size": 0.021368832
+                },
+                {
+                    "name": "04.03-Job-Shop-Scheduling.ipynb",
+                    "path": "data_science/06/04.03-Job-Shop-Scheduling.ipynb",
+                    "size": 0.597066752
+                },
+                {
+                    "name": "index.ipynb",
+                    "path": "data_science/06/index.ipynb",
+                    "size": 0.00020992000000000002
+                },
+                {
+                    "name": "07.09-Log-Optimal-Portfolios.ipynb",
+                    "path": "data_science/06/07.09-Log-Optimal-Portfolios.ipynb",
+                    "size": 0.304480256
+                },
+                {
+                    "name": "07.07-MAD-Portfolio-Optimization.ipynb",
+                    "path": "data_science/06/07.07-MAD-Portfolio-Optimization.ipynb",
+                    "size": 0.547909632
+                },
+                {
+                    "name": "04.05-Unit-Commitment.ipynb",
+                    "path": "data_science/06/04.05-Unit-Commitment.ipynb",
+                    "size": 0.14322073600000002
+                },
+                {
+                    "name": "03.01-Production-Models-with-Constraints.ipynb",
+                    "path": "data_science/06/03.01-Production-Models-with-Constraints.ipynb",
+                    "size": 0.083101696
+                },
+                {
+                    "name": "03.03-Data-Reconciliation.ipynb",
+                    "path": "data_science/06/03.03-Data-Reconciliation.ipynb",
+                    "size": 0.030424064
+                }
+            ],
+            "07": [
+                {
+                    "name": "Jesuit Volunteer Corps.ipynb",
+                    "path": "data_science/07/Jesuit Volunteer Corps.ipynb",
+                    "size": 0.023062528000000002
+                },
+                {
+                    "name": "Log-optimal Growth and the Kelly Criterion.ipynb",
+                    "path": "data_science/07/Log-optimal Growth and the Kelly Criterion.ipynb",
+                    "size": 0.38696038400000005
+                },
+                {
+                    "name": "Machine Shop Throughput.ipynb",
+                    "path": "data_science/07/Machine Shop Throughput.ipynb",
+                    "size": 0.00525312
+                },
+                {
+                    "name": "PuLP Demo.ipynb",
+                    "path": "data_science/07/PuLP Demo.ipynb",
+                    "size": 0.031204352
+                },
+                {
+                    "name": "Warehouse Fulfillment Operations.ipynb",
+                    "path": "data_science/07/Warehouse Fulfillment Operations.ipynb",
+                    "size": 0.262541312
+                },
+                {
+                    "name": "LP Problems in Development.ipynb",
+                    "path": "data_science/07/LP Problems in Development.ipynb",
+                    "size": 0.041684992000000004
+                },
+                {
+                    "name": "Optimal Mixture and Blending Problems.ipynb",
+                    "path": "data_science/07/Optimal Mixture and Blending Problems.ipynb",
+                    "size": 0.076544
+                },
+                {
+                    "name": "Landhills Winery.ipynb",
+                    "path": "data_science/07/Landhills Winery.ipynb",
+                    "size": 0.005078016
+                },
+                {
+                    "name": "Portfolio Optimization using Mean Absolute Deviation.ipynb",
+                    "path": "data_science/07/Portfolio Optimization using Mean Absolute Deviation.ipynb",
+                    "size": 0.026240000000000003
+                },
+                {
+                    "name": "Energy ETF's.ipynb",
+                    "path": "data_science/07/Energy ETF's.ipynb",
+                    "size": 0.220865536
+                },
+                {
+                    "name": "FernandoDemo.ipynb",
+                    "path": "data_science/07/FernandoDemo.ipynb",
+                    "size": 0.0017633280000000002
+                },
+                {
+                    "name": "Machine Bottleneck.ipynb",
+                    "path": "data_science/07/Machine Bottleneck.ipynb",
+                    "size": 0.016776192000000002
+                },
+                {
+                    "name": "Newsvendor Problem.ipynb",
+                    "path": "data_science/07/Newsvendor Problem.ipynb",
+                    "size": 0.051032064
+                },
+                {
+                    "name": "Inventory Management.ipynb",
+                    "path": "data_science/07/Inventory Management.ipynb",
+                    "size": 0.051130368
+                },
+                {
+                    "name": "Stochastic Price Models.ipynb",
+                    "path": "data_science/07/Stochastic Price Models.ipynb",
+                    "size": 0.7166074880000001
+                },
+                {
+                    "name": "Transportation Networks.ipynb",
+                    "path": "data_science/07/Transportation Networks.ipynb",
+                    "size": 0.034902016
+                },
+                {
+                    "name": "Getting Started with GNU MathProg.ipynb",
+                    "path": "data_science/07/Getting Started with GNU MathProg.ipynb",
+                    "size": 0.039154688
+                },
+                {
+                    "name": "Assignment Problems.ipynb",
+                    "path": "data_science/07/Assignment Problems.ipynb",
+                    "size": 0.11564134400000001
+                },
+                {
+                    "name": "Production Models with Constraints.ipynb",
+                    "path": "data_science/07/Production Models with Constraints.ipynb",
+                    "size": 0.07303168
+                },
+                {
+                    "name": "Getting Started with Discrete Event Simulation.ipynb",
+                    "path": "data_science/07/Getting Started with Discrete Event Simulation.ipynb",
+                    "size": 0.024200192000000002
+                },
+                {
+                    "name": "Getting Started with IPython.ipynb",
+                    "path": "data_science/07/Getting Started with IPython.ipynb",
+                    "size": 0.11355545600000001
+                },
+                {
+                    "name": "Case Study - Landhills Winery.ipynb",
+                    "path": "data_science/07/Case Study - Landhills Winery.ipynb",
+                    "size": 0.033314816000000004
+                }
+            ]
         },
-        "02": {
-            "Additional Examples of the Python Control Systems Library.ipynb": "notebooks/Engineering/02/Additional Examples of the Python Control Systems Library.ipynb",
-            "Adiabatic Flame Temperature.ipynb": "notebooks/Engineering/02/Adiabatic Flame Temperature.ipynb",
-            "Adipic Acid Flowsheet.ipynb": "notebooks/Engineering/02/Adipic Acid Flowsheet.ipynb",
-            "Ajka Alumina Plant Spill.ipynb": "notebooks/Engineering/02/Ajka Alumina Plant Spill.ipynb",
-            "Antoine.ipynb": "notebooks/Engineering/02/Antoine.ipynb",
-            "Balancing Reactions.ipynb": "notebooks/Engineering/02/Balancing Reactions.ipynb",
-            "Binary Distillation with McCabe-Thiele.ipynb": "notebooks/Engineering/02/Binary Distillation with McCabe-Thiele.ipynb",
-            "Binary_Phase_Diagrams_for_Ideal_Mixtures.ipynb": "notebooks/Engineering/02/Binary_Phase_Diagrams_for_Ideal_Mixtures.ipynb",
-            "Bubble and Dew Point Calculations for Binary Mixtures.ipynb": "notebooks/Engineering/02/Bubble and Dew Point Calculations for Binary Mixtures.ipynb",
-            "Bubble and Dew Point Calculations for Multicomponent Mixtures.ipynb": "notebooks/Engineering/02/Bubble and Dew Point Calculations for Multicomponent Mixtures.ipynb",
-            "Bubble_and_Dew_Points_for_Binary_Mixtures.ipynb": "notebooks/Engineering/02/Bubble_and_Dew_Points_for_Binary_Mixtures.ipynb",
-            "Bubble_and_Dew_Points_for_Multicomponent_Mixtures.ipynb": "notebooks/Engineering/02/Bubble_and_Dew_Points_for_Multicomponent_Mixtures.ipynb",
-            "CO2 Production by Automobiles.ipynb": "notebooks/Engineering/02/CO2 Production by Automobiles.ipynb",
-            "CSTR.ipynb": "notebooks/Engineering/02/CSTR.ipynb",
-            "Closed-Loop Transfer Functions for Car Cruise Control.ipynb": "notebooks/Engineering/02/Closed-Loop Transfer Functions for Car Cruise Control.ipynb",
-            "Controller Tuning Rules in Frequency Domain.ipynb": "notebooks/Engineering/02/Controller Tuning Rules in Frequency Domain.ipynb",
-            "Creating Bode Plots.ipynb": "notebooks/Engineering/02/Creating Bode Plots.ipynb",
-            "Dehydrogenation_of_Propane.ipynb": "notebooks/Engineering/02/Dehydrogenation_of_Propane.ipynb",
-            "Diesel Engine Emissions Control.ipynb": "notebooks/Engineering/02/Diesel Engine Emissions Control.ipynb",
-            "Energy Balances for a Steam Turbine Flowsheet.ipynb": "notebooks/Engineering/02/Energy Balances for a Steam Turbine Flowsheet.ipynb",
-            "Ethylene Oxide Flowsheet.ipynb": "notebooks/Engineering/02/Ethylene Oxide Flowsheet.ipynb",
-            "Exothermic CSTR.ipynb": "notebooks/Engineering/02/Exothermic CSTR.ipynb",
-            "Fitting a Linear Model to the Step Response of a Gravity Drained Tank.ipynb": "notebooks/Engineering/02/Fitting a Linear Model to the Step Response of a Gravity Drained Tank.ipynb",
-            "Flameless Cooking.ipynb": "notebooks/Engineering/02/Flameless Cooking.ipynb",
-            "Gases_with_One_Condensable_Component.ipynb": "notebooks/Engineering/02/Gases_with_One_Condensable_Component.ipynb",
-            "General Mass Balance on a Single Tank.ipynb": "notebooks/Engineering/02/General Mass Balance on a Single Tank.ipynb",
-            "Generation_Consumption_Analysis_for_Ammonia_Production.ipynb": "notebooks/Engineering/02/Generation_Consumption_Analysis_for_Ammonia_Production.ipynb",
-            "Getting Started with Transfer Functions.ipynb": "notebooks/Engineering/02/Getting Started with Transfer Functions.ipynb",
-            "Getting_Started_with_Jupyter_Notebooks_and_Python.ipynb": "notebooks/Engineering/02/Getting_Started_with_Jupyter_Notebooks_and_Python.ipynb",
-            "Global CO2 Budget.ipynb": "notebooks/Engineering/02/Global CO2 Budget.ipynb",
-            "Global_CO2_Budget.ipynb": "notebooks/Engineering/02/Global_CO2_Budget.ipynb",
-            "Humidity and Psychrometrics.ipynb": "notebooks/Engineering/02/Humidity and Psychrometrics.ipynb",
-            "Hydrogen_Storage_for_a_Fuel_Cell_Vehicle.ipynb": "notebooks/Engineering/02/Hydrogen_Storage_for_a_Fuel_Cell_Vehicle.ipynb",
-            "Interacting Tanks.ipynb": "notebooks/Engineering/02/Interacting Tanks.ipynb",
-            "Interactive PID Control Tuning with  Ziegler-Nichols.ipynb": "notebooks/Engineering/02/Interactive PID Control Tuning with  Ziegler-Nichols.ipynb",
-            "Isothermal_Flash_and_the_Rachford-Rice_Equation.ipynb": "notebooks/Engineering/02/Isothermal_Flash_and_the_Rachford-Rice_Equation.ipynb",
-            "Lean NOx Trap.ipynb": "notebooks/Engineering/02/Lean NOx Trap.ipynb",
-            "Operating_Limits_for_a_Methanol_Lighter.ipynb": "notebooks/Engineering/02/Operating_Limits_for_a_Methanol_Lighter.ipynb",
-            "PVT_Calculations_for_Non-Ideal_Gases.ipynb": "notebooks/Engineering/02/PVT_Calculations_for_Non-Ideal_Gases.ipynb",
-            "Pyrotechnic Design for Airbags.ipynb": "notebooks/Engineering/02/Pyrotechnic Design for Airbags.ipynb",
-            "Raoult's Law.ipynb": "notebooks/Engineering/02/Raoult's Law.ipynb",
-            "Raoult's_Law_for_Ideal_Mixtures.ipynb": "notebooks/Engineering/02/Raoult's_Law_for_Ideal_Mixtures.ipynb",
-            "Second_Order_Models.ipynb": "notebooks/Engineering/02/Second_Order_Models.ipynb",
-            "Separating_Milk.ipynb": "notebooks/Engineering/02/Separating_Milk.ipynb",
-            "Solving_Linear_Equations_with_Sympy.ipynb": "notebooks/Engineering/02/Solving_Linear_Equations_with_Sympy.ipynb",
-            "Steam Reforming of Methane.ipynb": "notebooks/Engineering/02/Steam Reforming of Methane.ipynb",
-            "Torpedo Propulsion.ipynb": "notebooks/Engineering/02/Torpedo Propulsion.ipynb",
-            "Txy and xy Diagrams for Binary Mixtures.ipynb": "notebooks/Engineering/02/Txy and xy Diagrams for Binary Mixtures.ipynb",
-            "Units and Conversions - Home Heating Example.ipynb": "notebooks/Engineering/02/Units and Conversions - Home Heating Example.ipynb",
-            "Units_and_Conversions_for_Home_Heating.ipynb": "notebooks/Engineering/02/Units_and_Conversions_for_Home_Heating.ipynb",
-            "Units_and_Engineering_Calculations.ipynb": "notebooks/Engineering/02/Units_and_Engineering_Calculations.ipynb",
-            "Unsteady-State Material Balances.ipynb": "notebooks/Engineering/02/Unsteady-State Material Balances.ipynb",
-            "Vapor-Liquid Equilibrium for a Pure Component.ipynb": "notebooks/Engineering/02/Vapor-Liquid Equilibrium for a Pure Component.ipynb",
-            "Vapor-Liquid_Equilibrium_for_Pure_Components.ipynb": "notebooks/Engineering/02/Vapor-Liquid_Equilibrium_for_Pure_Components.ipynb",
-            "West Virginia Chemical Spill.ipynb": "notebooks/Engineering/02/West Virginia Chemical Spill.ipynb"
+        "engineering": {
+            "01": [
+                {
+                    "name": "15_Step_11.ipynb",
+                    "path": "engineering/01/15_Step_11.ipynb",
+                    "size": 0.16767795200000002
+                },
+                {
+                    "name": "16_Step_12.ipynb",
+                    "path": "engineering/01/16_Step_12.ipynb",
+                    "size": 0.224324608
+                },
+                {
+                    "name": "02_Step_2.ipynb",
+                    "path": "engineering/01/02_Step_2.ipynb",
+                    "size": 0.020308992
+                },
+                {
+                    "name": "08_Step_6.ipynb",
+                    "path": "engineering/01/08_Step_6.ipynb",
+                    "size": 0.53712896
+                },
+                {
+                    "name": "14_Optimizing_Loops_with_Numba.ipynb",
+                    "path": "engineering/01/14_Optimizing_Loops_with_Numba.ipynb",
+                    "size": 0.017405952000000002
+                },
+                {
+                    "name": "04_Step_3.ipynb",
+                    "path": "engineering/01/04_Step_3.ipynb",
+                    "size": 0.031941632000000005
+                },
+                {
+                    "name": "13_Step_10.ipynb",
+                    "path": "engineering/01/13_Step_10.ipynb",
+                    "size": 0.09307136
+                },
+                {
+                    "name": "09_Step_7.ipynb",
+                    "path": "engineering/01/09_Step_7.ipynb",
+                    "size": 0.22995456
+                },
+                {
+                    "name": "01_Step_1.ipynb",
+                    "path": "engineering/01/01_Step_1.ipynb",
+                    "size": 0.06849740800000001
+                },
+                {
+                    "name": "12_Step_9.ipynb",
+                    "path": "engineering/01/12_Step_9.ipynb",
+                    "size": 0.168218624
+                },
+                {
+                    "name": "06_Array_Operations_with_NumPy.ipynb",
+                    "path": "engineering/01/06_Array_Operations_with_NumPy.ipynb",
+                    "size": 0.011851776000000001
+                },
+                {
+                    "name": "05_Step_4.ipynb",
+                    "path": "engineering/01/05_Step_4.ipynb",
+                    "size": 0.070406144
+                },
+                {
+                    "name": "10_Step_8.ipynb",
+                    "path": "engineering/01/10_Step_8.ipynb",
+                    "size": 0.316184576
+                },
+                {
+                    "name": "18_Burgers_equation.ipynb",
+                    "path": "engineering/01/18_Burgers_equation.ipynb",
+                    "size": 7.1485890560000005
+                },
+                {
+                    "name": "11_Defining_Function_in_Python.ipynb",
+                    "path": "engineering/01/11_Defining_Function_in_Python.ipynb",
+                    "size": 0.010903552
+                },
+                {
+                    "name": "07_Step_5.ipynb",
+                    "path": "engineering/01/07_Step_5.ipynb",
+                    "size": 0.27967488
+                },
+                {
+                    "name": "00_Quick_Python_Intro.ipynb",
+                    "path": "engineering/01/00_Quick_Python_Intro.ipynb",
+                    "size": 0.024737792
+                },
+                {
+                    "name": "19_Odd_Even_Decoupling.ipynb",
+                    "path": "engineering/01/19_Odd_Even_Decoupling.ipynb",
+                    "size": 0.26021888000000004
+                },
+                {
+                    "name": "03_CFL_Condition.ipynb",
+                    "path": "engineering/01/03_CFL_Condition.ipynb",
+                    "size": 0.11049164800000001
+                }
+            ],
+            "02": [
+                {
+                    "name": "Raoult's Law.ipynb",
+                    "path": "engineering/02/Raoult's Law.ipynb",
+                    "size": 0.207055872
+                },
+                {
+                    "name": "Dehydrogenation_of_Propane.ipynb",
+                    "path": "engineering/02/Dehydrogenation_of_Propane.ipynb",
+                    "size": 0.0058664960000000006
+                },
+                {
+                    "name": "Isothermal_Flash_and_the_Rachford-Rice_Equation.ipynb",
+                    "path": "engineering/02/Isothermal_Flash_and_the_Rachford-Rice_Equation.ipynb",
+                    "size": 0.071621632
+                },
+                {
+                    "name": "Bubble and Dew Point Calculations for Multicomponent Mixtures.ipynb",
+                    "path": "engineering/02/Bubble and Dew Point Calculations for Multicomponent Mixtures.ipynb",
+                    "size": 0.038602752000000004
+                },
+                {
+                    "name": "Fitting a Linear Model to the Step Response of a Gravity Drained Tank.ipynb",
+                    "path": "engineering/02/Fitting a Linear Model to the Step Response of a Gravity Drained Tank.ipynb",
+                    "size": 0.042443776
+                },
+                {
+                    "name": "Units_and_Engineering_Calculations.ipynb",
+                    "path": "engineering/02/Units_and_Engineering_Calculations.ipynb",
+                    "size": 0.029565952000000003
+                },
+                {
+                    "name": "Interacting Tanks.ipynb",
+                    "path": "engineering/02/Interacting Tanks.ipynb",
+                    "size": 0.030572544000000004
+                },
+                {
+                    "name": "Torpedo Propulsion.ipynb",
+                    "path": "engineering/02/Torpedo Propulsion.ipynb",
+                    "size": 0.047417344
+                },
+                {
+                    "name": "Hydrogen_Storage_for_a_Fuel_Cell_Vehicle.ipynb",
+                    "path": "engineering/02/Hydrogen_Storage_for_a_Fuel_Cell_Vehicle.ipynb",
+                    "size": 0.06568038400000001
+                },
+                {
+                    "name": "Ajka Alumina Plant Spill.ipynb",
+                    "path": "engineering/02/Ajka Alumina Plant Spill.ipynb",
+                    "size": 0.0483584
+                },
+                {
+                    "name": "Raoult's_Law_for_Ideal_Mixtures.ipynb",
+                    "path": "engineering/02/Raoult's_Law_for_Ideal_Mixtures.ipynb",
+                    "size": 0.12498534400000001
+                },
+                {
+                    "name": "Diesel Engine Emissions Control.ipynb",
+                    "path": "engineering/02/Diesel Engine Emissions Control.ipynb",
+                    "size": 0.02548736
+                },
+                {
+                    "name": "Vapor-Liquid_Equilibrium_for_Pure_Components.ipynb",
+                    "path": "engineering/02/Vapor-Liquid_Equilibrium_for_Pure_Components.ipynb",
+                    "size": 0.095608832
+                },
+                {
+                    "name": "Creating Bode Plots.ipynb",
+                    "path": "engineering/02/Creating Bode Plots.ipynb",
+                    "size": 0.12401766400000001
+                },
+                {
+                    "name": "Adiabatic Flame Temperature.ipynb",
+                    "path": "engineering/02/Adiabatic Flame Temperature.ipynb",
+                    "size": 0.006989824
+                },
+                {
+                    "name": "Units_and_Conversions_for_Home_Heating.ipynb",
+                    "path": "engineering/02/Units_and_Conversions_for_Home_Heating.ipynb",
+                    "size": 0.005321728
+                },
+                {
+                    "name": "Unsteady-State Material Balances.ipynb",
+                    "path": "engineering/02/Unsteady-State Material Balances.ipynb",
+                    "size": 0.17379635200000002
+                },
+                {
+                    "name": "Binary Distillation with McCabe-Thiele.ipynb",
+                    "path": "engineering/02/Binary Distillation with McCabe-Thiele.ipynb",
+                    "size": 0.30128435200000003
+                },
+                {
+                    "name": "Closed-Loop Transfer Functions for Car Cruise Control.ipynb",
+                    "path": "engineering/02/Closed-Loop Transfer Functions for Car Cruise Control.ipynb",
+                    "size": 0.062307328
+                },
+                {
+                    "name": "Getting_Started_with_Jupyter_Notebooks_and_Python.ipynb",
+                    "path": "engineering/02/Getting_Started_with_Jupyter_Notebooks_and_Python.ipynb",
+                    "size": 0.11806105600000001
+                },
+                {
+                    "name": "Exothermic CSTR.ipynb",
+                    "path": "engineering/02/Exothermic CSTR.ipynb",
+                    "size": 0.31648051200000005
+                },
+                {
+                    "name": "General Mass Balance on a Single Tank.ipynb",
+                    "path": "engineering/02/General Mass Balance on a Single Tank.ipynb",
+                    "size": 0.026724352000000003
+                },
+                {
+                    "name": "Gases_with_One_Condensable_Component.ipynb",
+                    "path": "engineering/02/Gases_with_One_Condensable_Component.ipynb",
+                    "size": 0.045469696000000004
+                },
+                {
+                    "name": "Units and Conversions - Home Heating Example.ipynb",
+                    "path": "engineering/02/Units and Conversions - Home Heating Example.ipynb",
+                    "size": 0.005860352
+                },
+                {
+                    "name": "Pyrotechnic Design for Airbags.ipynb",
+                    "path": "engineering/02/Pyrotechnic Design for Airbags.ipynb",
+                    "size": 0.030333952
+                },
+                {
+                    "name": "West Virginia Chemical Spill.ipynb",
+                    "path": "engineering/02/West Virginia Chemical Spill.ipynb",
+                    "size": 0.0052193280000000005
+                },
+                {
+                    "name": "Antoine.ipynb",
+                    "path": "engineering/02/Antoine.ipynb",
+                    "size": 0.08087552
+                },
+                {
+                    "name": "Global CO2 Budget.ipynb",
+                    "path": "engineering/02/Global CO2 Budget.ipynb",
+                    "size": 0.008628224
+                },
+                {
+                    "name": "Humidity and Psychrometrics.ipynb",
+                    "path": "engineering/02/Humidity and Psychrometrics.ipynb",
+                    "size": 0.12847616
+                },
+                {
+                    "name": "Second_Order_Models.ipynb",
+                    "path": "engineering/02/Second_Order_Models.ipynb",
+                    "size": 0.19255808000000002
+                },
+                {
+                    "name": "Binary_Phase_Diagrams_for_Ideal_Mixtures.ipynb",
+                    "path": "engineering/02/Binary_Phase_Diagrams_for_Ideal_Mixtures.ipynb",
+                    "size": 0.421741568
+                },
+                {
+                    "name": "Controller Tuning Rules in Frequency Domain.ipynb",
+                    "path": "engineering/02/Controller Tuning Rules in Frequency Domain.ipynb",
+                    "size": 0.11400192
+                },
+                {
+                    "name": "Adipic Acid Flowsheet.ipynb",
+                    "path": "engineering/02/Adipic Acid Flowsheet.ipynb",
+                    "size": 0.011036672
+                },
+                {
+                    "name": "Additional Examples of the Python Control Systems Library.ipynb",
+                    "path": "engineering/02/Additional Examples of the Python Control Systems Library.ipynb",
+                    "size": 0.17101312000000002
+                },
+                {
+                    "name": "Getting Started with Transfer Functions.ipynb",
+                    "path": "engineering/02/Getting Started with Transfer Functions.ipynb",
+                    "size": 0.37906227200000003
+                },
+                {
+                    "name": "Ethylene Oxide Flowsheet.ipynb",
+                    "path": "engineering/02/Ethylene Oxide Flowsheet.ipynb",
+                    "size": 0.319408128
+                },
+                {
+                    "name": "Lean NOx Trap.ipynb",
+                    "path": "engineering/02/Lean NOx Trap.ipynb",
+                    "size": 0.0064317440000000005
+                },
+                {
+                    "name": "PVT_Calculations_for_Non-Ideal_Gases.ipynb",
+                    "path": "engineering/02/PVT_Calculations_for_Non-Ideal_Gases.ipynb",
+                    "size": 0.017590272
+                },
+                {
+                    "name": "Interactive PID Control Tuning with  Ziegler-Nichols.ipynb",
+                    "path": "engineering/02/Interactive PID Control Tuning with  Ziegler-Nichols.ipynb",
+                    "size": 0.27236864
+                },
+                {
+                    "name": "Txy and xy Diagrams for Binary Mixtures.ipynb",
+                    "path": "engineering/02/Txy and xy Diagrams for Binary Mixtures.ipynb",
+                    "size": 0.18798899200000002
+                },
+                {
+                    "name": "Separating_Milk.ipynb",
+                    "path": "engineering/02/Separating_Milk.ipynb",
+                    "size": 0.07919104
+                },
+                {
+                    "name": "Bubble_and_Dew_Points_for_Binary_Mixtures.ipynb",
+                    "path": "engineering/02/Bubble_and_Dew_Points_for_Binary_Mixtures.ipynb",
+                    "size": 0.068590592
+                },
+                {
+                    "name": "Energy Balances for a Steam Turbine Flowsheet.ipynb",
+                    "path": "engineering/02/Energy Balances for a Steam Turbine Flowsheet.ipynb",
+                    "size": 0.009665536
+                },
+                {
+                    "name": "Flameless Cooking.ipynb",
+                    "path": "engineering/02/Flameless Cooking.ipynb",
+                    "size": 0.027215872000000002
+                },
+                {
+                    "name": "CO2 Production by Automobiles.ipynb",
+                    "path": "engineering/02/CO2 Production by Automobiles.ipynb",
+                    "size": 0.00485376
+                },
+                {
+                    "name": "Solving_Linear_Equations_with_Sympy.ipynb",
+                    "path": "engineering/02/Solving_Linear_Equations_with_Sympy.ipynb",
+                    "size": 0.040819712
+                },
+                {
+                    "name": "Bubble and Dew Point Calculations for Binary Mixtures.ipynb",
+                    "path": "engineering/02/Bubble and Dew Point Calculations for Binary Mixtures.ipynb",
+                    "size": 0.07684096
+                },
+                {
+                    "name": "Balancing Reactions.ipynb",
+                    "path": "engineering/02/Balancing Reactions.ipynb",
+                    "size": 0.054222848000000004
+                },
+                {
+                    "name": "Vapor-Liquid Equilibrium for a Pure Component.ipynb",
+                    "path": "engineering/02/Vapor-Liquid Equilibrium for a Pure Component.ipynb",
+                    "size": 0.225153024
+                },
+                {
+                    "name": "Operating_Limits_for_a_Methanol_Lighter.ipynb",
+                    "path": "engineering/02/Operating_Limits_for_a_Methanol_Lighter.ipynb",
+                    "size": 0.031425536000000004
+                },
+                {
+                    "name": "Steam Reforming of Methane.ipynb",
+                    "path": "engineering/02/Steam Reforming of Methane.ipynb",
+                    "size": 0.23236608
+                },
+                {
+                    "name": "Generation_Consumption_Analysis_for_Ammonia_Production.ipynb",
+                    "path": "engineering/02/Generation_Consumption_Analysis_for_Ammonia_Production.ipynb",
+                    "size": 0.028413952000000003
+                },
+                {
+                    "name": "CSTR.ipynb",
+                    "path": "engineering/02/CSTR.ipynb",
+                    "size": 0.23044198400000002
+                },
+                {
+                    "name": "Bubble_and_Dew_Points_for_Multicomponent_Mixtures.ipynb",
+                    "path": "engineering/02/Bubble_and_Dew_Points_for_Multicomponent_Mixtures.ipynb",
+                    "size": 0.0077588480000000005
+                },
+                {
+                    "name": "Global_CO2_Budget.ipynb",
+                    "path": "engineering/02/Global_CO2_Budget.ipynb",
+                    "size": 0.011706368
+                }
+            ],
+            "03": [
+                {
+                    "name": "3_Modeling_Part_2.ipynb",
+                    "path": "engineering/03/3_Modeling_Part_2.ipynb",
+                    "size": 0.048800768
+                },
+                {
+                    "name": "Path_Planning_for_a_Simple_Car.ipynb",
+                    "path": "engineering/03/Path_Planning_for_a_Simple_Car.ipynb",
+                    "size": 0.10678988800000001
+                },
+                {
+                    "name": "4_PID_Control.ipynb",
+                    "path": "engineering/03/4_PID_Control.ipynb",
+                    "size": 0.114393088
+                },
+                {
+                    "name": "Fitting a Linear Model to the Step Response of a Gravity Drained Tank.ipynb",
+                    "path": "engineering/03/Fitting a Linear Model to the Step Response of a Gravity Drained Tank.ipynb",
+                    "size": 0.042442752
+                },
+                {
+                    "name": "3_Modeling_Part_1.ipynb",
+                    "path": "engineering/03/3_Modeling_Part_1.ipynb",
+                    "size": 0.051079168
+                },
+                {
+                    "name": "Interacting Tanks.ipynb",
+                    "path": "engineering/03/Interacting Tanks.ipynb",
+                    "size": 0.015970304
+                },
+                {
+                    "name": "Lab Assignment 2.ipynb",
+                    "path": "engineering/03/Lab Assignment 2.ipynb",
+                    "size": 0.04412416
+                },
+                {
+                    "name": "Creating Bode Plots.ipynb",
+                    "path": "engineering/03/Creating Bode Plots.ipynb",
+                    "size": 0.12401664000000001
+                },
+                {
+                    "name": "Python_Tutorial_2_2018.ipynb",
+                    "path": "engineering/03/Python_Tutorial_2_2018.ipynb",
+                    "size": 0.021470208
+                },
+                {
+                    "name": "Implementing PID Control in Nonlinear Simulations.ipynb",
+                    "path": "engineering/03/Implementing PID Control in Nonlinear Simulations.ipynb",
+                    "size": 0.456754176
+                },
+                {
+                    "name": "Fitting First-Order plus Time-Delay (FOPTD) to Step Response Data.ipynb",
+                    "path": "engineering/03/Fitting First-Order plus Time-Delay (FOPTD) to Step Response Data.ipynb",
+                    "size": 0.103185408
+                },
+                {
+                    "name": "Animation in Jupyter Notebooks.ipynb",
+                    "path": "engineering/03/Animation in Jupyter Notebooks.ipynb",
+                    "size": 1.147396096
+                },
+                {
+                    "name": "Python_Tutorial_3_2018.ipynb",
+                    "path": "engineering/03/Python_Tutorial_3_2018.ipynb",
+                    "size": 0.155277312
+                },
+                {
+                    "name": "Closed-Loop Transfer Functions for Car Cruise Control.ipynb",
+                    "path": "engineering/03/Closed-Loop Transfer Functions for Car Cruise Control.ipynb",
+                    "size": 0.06225408
+                },
+                {
+                    "name": "Scheduling_Multipurpose_Batch_Processes_using_State-Task_Networks.ipynb",
+                    "path": "engineering/03/Scheduling_Multipurpose_Batch_Processes_using_State-Task_Networks.ipynb",
+                    "size": 0.12588032000000002
+                },
+                {
+                    "name": "Exothermic CSTR.ipynb",
+                    "path": "engineering/03/Exothermic CSTR.ipynb",
+                    "size": 0.31007232
+                },
+                {
+                    "name": "Python_Tutorial_1_2018.ipynb",
+                    "path": "engineering/03/Python_Tutorial_1_2018.ipynb",
+                    "size": 0.02006528
+                },
+                {
+                    "name": "Experiments.ipynb",
+                    "path": "engineering/03/Experiments.ipynb",
+                    "size": 0.0024627200000000003
+                },
+                {
+                    "name": "Step_Test_Model.ipynb",
+                    "path": "engineering/03/Step_Test_Model.ipynb",
+                    "size": 0.085341184
+                },
+                {
+                    "name": "PID_Control.ipynb",
+                    "path": "engineering/03/PID_Control.ipynb",
+                    "size": 0.0005683200000000001
+                },
+                {
+                    "name": "Fed Batch Bioreactor.ipynb",
+                    "path": "engineering/03/Fed Batch Bioreactor.ipynb",
+                    "size": 0.045545472000000004
+                },
+                {
+                    "name": "Control with Realtime Simpy.ipynb",
+                    "path": "engineering/03/Control with Realtime Simpy.ipynb",
+                    "size": 0.053443584
+                },
+                {
+                    "name": "Lab Assignment 4 - PID Control.ipynb",
+                    "path": "engineering/03/Lab Assignment 4 - PID Control.ipynb",
+                    "size": 0.18159513600000002
+                },
+                {
+                    "name": "Second_Order_Models.ipynb",
+                    "path": "engineering/03/Second_Order_Models.ipynb",
+                    "size": 0.08971264000000001
+                },
+                {
+                    "name": "Manometer Models and Dynamics.ipynb",
+                    "path": "engineering/03/Manometer Models and Dynamics.ipynb",
+                    "size": 0.22801305600000002
+                },
+                {
+                    "name": "Programming Controllers.ipynb",
+                    "path": "engineering/03/Programming Controllers.ipynb",
+                    "size": 0.038065152000000005
+                },
+                {
+                    "name": "Step_Test_Experiment.ipynb",
+                    "path": "engineering/03/Step_Test_Experiment.ipynb",
+                    "size": 0.09236377600000001
+                },
+                {
+                    "name": "3_Modeling_Part_4.ipynb",
+                    "path": "engineering/03/3_Modeling_Part_4.ipynb",
+                    "size": 0.007362560000000001
+                },
+                {
+                    "name": "Controller Tuning Rules in Frequency Domain.ipynb",
+                    "path": "engineering/03/Controller Tuning Rules in Frequency Domain.ipynb",
+                    "size": 0.12581376
+                },
+                {
+                    "name": "Relay_Control.ipynb",
+                    "path": "engineering/03/Relay_Control.ipynb",
+                    "size": 0.21022822400000002
+                },
+                {
+                    "name": "Getting Started with Transfer Functions.ipynb",
+                    "path": "engineering/03/Getting Started with Transfer Functions.ipynb",
+                    "size": 0.070278144
+                },
+                {
+                    "name": "Linear Approximation of a Process Model using Taylor Series.ipynb",
+                    "path": "engineering/03/Linear Approximation of a Process Model using Taylor Series.ipynb",
+                    "size": 0.033560576
+                },
+                {
+                    "name": "Lab Assignment 3 - Empirical Model Fitting.ipynb",
+                    "path": "engineering/03/Lab Assignment 3 - Empirical Model Fitting.ipynb",
+                    "size": 0.054801408
+                },
+                {
+                    "name": "Process_Control_Outline.ipynb",
+                    "path": "engineering/03/Process_Control_Outline.ipynb",
+                    "size": 0.005689344000000001
+                },
+                {
+                    "name": "Zero Order Hold and Interpolation.ipynb",
+                    "path": "engineering/03/Zero Order Hold and Interpolation.ipynb",
+                    "size": 0.036318208000000005
+                },
+                {
+                    "name": "Baroreflex as a Linear Control System.ipynb",
+                    "path": "engineering/03/Baroreflex as a Linear Control System.ipynb",
+                    "size": 0.478958592
+                },
+                {
+                    "name": "Transient Heat Transfer in Various Geometries.ipynb",
+                    "path": "engineering/03/Transient Heat Transfer in Various Geometries.ipynb",
+                    "size": 0.47853670400000003
+                },
+                {
+                    "name": "Cascade Control.ipynb",
+                    "path": "engineering/03/Cascade Control.ipynb",
+                    "size": 0.002217984
+                },
+                {
+                    "name": "2_Coding_Controllers_with_Python_Generators.ipynb",
+                    "path": "engineering/03/2_Coding_Controllers_with_Python_Generators.ipynb",
+                    "size": 0.106360832
+                },
+                {
+                    "name": "3_Modeling_Part_3.ipynb",
+                    "path": "engineering/03/3_Modeling_Part_3.ipynb",
+                    "size": 0.064811008
+                },
+                {
+                    "name": "Untitled.ipynb",
+                    "path": "engineering/03/Untitled.ipynb",
+                    "size": 0.031574016
+                },
+                {
+                    "name": "Interactive PID Control Tuning with  Ziegler-Nichols.ipynb",
+                    "path": "engineering/03/Interactive PID Control Tuning with  Ziegler-Nichols.ipynb",
+                    "size": 0.20177715200000002
+                },
+                {
+                    "name": "Linear Approximation of a Multivariable Model using Taylor Series.ipynb",
+                    "path": "engineering/03/Linear Approximation of a Multivariable Model using Taylor Series.ipynb",
+                    "size": 0.009381888000000001
+                },
+                {
+                    "name": "State-Task_Networks.ipynb",
+                    "path": "engineering/03/State-Task_Networks.ipynb",
+                    "size": 0.004502528
+                },
+                {
+                    "name": "One Compartment Pharmacokinetics.ipynb",
+                    "path": "engineering/03/One Compartment Pharmacokinetics.ipynb",
+                    "size": 0.13425561600000002
+                },
+                {
+                    "name": "1_Empirical_Methods_for_Feedback_Control.ipynb",
+                    "path": "engineering/03/1_Empirical_Methods_for_Feedback_Control.ipynb",
+                    "size": 0.298443776
+                },
+                {
+                    "name": "example_3.ipynb",
+                    "path": "engineering/03/example_3.ipynb",
+                    "size": 0.005175296
+                },
+                {
+                    "name": "Introduction to Python - A Python Tutorial.ipynb",
+                    "path": "engineering/03/Introduction to Python - A Python Tutorial.ipynb",
+                    "size": 0.029709312
+                },
+                {
+                    "name": "First_Order_System_in_Pyomo.ipynb",
+                    "path": "engineering/03/First_Order_System_in_Pyomo.ipynb",
+                    "size": 0.020397056
+                },
+                {
+                    "name": "Realtime Plotting.ipynb",
+                    "path": "engineering/03/Realtime Plotting.ipynb",
+                    "size": 0.053643264
+                },
+                {
+                    "name": "Getting Started with Python.ipynb",
+                    "path": "engineering/03/Getting Started with Python.ipynb",
+                    "size": 0.14192128
+                },
+                {
+                    "name": "0_TCLab_Overview_add_example.ipynb",
+                    "path": "engineering/03/0_TCLab_Overview_add_example.ipynb",
+                    "size": 0.12101017600000001
+                },
+                {
+                    "name": "Exothermic_CSTR_Pyomo.ipynb",
+                    "path": "engineering/03/Exothermic_CSTR_Pyomo.ipynb",
+                    "size": 0.14834892800000002
+                },
+                {
+                    "name": "Gravity Drained Tank.ipynb",
+                    "path": "engineering/03/Gravity Drained Tank.ipynb",
+                    "size": 0.023872512000000002
+                },
+                {
+                    "name": "Getting_Started_with_the_Temperature_Control_Laboratory.ipynb",
+                    "path": "engineering/03/Getting_Started_with_the_Temperature_Control_Laboratory.ipynb",
+                    "size": 0.024116224000000002
+                },
+                {
+                    "name": "TCLab PID.ipynb",
+                    "path": "engineering/03/TCLab PID.ipynb",
+                    "size": 0.194428928
+                },
+                {
+                    "name": "A Modular Approach to Simulation using Python Generators.ipynb",
+                    "path": "engineering/03/A Modular Approach to Simulation using Python Generators.ipynb",
+                    "size": 0.225445888
+                },
+                {
+                    "name": "MPC Introduction.ipynb",
+                    "path": "engineering/03/MPC Introduction.ipynb",
+                    "size": 0.192352256
+                },
+                {
+                    "name": "Continuous_Product_Blending.ipynb",
+                    "path": "engineering/03/Continuous_Product_Blending.ipynb",
+                    "size": 0.163231744
+                },
+                {
+                    "name": "Machine Bottleneck (Pyomo).ipynb",
+                    "path": "engineering/03/Machine Bottleneck (Pyomo).ipynb",
+                    "size": 0.074555392
+                },
+                {
+                    "name": "NCAA_Football_Field.ipynb",
+                    "path": "engineering/03/NCAA_Football_Field.ipynb",
+                    "size": 0.130993152
+                },
+                {
+                    "name": "example_2.ipynb",
+                    "path": "engineering/03/example_2.ipynb",
+                    "size": 0.005393408000000001
+                },
+                {
+                    "name": "TCLab Simulation.ipynb",
+                    "path": "engineering/03/TCLab Simulation.ipynb",
+                    "size": 0.006027264
+                },
+                {
+                    "name": "GUI Experiments.ipynb",
+                    "path": "engineering/03/GUI Experiments.ipynb",
+                    "size": 0.008160256000000001
+                },
+                {
+                    "name": "example_1.ipynb",
+                    "path": "engineering/03/example_1.ipynb",
+                    "size": 0.048539648000000005
+                },
+                {
+                    "name": "Blending Tank Simulation.ipynb",
+                    "path": "engineering/03/Blending Tank Simulation.ipynb",
+                    "size": 0.022361088
+                },
+                {
+                    "name": "ProcessControl.ipynb",
+                    "path": "engineering/03/ProcessControl.ipynb",
+                    "size": 4.405277696000001
+                }
+            ],
+            "04": [
+                {
+                    "name": "Lorenz Equations.ipynb",
+                    "path": "engineering/04/Lorenz Equations.ipynb",
+                    "size": 0.056570880000000004
+                },
+                {
+                    "name": "Chocolate Blending Final Project _Breier, Flavin, Mallette, Mikes_.ipynb",
+                    "path": "engineering/04/Chocolate Blending Final Project _Breier, Flavin, Mallette, Mikes_.ipynb",
+                    "size": 0.303306752
+                },
+                {
+                    "name": "Plotly Example.ipynb",
+                    "path": "engineering/04/Plotly Example.ipynb",
+                    "size": 0.020334592000000002
+                },
+                {
+                    "name": "Mixed Paradigm Simulation.ipynb",
+                    "path": "engineering/04/Mixed Paradigm Simulation.ipynb",
+                    "size": 0.006316032
+                },
+                {
+                    "name": "Temperature Profile Optimization of the Brewing Process.ipynb",
+                    "path": "engineering/04/Temperature Profile Optimization of the Brewing Process.ipynb",
+                    "size": 1.036976128
+                },
+                {
+                    "name": "T cell therapy of Chronic Myelogenous Leukemia.ipynb",
+                    "path": "engineering/04/T cell therapy of Chronic Myelogenous Leukemia.ipynb",
+                    "size": 0.447450112
+                },
+                {
+                    "name": "Widgets Example 2.ipynb",
+                    "path": "engineering/04/Widgets Example 2.ipynb",
+                    "size": 1.8672291840000002
+                },
+                {
+                    "name": "Sailboat Mast Control.ipynb",
+                    "path": "engineering/04/Sailboat Mast Control.ipynb",
+                    "size": 0.5554882560000001
+                },
+                {
+                    "name": "Wind Turbine Collective Blade Pitch Angle Control.ipynb",
+                    "path": "engineering/04/Wind Turbine Collective Blade Pitch Angle Control.ipynb",
+                    "size": 0.46581043200000005
+                },
+                {
+                    "name": "Formatting Mathematics for Jupyter.ipynb",
+                    "path": "engineering/04/Formatting Mathematics for Jupyter.ipynb",
+                    "size": 0.00249344
+                },
+                {
+                    "name": "Getting Started with Beer.ipynb",
+                    "path": "engineering/04/Getting Started with Beer.ipynb",
+                    "size": 0.038561792000000004
+                },
+                {
+                    "name": "Getting Started with Python Control Systems Library.ipynb",
+                    "path": "engineering/04/Getting Started with Python Control Systems Library.ipynb",
+                    "size": 0.17071718400000002
+                },
+                {
+                    "name": "Dynamics of First Order Linear Systems.ipynb",
+                    "path": "engineering/04/Dynamics of First Order Linear Systems.ipynb",
+                    "size": 0.022255616000000002
+                },
+                {
+                    "name": "Getting Started with Spanky's.ipynb",
+                    "path": "engineering/04/Getting Started with Spanky's.ipynb",
+                    "size": 0.070711296
+                },
+                {
+                    "name": "Solving Linear Equations.ipynb",
+                    "path": "engineering/04/Solving Linear Equations.ipynb",
+                    "size": 0.024495104
+                },
+                {
+                    "name": "Additional Examples of the Python Control Systems Library.ipynb",
+                    "path": "engineering/04/Additional Examples of the Python Control Systems Library.ipynb",
+                    "size": 0.171012096
+                },
+                {
+                    "name": "Closed Loop Anesthetic Delivery (CLAD) System.ipynb",
+                    "path": "engineering/04/Closed Loop Anesthetic Delivery (CLAD) System.ipynb",
+                    "size": 0.24223744000000003
+                },
+                {
+                    "name": "Widgets Example.ipynb",
+                    "path": "engineering/04/Widgets Example.ipynb",
+                    "size": 0.07969996800000001
+                },
+                {
+                    "name": "MPC, PID, Two Tank 42.0.ipynb",
+                    "path": "engineering/04/MPC, PID, Two Tank 42.0.ipynb",
+                    "size": 0.23049830400000001
+                },
+                {
+                    "name": "Control of a Reverse Osmosis Desalination Process.ipynb",
+                    "path": "engineering/04/Control of a Reverse Osmosis Desalination Process.ipynb",
+                    "size": 0.421712896
+                },
+                {
+                    "name": "Jacobians.ipynb",
+                    "path": "engineering/04/Jacobians.ipynb",
+                    "size": 0.001626112
+                },
+                {
+                    "name": "Untitled.ipynb",
+                    "path": "engineering/04/Untitled.ipynb",
+                    "size": 0.18932531200000002
+                },
+                {
+                    "name": "Getting Started with Engineering Calculations.ipynb",
+                    "path": "engineering/04/Getting Started with Engineering Calculations.ipynb",
+                    "size": 0.029933568
+                },
+                {
+                    "name": "Dynamic Visualizations with Matplotlib.ipynb",
+                    "path": "engineering/04/Dynamic Visualizations with Matplotlib.ipynb",
+                    "size": 0.45342105600000004
+                },
+                {
+                    "name": "Getting Started with Chocolate Blending.ipynb",
+                    "path": "engineering/04/Getting Started with Chocolate Blending.ipynb",
+                    "size": 0.09367347200000001
+                },
+                {
+                    "name": "Hare and Lynx Population Dynamics.ipynb",
+                    "path": "engineering/04/Hare and Lynx Population Dynamics.ipynb",
+                    "size": 0.926780416
+                },
+                {
+                    "name": "MPC%2C+PID%2C+Two+Tank+42.0.ipynb",
+                    "path": "engineering/04/MPC%2C+PID%2C+Two+Tank+42.0.ipynb",
+                    "size": 0.23045632000000002
+                },
+                {
+                    "name": "Autoregulation and Baroreflex Regulation in Mean Arterial Blood Pressure Maintenance.ipynb",
+                    "path": "engineering/04/Autoregulation and Baroreflex Regulation in Mean Arterial Blood Pressure Maintenance.ipynb",
+                    "size": 0.7587235840000001
+                },
+                {
+                    "name": "Audio Processing.ipynb",
+                    "path": "engineering/04/Audio Processing.ipynb",
+                    "size": 26.488107008
+                },
+                {
+                    "name": "Getting Started with Chocolate.ipynb",
+                    "path": "engineering/04/Getting Started with Chocolate.ipynb",
+                    "size": 0.219728896
+                },
+                {
+                    "name": "Municipal Wastewater Aeration.ipynb",
+                    "path": "engineering/04/Municipal Wastewater Aeration.ipynb",
+                    "size": 0.15338496000000001
+                },
+                {
+                    "name": "Insulin Control for Treating Type I Diabetes.ipynb",
+                    "path": "engineering/04/Insulin Control for Treating Type I Diabetes.ipynb",
+                    "size": 0.919120896
+                },
+                {
+                    "name": "Experiments with Audio Processing.ipynb",
+                    "path": "engineering/04/Experiments with Audio Processing.ipynb",
+                    "size": 42.77041152
+                }
+            ],
+            "05": [
+                {
+                    "name": "Untitled1.ipynb",
+                    "path": "engineering/05/Untitled1.ipynb",
+                    "size": 0.006552576
+                },
+                {
+                    "name": "Formaldehyde_Process.ipynb",
+                    "path": "engineering/05/Formaldehyde_Process.ipynb",
+                    "size": 0.0035430400000000003
+                },
+                {
+                    "name": "Problem_19_04.ipynb",
+                    "path": "engineering/05/Problem_19_04.ipynb",
+                    "size": 0.029083648
+                },
+                {
+                    "name": "07_Mixture_Design_Cold_Weather_Fuel.ipynb",
+                    "path": "engineering/05/07_Mixture_Design_Cold_Weather_Fuel.ipynb",
+                    "size": 0.10455347200000001
+                },
+                {
+                    "name": "05_Pyomo_Examples.ipynb",
+                    "path": "engineering/05/05_Pyomo_Examples.ipynb",
+                    "size": 0.03186688
+                },
+                {
+                    "name": "01_Unconstrained_Scalar_Optimization.ipynb",
+                    "path": "engineering/05/01_Unconstrained_Scalar_Optimization.ipynb",
+                    "size": 0.057024512000000006
+                },
+                {
+                    "name": "Problem_19_05.ipynb",
+                    "path": "engineering/05/Problem_19_05.ipynb",
+                    "size": 0.003811328
+                },
+                {
+                    "name": "03_Linear_Programming.ipynb",
+                    "path": "engineering/05/03_Linear_Programming.ipynb",
+                    "size": 0.0092416
+                },
+                {
+                    "name": "Problem_19_06.ipynb",
+                    "path": "engineering/05/Problem_19_06.ipynb",
+                    "size": 0.0027453440000000003
+                },
+                {
+                    "name": "Problem_19_01.ipynb",
+                    "path": "engineering/05/Problem_19_01.ipynb",
+                    "size": 0.018441216
+                },
+                {
+                    "name": "04_Getting_Started_with_Pyomo.ipynb",
+                    "path": "engineering/05/04_Getting_Started_with_Pyomo.ipynb",
+                    "size": 0.017872896000000003
+                },
+                {
+                    "name": "Untitled.ipynb",
+                    "path": "engineering/05/Untitled.ipynb",
+                    "size": 0.004877312
+                },
+                {
+                    "name": "Problem_19_03.ipynb",
+                    "path": "engineering/05/Problem_19_03.ipynb",
+                    "size": 0.446823424
+                },
+                {
+                    "name": "DAE.ipynb",
+                    "path": "engineering/05/DAE.ipynb",
+                    "size": 0.035700736000000004
+                },
+                {
+                    "name": "08_Gasoline_Blending.ipynb",
+                    "path": "engineering/05/08_Gasoline_Blending.ipynb",
+                    "size": 0.015338496000000002
+                },
+                {
+                    "name": "06_Linear_Blending_Problem.ipynb",
+                    "path": "engineering/05/06_Linear_Blending_Problem.ipynb",
+                    "size": 0.006557696
+                },
+                {
+                    "name": "02_Linear_Production_Model_with_Constraints.ipynb",
+                    "path": "engineering/05/02_Linear_Production_Model_with_Constraints.ipynb",
+                    "size": 0.072969216
+                }
+            ],
+            "06": [
+                {
+                    "name": "07_PID_Controller_Tuning.ipynb",
+                    "path": "engineering/06/07_PID_Controller_Tuning.ipynb",
+                    "size": 0.14367232000000002
+                },
+                {
+                    "name": "05_PID_Control_with_Anti-Reset-Windup.ipynb",
+                    "path": "engineering/06/05_PID_Control_with_Anti-Reset-Windup.ipynb",
+                    "size": 0.10103808
+                },
+                {
+                    "name": "06_Realizable_PID_Control.ipynb",
+                    "path": "engineering/06/06_Realizable_PID_Control.ipynb",
+                    "size": 0.29137817600000004
+                },
+                {
+                    "name": "03_PID_Control_with_Setpoint_Weighting.ipynb",
+                    "path": "engineering/06/03_PID_Control_with_Setpoint_Weighting.ipynb",
+                    "size": 0.061468672
+                },
+                {
+                    "name": "02_Implementing_PID_Control_with_Python_Yield_Statement.ipynb",
+                    "path": "engineering/06/02_Implementing_PID_Control_with_Python_Yield_Statement.ipynb",
+                    "size": 0.068399104
+                },
+                {
+                    "name": "04_PID_Control_with_Bumpless_Transfer.ipynb",
+                    "path": "engineering/06/04_PID_Control_with_Bumpless_Transfer.ipynb",
+                    "size": 0.206901248
+                },
+                {
+                    "name": "01_PID_Control.ipynb",
+                    "path": "engineering/06/01_PID_Control.ipynb",
+                    "size": 0.004450304
+                },
+                {
+                    "name": "A Modular Approach to Simulation using Python Generators.ipynb",
+                    "path": "engineering/06/A Modular Approach to Simulation using Python Generators.ipynb",
+                    "size": 0.225445888
+                },
+                {
+                    "name": "10_PID_Control.ipynb",
+                    "path": "engineering/06/10_PID_Control.ipynb",
+                    "size": 0.009666560000000001
+                }
+            ],
+            "07": [
+                {
+                    "name": "07_NotebookUI.ipynb",
+                    "path": "engineering/07/07_NotebookUI.ipynb",
+                    "size": 0.11753369600000001
+                },
+                {
+                    "name": "01_TCLab_Overview.ipynb",
+                    "path": "engineering/07/01_TCLab_Overview.ipynb",
+                    "size": 0.0060108800000000006
+                },
+                {
+                    "name": "10_Interactive_and_Nonblocking_Operation.ipynb",
+                    "path": "engineering/07/10_Interactive_and_Nonblocking_Operation.ipynb",
+                    "size": 0.017943552
+                },
+                {
+                    "name": "PyMata Implementation.ipynb",
+                    "path": "engineering/07/PyMata Implementation.ipynb",
+                    "size": 0.002477056
+                },
+                {
+                    "name": "03_Synchronizing_with_Real_Time.ipynb",
+                    "path": "engineering/07/03_Synchronizing_with_Real_Time.ipynb",
+                    "size": 0.010310656000000001
+                },
+                {
+                    "name": "02_Accessing_the_Temperature_Control_Laboratory.ipynb",
+                    "path": "engineering/07/02_Accessing_the_Temperature_Control_Laboratory.ipynb",
+                    "size": 0.014244864000000001
+                },
+                {
+                    "name": "05_TCLab_Historian.ipynb",
+                    "path": "engineering/07/05_TCLab_Historian.ipynb",
+                    "size": 0.34296832000000005
+                },
+                {
+                    "name": "08_Experiment_Class.ipynb",
+                    "path": "engineering/07/08_Experiment_Class.ipynb",
+                    "size": 0.16350924800000002
+                },
+                {
+                    "name": "04_Emulation_of_TCLab_for_Offline_Use.ipynb",
+                    "path": "engineering/07/04_Emulation_of_TCLab_for_Offline_Use.ipynb",
+                    "size": 0.0044523520000000006
+                },
+                {
+                    "name": "09_Labtime_Class.ipynb",
+                    "path": "engineering/07/09_Labtime_Class.ipynb",
+                    "size": 0.011195392
+                },
+                {
+                    "name": "Development Notes.ipynb",
+                    "path": "engineering/07/Development Notes.ipynb",
+                    "size": 0.175320064
+                },
+                {
+                    "name": "06_TCLab_Plotter.ipynb",
+                    "path": "engineering/07/06_TCLab_Plotter.ipynb",
+                    "size": 0.39488614400000005
+                }
+            ]
         },
-        "03": {
-            "0_TCLab_Overview_add_example.ipynb": "notebooks/Engineering/03/0_TCLab_Overview_add_example.ipynb",
-            "1_Empirical_Methods_for_Feedback_Control.ipynb": "notebooks/Engineering/03/1_Empirical_Methods_for_Feedback_Control.ipynb",
-            "2_Coding_Controllers_with_Python_Generators.ipynb": "notebooks/Engineering/03/2_Coding_Controllers_with_Python_Generators.ipynb",
-            "3_Modeling_Part_1.ipynb": "notebooks/Engineering/03/3_Modeling_Part_1.ipynb",
-            "3_Modeling_Part_2.ipynb": "notebooks/Engineering/03/3_Modeling_Part_2.ipynb",
-            "3_Modeling_Part_3.ipynb": "notebooks/Engineering/03/3_Modeling_Part_3.ipynb",
-            "3_Modeling_Part_4.ipynb": "notebooks/Engineering/03/3_Modeling_Part_4.ipynb",
-            "4_PID_Control.ipynb": "notebooks/Engineering/03/4_PID_Control.ipynb",
-            "A Modular Approach to Simulation using Python Generators.ipynb": "notebooks/Engineering/03/A Modular Approach to Simulation using Python Generators.ipynb",
-            "Animation in Jupyter Notebooks.ipynb": "notebooks/Engineering/03/Animation in Jupyter Notebooks.ipynb",
-            "Baroreflex as a Linear Control System.ipynb": "notebooks/Engineering/03/Baroreflex as a Linear Control System.ipynb",
-            "Blending Tank Simulation.ipynb": "notebooks/Engineering/03/Blending Tank Simulation.ipynb",
-            "Cascade Control.ipynb": "notebooks/Engineering/03/Cascade Control.ipynb",
-            "Closed-Loop Transfer Functions for Car Cruise Control.ipynb": "notebooks/Engineering/03/Closed-Loop Transfer Functions for Car Cruise Control.ipynb",
-            "Continuous_Product_Blending.ipynb": "notebooks/Engineering/03/Continuous_Product_Blending.ipynb",
-            "Control with Realtime Simpy.ipynb": "notebooks/Engineering/03/Control with Realtime Simpy.ipynb",
-            "Controller Tuning Rules in Frequency Domain.ipynb": "notebooks/Engineering/03/Controller Tuning Rules in Frequency Domain.ipynb",
-            "Creating Bode Plots.ipynb": "notebooks/Engineering/03/Creating Bode Plots.ipynb",
-            "Exothermic CSTR.ipynb": "notebooks/Engineering/03/Exothermic CSTR.ipynb",
-            "Exothermic_CSTR_Pyomo.ipynb": "notebooks/Engineering/03/Exothermic_CSTR_Pyomo.ipynb",
-            "Experiments.ipynb": "notebooks/Engineering/03/Experiments.ipynb",
-            "Fed Batch Bioreactor.ipynb": "notebooks/Engineering/03/Fed Batch Bioreactor.ipynb",
-            "First_Order_System_in_Pyomo.ipynb": "notebooks/Engineering/03/First_Order_System_in_Pyomo.ipynb",
-            "Fitting First-Order plus Time-Delay (FOPTD) to Step Response Data.ipynb": "notebooks/Engineering/03/Fitting First-Order plus Time-Delay (FOPTD) to Step Response Data.ipynb",
-            "Fitting a Linear Model to the Step Response of a Gravity Drained Tank.ipynb": "notebooks/Engineering/03/Fitting a Linear Model to the Step Response of a Gravity Drained Tank.ipynb",
-            "GUI Experiments.ipynb": "notebooks/Engineering/03/GUI Experiments.ipynb",
-            "Getting Started with Python.ipynb": "notebooks/Engineering/03/Getting Started with Python.ipynb",
-            "Getting Started with Transfer Functions.ipynb": "notebooks/Engineering/03/Getting Started with Transfer Functions.ipynb",
-            "Getting_Started_with_the_Temperature_Control_Laboratory.ipynb": "notebooks/Engineering/03/Getting_Started_with_the_Temperature_Control_Laboratory.ipynb",
-            "Gravity Drained Tank.ipynb": "notebooks/Engineering/03/Gravity Drained Tank.ipynb",
-            "Implementing PID Control in Nonlinear Simulations.ipynb": "notebooks/Engineering/03/Implementing PID Control in Nonlinear Simulations.ipynb",
-            "Interacting Tanks.ipynb": "notebooks/Engineering/03/Interacting Tanks.ipynb",
-            "Interactive PID Control Tuning with  Ziegler-Nichols.ipynb": "notebooks/Engineering/03/Interactive PID Control Tuning with  Ziegler-Nichols.ipynb",
-            "Introduction to Python - A Python Tutorial.ipynb": "notebooks/Engineering/03/Introduction to Python - A Python Tutorial.ipynb",
-            "Lab Assignment 2.ipynb": "notebooks/Engineering/03/Lab Assignment 2.ipynb",
-            "Lab Assignment 3 - Empirical Model Fitting.ipynb": "notebooks/Engineering/03/Lab Assignment 3 - Empirical Model Fitting.ipynb",
-            "Lab Assignment 4 - PID Control.ipynb": "notebooks/Engineering/03/Lab Assignment 4 - PID Control.ipynb",
-            "Linear Approximation of a Multivariable Model using Taylor Series.ipynb": "notebooks/Engineering/03/Linear Approximation of a Multivariable Model using Taylor Series.ipynb",
-            "Linear Approximation of a Process Model using Taylor Series.ipynb": "notebooks/Engineering/03/Linear Approximation of a Process Model using Taylor Series.ipynb",
-            "MPC Introduction.ipynb": "notebooks/Engineering/03/MPC Introduction.ipynb",
-            "Machine Bottleneck (Pyomo).ipynb": "notebooks/Engineering/03/Machine Bottleneck (Pyomo).ipynb",
-            "Manometer Models and Dynamics.ipynb": "notebooks/Engineering/03/Manometer Models and Dynamics.ipynb",
-            "NCAA_Football_Field.ipynb": "notebooks/Engineering/03/NCAA_Football_Field.ipynb",
-            "One Compartment Pharmacokinetics.ipynb": "notebooks/Engineering/03/One Compartment Pharmacokinetics.ipynb",
-            "PID_Control.ipynb": "notebooks/Engineering/03/PID_Control.ipynb",
-            "Path_Planning_for_a_Simple_Car.ipynb": "notebooks/Engineering/03/Path_Planning_for_a_Simple_Car.ipynb",
-            "ProcessControl.ipynb": "notebooks/Engineering/03/ProcessControl.ipynb",
-            "Process_Control_Outline.ipynb": "notebooks/Engineering/03/Process_Control_Outline.ipynb",
-            "Programming Controllers.ipynb": "notebooks/Engineering/03/Programming Controllers.ipynb",
-            "Python_Tutorial_1_2018.ipynb": "notebooks/Engineering/03/Python_Tutorial_1_2018.ipynb",
-            "Python_Tutorial_2_2018.ipynb": "notebooks/Engineering/03/Python_Tutorial_2_2018.ipynb",
-            "Python_Tutorial_3_2018.ipynb": "notebooks/Engineering/03/Python_Tutorial_3_2018.ipynb",
-            "Realtime Plotting.ipynb": "notebooks/Engineering/03/Realtime Plotting.ipynb",
-            "Relay_Control.ipynb": "notebooks/Engineering/03/Relay_Control.ipynb",
-            "Scheduling_Multipurpose_Batch_Processes_using_State-Task_Networks.ipynb": "notebooks/Engineering/03/Scheduling_Multipurpose_Batch_Processes_using_State-Task_Networks.ipynb",
-            "Second_Order_Models.ipynb": "notebooks/Engineering/03/Second_Order_Models.ipynb",
-            "State-Task_Networks.ipynb": "notebooks/Engineering/03/State-Task_Networks.ipynb",
-            "Step_Test_Experiment.ipynb": "notebooks/Engineering/03/Step_Test_Experiment.ipynb",
-            "Step_Test_Model.ipynb": "notebooks/Engineering/03/Step_Test_Model.ipynb",
-            "TCLab PID.ipynb": "notebooks/Engineering/03/TCLab PID.ipynb",
-            "TCLab Simulation.ipynb": "notebooks/Engineering/03/TCLab Simulation.ipynb",
-            "Transient Heat Transfer in Various Geometries.ipynb": "notebooks/Engineering/03/Transient Heat Transfer in Various Geometries.ipynb",
-            "Untitled.ipynb": "notebooks/Engineering/03/Untitled.ipynb",
-            "Zero Order Hold and Interpolation.ipynb": "notebooks/Engineering/03/Zero Order Hold and Interpolation.ipynb",
-            "example_1.ipynb": "notebooks/Engineering/03/example_1.ipynb",
-            "example_2.ipynb": "notebooks/Engineering/03/example_2.ipynb",
-            "example_3.ipynb": "notebooks/Engineering/03/example_3.ipynb"
-        },
-        "04": {
-            "Additional Examples of the Python Control Systems Library.ipynb": "notebooks/Engineering/04/Additional Examples of the Python Control Systems Library.ipynb",
-            "Audio Processing.ipynb": "notebooks/Engineering/04/Audio Processing.ipynb",
-            "Autoregulation and Baroreflex Regulation in Mean Arterial Blood Pressure Maintenance.ipynb": "notebooks/Engineering/04/Autoregulation and Baroreflex Regulation in Mean Arterial Blood Pressure Maintenance.ipynb",
-            "Chocolate Blending Final Project _Breier, Flavin, Mallette, Mikes_.ipynb": "notebooks/Engineering/04/Chocolate Blending Final Project _Breier, Flavin, Mallette, Mikes_.ipynb",
-            "Closed Loop Anesthetic Delivery (CLAD) System.ipynb": "notebooks/Engineering/04/Closed Loop Anesthetic Delivery (CLAD) System.ipynb",
-            "Control of a Reverse Osmosis Desalination Process.ipynb": "notebooks/Engineering/04/Control of a Reverse Osmosis Desalination Process.ipynb",
-            "Dynamic Visualizations with Matplotlib.ipynb": "notebooks/Engineering/04/Dynamic Visualizations with Matplotlib.ipynb",
-            "Dynamics of First Order Linear Systems.ipynb": "notebooks/Engineering/04/Dynamics of First Order Linear Systems.ipynb",
-            "Experiments with Audio Processing.ipynb": "notebooks/Engineering/04/Experiments with Audio Processing.ipynb",
-            "Formatting Mathematics for Jupyter.ipynb": "notebooks/Engineering/04/Formatting Mathematics for Jupyter.ipynb",
-            "Getting Started with Beer.ipynb": "notebooks/Engineering/04/Getting Started with Beer.ipynb",
-            "Getting Started with Chocolate Blending.ipynb": "notebooks/Engineering/04/Getting Started with Chocolate Blending.ipynb",
-            "Getting Started with Chocolate.ipynb": "notebooks/Engineering/04/Getting Started with Chocolate.ipynb",
-            "Getting Started with Engineering Calculations.ipynb": "notebooks/Engineering/04/Getting Started with Engineering Calculations.ipynb",
-            "Getting Started with Python Control Systems Library.ipynb": "notebooks/Engineering/04/Getting Started with Python Control Systems Library.ipynb",
-            "Getting Started with Spanky's.ipynb": "notebooks/Engineering/04/Getting Started with Spanky's.ipynb",
-            "Hare and Lynx Population Dynamics.ipynb": "notebooks/Engineering/04/Hare and Lynx Population Dynamics.ipynb",
-            "Insulin Control for Treating Type I Diabetes.ipynb": "notebooks/Engineering/04/Insulin Control for Treating Type I Diabetes.ipynb",
-            "Jacobians.ipynb": "notebooks/Engineering/04/Jacobians.ipynb",
-            "Lorenz Equations.ipynb": "notebooks/Engineering/04/Lorenz Equations.ipynb",
-            "MPC%2C+PID%2C+Two+Tank+42.0.ipynb": "notebooks/Engineering/04/MPC%2C+PID%2C+Two+Tank+42.0.ipynb",
-            "MPC, PID, Two Tank 42.0.ipynb": "notebooks/Engineering/04/MPC, PID, Two Tank 42.0.ipynb",
-            "Mixed Paradigm Simulation.ipynb": "notebooks/Engineering/04/Mixed Paradigm Simulation.ipynb",
-            "Municipal Wastewater Aeration.ipynb": "notebooks/Engineering/04/Municipal Wastewater Aeration.ipynb",
-            "Plotly Example.ipynb": "notebooks/Engineering/04/Plotly Example.ipynb",
-            "Sailboat Mast Control.ipynb": "notebooks/Engineering/04/Sailboat Mast Control.ipynb",
-            "Solving Linear Equations.ipynb": "notebooks/Engineering/04/Solving Linear Equations.ipynb",
-            "T cell therapy of Chronic Myelogenous Leukemia.ipynb": "notebooks/Engineering/04/T cell therapy of Chronic Myelogenous Leukemia.ipynb",
-            "Temperature Profile Optimization of the Brewing Process.ipynb": "notebooks/Engineering/04/Temperature Profile Optimization of the Brewing Process.ipynb",
-            "Untitled.ipynb": "notebooks/Engineering/04/Untitled.ipynb",
-            "Widgets Example 2.ipynb": "notebooks/Engineering/04/Widgets Example 2.ipynb",
-            "Widgets Example.ipynb": "notebooks/Engineering/04/Widgets Example.ipynb",
-            "Wind Turbine Collective Blade Pitch Angle Control.ipynb": "notebooks/Engineering/04/Wind Turbine Collective Blade Pitch Angle Control.ipynb"
-        },
-        "05": {
-            "01_Unconstrained_Scalar_Optimization.ipynb": "notebooks/Engineering/05/01_Unconstrained_Scalar_Optimization.ipynb",
-            "02_Linear_Production_Model_with_Constraints.ipynb": "notebooks/Engineering/05/02_Linear_Production_Model_with_Constraints.ipynb",
-            "03_Linear_Programming.ipynb": "notebooks/Engineering/05/03_Linear_Programming.ipynb",
-            "04_Getting_Started_with_Pyomo.ipynb": "notebooks/Engineering/05/04_Getting_Started_with_Pyomo.ipynb",
-            "05_Pyomo_Examples.ipynb": "notebooks/Engineering/05/05_Pyomo_Examples.ipynb",
-            "06_Linear_Blending_Problem.ipynb": "notebooks/Engineering/05/06_Linear_Blending_Problem.ipynb",
-            "07_Mixture_Design_Cold_Weather_Fuel.ipynb": "notebooks/Engineering/05/07_Mixture_Design_Cold_Weather_Fuel.ipynb",
-            "08_Gasoline_Blending.ipynb": "notebooks/Engineering/05/08_Gasoline_Blending.ipynb",
-            "DAE.ipynb": "notebooks/Engineering/05/DAE.ipynb",
-            "Formaldehyde_Process.ipynb": "notebooks/Engineering/05/Formaldehyde_Process.ipynb",
-            "Problem_19_01.ipynb": "notebooks/Engineering/05/Problem_19_01.ipynb",
-            "Problem_19_03.ipynb": "notebooks/Engineering/05/Problem_19_03.ipynb",
-            "Problem_19_04.ipynb": "notebooks/Engineering/05/Problem_19_04.ipynb",
-            "Problem_19_05.ipynb": "notebooks/Engineering/05/Problem_19_05.ipynb",
-            "Problem_19_06.ipynb": "notebooks/Engineering/05/Problem_19_06.ipynb",
-            "Untitled.ipynb": "notebooks/Engineering/05/Untitled.ipynb",
-            "Untitled1.ipynb": "notebooks/Engineering/05/Untitled1.ipynb"
-        },
-        "06": {
-            "01_PID_Control.ipynb": "notebooks/Engineering/06/01_PID_Control.ipynb",
-            "02_Implementing_PID_Control_with_Python_Yield_Statement.ipynb": "notebooks/Engineering/06/02_Implementing_PID_Control_with_Python_Yield_Statement.ipynb",
-            "03_PID_Control_with_Setpoint_Weighting.ipynb": "notebooks/Engineering/06/03_PID_Control_with_Setpoint_Weighting.ipynb",
-            "04_PID_Control_with_Bumpless_Transfer.ipynb": "notebooks/Engineering/06/04_PID_Control_with_Bumpless_Transfer.ipynb",
-            "05_PID_Control_with_Anti-Reset-Windup.ipynb": "notebooks/Engineering/06/05_PID_Control_with_Anti-Reset-Windup.ipynb",
-            "06_Realizable_PID_Control.ipynb": "notebooks/Engineering/06/06_Realizable_PID_Control.ipynb",
-            "07_PID_Controller_Tuning.ipynb": "notebooks/Engineering/06/07_PID_Controller_Tuning.ipynb",
-            "10_PID_Control.ipynb": "notebooks/Engineering/06/10_PID_Control.ipynb",
-            "A Modular Approach to Simulation using Python Generators.ipynb": "notebooks/Engineering/06/A Modular Approach to Simulation using Python Generators.ipynb"
-        },
-        "07": {
-            "01_TCLab_Overview.ipynb": "notebooks/Engineering/07/01_TCLab_Overview.ipynb",
-            "02_Accessing_the_Temperature_Control_Laboratory.ipynb": "notebooks/Engineering/07/02_Accessing_the_Temperature_Control_Laboratory.ipynb",
-            "03_Synchronizing_with_Real_Time.ipynb": "notebooks/Engineering/07/03_Synchronizing_with_Real_Time.ipynb",
-            "04_Emulation_of_TCLab_for_Offline_Use.ipynb": "notebooks/Engineering/07/04_Emulation_of_TCLab_for_Offline_Use.ipynb",
-            "05_TCLab_Historian.ipynb": "notebooks/Engineering/07/05_TCLab_Historian.ipynb",
-            "06_TCLab_Plotter.ipynb": "notebooks/Engineering/07/06_TCLab_Plotter.ipynb",
-            "07_NotebookUI.ipynb": "notebooks/Engineering/07/07_NotebookUI.ipynb",
-            "08_Experiment_Class.ipynb": "notebooks/Engineering/07/08_Experiment_Class.ipynb",
-            "09_Labtime_Class.ipynb": "notebooks/Engineering/07/09_Labtime_Class.ipynb",
-            "10_Interactive_and_Nonblocking_Operation.ipynb": "notebooks/Engineering/07/10_Interactive_and_Nonblocking_Operation.ipynb",
-            "Development Notes.ipynb": "notebooks/Engineering/07/Development Notes.ipynb",
-            "PyMata Implementation.ipynb": "notebooks/Engineering/07/PyMata Implementation.ipynb"
+        "intro": {
+            "01": [
+                {
+                    "name": "003-PythonBasico-Funciones.ipynb",
+                    "path": "intro/01/003-PythonBasico-Funciones.ipynb",
+                    "size": 0.01591808
+                },
+                {
+                    "name": "005-NumPy-SeccionesArrays.ipynb",
+                    "path": "intro/01/005-NumPy-SeccionesArrays.ipynb",
+                    "size": 0.025198592000000002
+                },
+                {
+                    "name": "012-Scipy-Estadistica.ipynb",
+                    "path": "intro/01/012-Scipy-Estadistica.ipynb",
+                    "size": 0.144385024
+                },
+                {
+                    "name": "008-matplotlib-Intro.ipynb",
+                    "path": "intro/01/008-matplotlib-Intro.ipynb",
+                    "size": 0.782850048
+                },
+                {
+                    "name": "001-math-Matemáticas_Básicas.ipynb",
+                    "path": "intro/01/001-math-Matemáticas_Básicas.ipynb",
+                    "size": 0.013910016
+                },
+                {
+                    "name": "reflection_principle_bm.ipynb",
+                    "path": "intro/01/reflection_principle_bm.ipynb",
+                    "size": 0.12698624
+                },
+                {
+                    "name": "001-PythonBasico-JupyterNotebook.ipynb",
+                    "path": "intro/01/001-PythonBasico-JupyterNotebook.ipynb",
+                    "size": 0.018977792
+                },
+                {
+                    "name": "rieman_stieltjes_sums.ipynb",
+                    "path": "intro/01/rieman_stieltjes_sums.ipynb",
+                    "size": 0.41015193600000005
+                },
+                {
+                    "name": "riemann_sums.ipynb",
+                    "path": "intro/01/riemann_sums.ipynb",
+                    "size": 0.07324672
+                },
+                {
+                    "name": "004-NumPy-Importacion.ipynb",
+                    "path": "intro/01/004-NumPy-Importacion.ipynb",
+                    "size": 0.014633984000000001
+                },
+                {
+                    "name": "000-Bienvenido.ipynb",
+                    "path": "intro/01/000-Bienvenido.ipynb",
+                    "size": 0.027894784000000002
+                },
+                {
+                    "name": "002-NumPy-Intro.ipynb",
+                    "path": "intro/01/002-NumPy-Intro.ipynb",
+                    "size": 0.032627712
+                },
+                {
+                    "name": "010-SciPy-FuncionesEspeciales.ipynb",
+                    "path": "intro/01/010-SciPy-FuncionesEspeciales.ipynb",
+                    "size": 0.09867264
+                },
+                {
+                    "name": "003-NumPy-CaracteristicasArrays.ipynb",
+                    "path": "intro/01/003-NumPy-CaracteristicasArrays.ipynb",
+                    "size": 0.017929216
+                },
+                {
+                    "name": "007-NumPy-EntradaSalida.ipynb",
+                    "path": "intro/01/007-NumPy-EntradaSalida.ipynb",
+                    "size": 0.266287104
+                },
+                {
+                    "name": "bifurcation_diagram.ipynb",
+                    "path": "intro/01/bifurcation_diagram.ipynb",
+                    "size": 0.23005184
+                },
+                {
+                    "name": "006-NumPy-AlgerbraLineal.ipynb",
+                    "path": "intro/01/006-NumPy-AlgerbraLineal.ipynb",
+                    "size": 0.027584512000000002
+                },
+                {
+                    "name": "calculate_area_animation.ipynb",
+                    "path": "intro/01/calculate_area_animation.ipynb",
+                    "size": 0.350372864
+                },
+                {
+                    "name": "016-SymPy-Intro.ipynb",
+                    "path": "intro/01/016-SymPy-Intro.ipynb",
+                    "size": 0.15684608
+                },
+                {
+                    "name": "riemann_zeta_zeros.ipynb",
+                    "path": "intro/01/riemann_zeta_zeros.ipynb",
+                    "size": 0.281331712
+                },
+                {
+                    "name": "015-SciPy-EcuacionesDiferencialesOrdinarias.ipynb",
+                    "path": "intro/01/015-SciPy-EcuacionesDiferencialesOrdinarias.ipynb",
+                    "size": 0.065260544
+                },
+                {
+                    "name": "mandelbrot.ipynb",
+                    "path": "intro/01/mandelbrot.ipynb",
+                    "size": 0.195192832
+                },
+                {
+                    "name": "julia_set.ipynb",
+                    "path": "intro/01/julia_set.ipynb",
+                    "size": 0.17902694400000002
+                },
+                {
+                    "name": "009-matplotlib-widgets.ipynb",
+                    "path": "intro/01/009-matplotlib-widgets.ipynb",
+                    "size": 0.19346944000000002
+                },
+                {
+                    "name": "011-SciPy-CalculoIntegrales.ipynb",
+                    "path": "intro/01/011-SciPy-CalculoIntegrales.ipynb",
+                    "size": 0.16766361600000002
+                },
+                {
+                    "name": "013-SciPy-InterpolacionAjuste.ipynb",
+                    "path": "intro/01/013-SciPy-InterpolacionAjuste.ipynb",
+                    "size": 0.162630656
+                },
+                {
+                    "name": "snowflake.ipynb",
+                    "path": "intro/01/snowflake.ipynb",
+                    "size": 0.10358067200000001
+                },
+                {
+                    "name": "002-PythonBasico-Sintaxis.ipynb",
+                    "path": "intro/01/002-PythonBasico-Sintaxis.ipynb",
+                    "size": 0.045157376000000006
+                },
+                {
+                    "name": "014-SciPy-EcuacionesNoLineales.ipynb",
+                    "path": "intro/01/014-SciPy-EcuacionesNoLineales.ipynb",
+                    "size": 0.176848896
+                }
+            ]
         }
     },
-    "Intro": {
-        "000-Bienvenido.ipynb": "notebooks/Intro/000-Bienvenido.ipynb",
-        "001-PythonBasico-JupyterNotebook.ipynb": "notebooks/Intro/001-PythonBasico-JupyterNotebook.ipynb",
-        "001-math-Matemáticas_Básicas.ipynb": "notebooks/Intro/001-math-Matemáticas_Básicas.ipynb",
-        "002-NumPy-Intro.ipynb": "notebooks/Intro/002-NumPy-Intro.ipynb",
-        "002-PythonBasico-Sintaxis.ipynb": "notebooks/Intro/002-PythonBasico-Sintaxis.ipynb",
-        "003-NumPy-CaracteristicasArrays.ipynb": "notebooks/Intro/003-NumPy-CaracteristicasArrays.ipynb",
-        "003-PythonBasico-Funciones.ipynb": "notebooks/Intro/003-PythonBasico-Funciones.ipynb",
-        "004-NumPy-Importacion.ipynb": "notebooks/Intro/004-NumPy-Importacion.ipynb",
-        "005-NumPy-SeccionesArrays.ipynb": "notebooks/Intro/005-NumPy-SeccionesArrays.ipynb",
-        "006-NumPy-AlgerbraLineal.ipynb": "notebooks/Intro/006-NumPy-AlgerbraLineal.ipynb",
-        "007-NumPy-EntradaSalida.ipynb": "notebooks/Intro/007-NumPy-EntradaSalida.ipynb",
-        "008-matplotlib-Intro.ipynb": "notebooks/Intro/008-matplotlib-Intro.ipynb",
-        "009-matplotlib-widgets.ipynb": "notebooks/Intro/009-matplotlib-widgets.ipynb",
-        "010-SciPy-FuncionesEspeciales.ipynb": "notebooks/Intro/010-SciPy-FuncionesEspeciales.ipynb",
-        "011-SciPy-CalculoIntegrales.ipynb": "notebooks/Intro/011-SciPy-CalculoIntegrales.ipynb",
-        "012-Scipy-Estadistica.ipynb": "notebooks/Intro/012-Scipy-Estadistica.ipynb",
-        "013-SciPy-InterpolacionAjuste.ipynb": "notebooks/Intro/013-SciPy-InterpolacionAjuste.ipynb",
-        "014-SciPy-EcuacionesNoLineales.ipynb": "notebooks/Intro/014-SciPy-EcuacionesNoLineales.ipynb",
-        "015-SciPy-EcuacionesDiferencialesOrdinarias.ipynb": "notebooks/Intro/015-SciPy-EcuacionesDiferencialesOrdinarias.ipynb",
-        "016-SymPy-Intro.ipynb": "notebooks/Intro/016-SymPy-Intro.ipynb",
-        "bifurcation_diagram.ipynb": "notebooks/Intro/bifurcation_diagram.ipynb",
-        "calculate_area_animation.ipynb": "notebooks/Intro/calculate_area_animation.ipynb",
-        "julia_set.ipynb": "notebooks/Intro/julia_set.ipynb",
-        "mandelbrot.ipynb": "notebooks/Intro/mandelbrot.ipynb",
-        "reflection_principle_bm.ipynb": "notebooks/Intro/reflection_principle_bm.ipynb",
-        "rieman_stieltjes_sums.ipynb": "notebooks/Intro/rieman_stieltjes_sums.ipynb",
-        "riemann_sums.ipynb": "notebooks/Intro/riemann_sums.ipynb",
-        "riemann_zeta_zeros.ipynb": "notebooks/Intro/riemann_zeta_zeros.ipynb",
-        "snowflake.ipynb": "notebooks/Intro/snowflake.ipynb"
-    },
-    "ScienceData": {
-        "01": {
-            "01.00-Syllabus.ipynb": "notebooks/ScienceData/01/01.00-Syllabus.ipynb",
-            "02.00-Modeling.ipynb": "notebooks/ScienceData/01/02.00-Modeling.ipynb",
-            "02.01-Campus-SIR-modeling.ipynb": "notebooks/ScienceData/01/02.01-Campus-SIR-modeling.ipynb",
-            "02.02-Campus-SEIR-modeling.ipynb": "notebooks/ScienceData/01/02.02-Campus-SEIR-modeling.ipynb",
-            "02.03-Campus-reopening.ipynb": "notebooks/ScienceData/01/02.03-Campus-reopening.ipynb",
-            "02.04-Linear-Analysis-of-Campus-Reopening.ipynb": "notebooks/ScienceData/01/02.04-Linear-Analysis-of-Campus-Reopening.ipynb",
-            "03.00-Introduction-to-Discrete-Event-Modeling.ipynb": "notebooks/ScienceData/01/03.00-Introduction-to-Discrete-Event-Modeling.ipynb",
-            "03.01-Python-Generators.ipynb": "notebooks/ScienceData/01/03.01-Python-Generators.ipynb",
-            "03.02-Introduction-to-Simpy.ipynb": "notebooks/ScienceData/01/03.02-Introduction-to-Simpy.ipynb",
-            "03.03-Agent-Based-Models.ipynb": "notebooks/ScienceData/01/03.03-Agent-Based-Models.ipynb",
-            "03.04-Modeling-Events.ipynb": "notebooks/ScienceData/01/03.04-Modeling-Events.ipynb",
-            "03.05-Assignment.ipynb": "notebooks/ScienceData/01/03.05-Assignment.ipynb",
-            "03.05d-Agent-based-model-covid.ipynb": "notebooks/ScienceData/01/03.05d-Agent-based-model-covid.ipynb",
-            "03.06-Queuing-Systems-and-Poisson-Processes.ipynb": "notebooks/ScienceData/01/03.06-Queuing-Systems-and-Poisson-Processes.ipynb",
-            "03.07-Simulating-Queuing-Systems.ipynb": "notebooks/ScienceData/01/03.07-Simulating-Queuing-Systems.ipynb",
-            "03.08-Grocery-Store.ipynb": "notebooks/ScienceData/01/03.08-Grocery-Store.ipynb",
-            "03.09-Batch-Chemical-Process.ipynb": "notebooks/ScienceData/01/03.09-Batch-Chemical-Process.ipynb",
-            "03.10a-Agent-based-campus-covid-model.ipynb": "notebooks/ScienceData/01/03.10a-Agent-based-campus-covid-model.ipynb",
-            "brownian_motion_animation.ipynb": "notebooks/ScienceData/01/brownian_motion_animation.ipynb",
-            "drifted_brownian_motion.ipynb": "notebooks/ScienceData/01/drifted_brownian_motion.ipynb",
-            "geometric_brownian_motion.ipynb": "notebooks/ScienceData/01/geometric_brownian_motion.ipynb",
-            "random_walk_animation.ipynb": "notebooks/ScienceData/01/random_walk_animation.ipynb"
-        },
-        "02": {
-            "Changes_in_Rainy_River_Flows_1970-2010-Copy1.ipynb": "notebooks/ScienceData/02/Changes_in_Rainy_River_Flows_1970-2010-Copy1.ipynb",
-            "Changes_in_Rainy_River_Flows_1970-2010.ipynb": "notebooks/ScienceData/02/Changes_in_Rainy_River_Flows_1970-2010.ipynb",
-            "Dashboard.ipynb": "notebooks/ScienceData/02/Dashboard.ipynb",
-            "Data_Examples.ipynb": "notebooks/ScienceData/02/Data_Examples.ipynb",
-            "ENSO.ipynb": "notebooks/ScienceData/02/ENSO.ipynb",
-            "Estimating_Rainy_Lake_Inflows_1971-2010.ipynb": "notebooks/ScienceData/02/Estimating_Rainy_Lake_Inflows_1971-2010.ipynb",
-            "Feasibility_of_Rainy_Lake_Rule_Curves.ipynb": "notebooks/ScienceData/02/Feasibility_of_Rainy_Lake_Rule_Curves.ipynb",
-            "Flow_Constrictions_on_Upper_Rainy_River.ipynb": "notebooks/ScienceData/02/Flow_Constrictions_on_Upper_Rainy_River.ipynb",
-            "Freshet_Predictor_for_Rainy_Lake.ipynb": "notebooks/ScienceData/02/Freshet_Predictor_for_Rainy_Lake.ipynb",
-            "Global_Historical_Climatology_Network.ipynb": "notebooks/ScienceData/02/Global_Historical_Climatology_Network.ipynb",
-            "Harmonizing_Rule_Curves_to_Seasonal_Inflows.ipynb": "notebooks/ScienceData/02/Harmonizing_Rule_Curves_to_Seasonal_Inflows.ipynb",
-            "Ice_Out_Dates.ipynb": "notebooks/ScienceData/02/Ice_Out_Dates.ipynb",
-            "Ice_Out_Predictor_for_Rainy_Lake.ipynb": "notebooks/ScienceData/02/Ice_Out_Predictor_for_Rainy_Lake.ipynb",
-            "Implementation_of_Rainy_Lake_Rule_Curves_with_Feedback_Control.ipynb": "notebooks/ScienceData/02/Implementation_of_Rainy_Lake_Rule_Curves_with_Feedback_Control.ipynb",
-            "Improved_Prediction_of_Inflows.ipynb": "notebooks/ScienceData/02/Improved_Prediction_of_Inflows.ipynb",
-            "Imputing_the_Effect_of_the_2000_Rule_Curve_Changes_on_Rainy_River.ipynb": "notebooks/ScienceData/02/Imputing_the_Effect_of_the_2000_Rule_Curve_Changes_on_Rainy_River.ipynb",
-            "Limits to Rule Curve Performance.ipynb": "notebooks/ScienceData/02/Limits to Rule Curve Performance.ipynb",
-            "Lumped_Parameter_Model_for_Lake_Dynamics.ipynb": "notebooks/ScienceData/02/Lumped_Parameter_Model_for_Lake_Dynamics.ipynb",
-            "Model Predictive Control.ipynb": "notebooks/ScienceData/02/Model Predictive Control.ipynb",
-            "Model_Predictive_Control_of_Dams_at_Kettle_Falls_and_International_Falls.ipynb": "notebooks/ScienceData/02/Model_Predictive_Control_of_Dams_at_Kettle_Falls_and_International_Falls.ipynb",
-            "Namakan_Lake_Outflows.ipynb": "notebooks/ScienceData/02/Namakan_Lake_Outflows.ipynb",
-            "Namakan_Lake_Water_Levels.ipynb": "notebooks/ScienceData/02/Namakan_Lake_Water_Levels.ipynb",
-            "Namakan_and_Rainy_Lake_Water_Levels_1970-2010.ipynb": "notebooks/ScienceData/02/Namakan_and_Rainy_Lake_Water_Levels_1970-2010.ipynb",
-            "Precipitation_at_International_Falls_1970-2010.ipynb": "notebooks/ScienceData/02/Precipitation_at_International_Falls_1970-2010.ipynb",
-            "Projects.ipynb": "notebooks/ScienceData/02/Projects.ipynb",
-            "Rainy_Lake_Water_Levels.ipynb": "notebooks/ScienceData/02/Rainy_Lake_Water_Levels.ipynb",
-            "Rainy_River_Flows.ipynb": "notebooks/ScienceData/02/Rainy_River_Flows.ipynb",
-            "Rule_Curve_Optimization.ipynb": "notebooks/ScienceData/02/Rule_Curve_Optimization.ipynb",
-            "Rule_Curves_for_Rainy_and_Namakan_Lakes.ipynb": "notebooks/ScienceData/02/Rule_Curves_for_Rainy_and_Namakan_Lakes.ipynb",
-            "Stage-Volume_Relationships.ipynb": "notebooks/ScienceData/02/Stage-Volume_Relationships.ipynb",
-            "USGS Surface Water Daily Data.ipynb": "notebooks/ScienceData/02/USGS Surface Water Daily Data.ipynb",
-            "Untitled.ipynb": "notebooks/ScienceData/02/Untitled.ipynb",
-            "Water_Survey_of_Canada_HYDAT.ipynb": "notebooks/ScienceData/02/Water_Survey_of_Canada_HYDAT.ipynb",
-            "Water_Survey_of_Canada_Usage.ipynb": "notebooks/ScienceData/02/Water_Survey_of_Canada_Usage.ipynb",
-            "preprocess_laptop_dataset.ipynb": "notebooks/ScienceData/02/preprocess_laptop_dataset.ipynb"
-        },
-        "03": {
-            "01.00-Getting-Started-with-Pyomo.ipynb": "notebooks/ScienceData/03/01.00-Getting-Started-with-Pyomo.ipynb",
-            "01.01-Installing-Pyomo.ipynb": "notebooks/ScienceData/03/01.01-Installing-Pyomo.ipynb",
-            "01.02-Running-Pyomo-on-Google-Colab.ipynb": "notebooks/ScienceData/03/01.02-Running-Pyomo-on-Google-Colab.ipynb",
-            "01.03-Running-Pyomo-on-the-Notre-Dame-CRC-Cluster.ipynb": "notebooks/ScienceData/03/01.03-Running-Pyomo-on-the-Notre-Dame-CRC-Cluster.ipynb",
-            "01.04-Cross-Platform-Installation-of-Pyomo-and-Solvers.ipynb": "notebooks/ScienceData/03/01.04-Cross-Platform-Installation-of-Pyomo-and-Solvers.ipynb",
-            "02.00-Linear-Programming.ipynb": "notebooks/ScienceData/03/02.00-Linear-Programming.ipynb",
-            "02.01-Production-Models-with-Linear-Constraints.ipynb": "notebooks/ScienceData/03/02.01-Production-Models-with-Linear-Constraints.ipynb",
-            "02.02-Linear-Blending-Problem.ipynb": "notebooks/ScienceData/03/02.02-Linear-Blending-Problem.ipynb",
-            "02.03-Mixture-Design-Cold-Weather-Fuel.ipynb": "notebooks/ScienceData/03/02.03-Mixture-Design-Cold-Weather-Fuel.ipynb",
-            "02.04-Gasoline-Blending.ipynb": "notebooks/ScienceData/03/02.04-Gasoline-Blending.ipynb",
-            "02.05-Model-Predictive-Control-of-a-Double-Integrator.ipynb": "notebooks/ScienceData/03/02.05-Model-Predictive-Control-of-a-Double-Integrator.ipynb",
-            "03.00-Assignment-Problems.ipynb": "notebooks/ScienceData/03/03.00-Assignment-Problems.ipynb",
-            "03.01-Transportation-Networks.ipynb": "notebooks/ScienceData/03/03.01-Transportation-Networks.ipynb",
-            "04.00-Scheduling-with-Disjunctive-Constraints.ipynb": "notebooks/ScienceData/03/04.00-Scheduling-with-Disjunctive-Constraints.ipynb",
-            "04.01-Machine-Bottleneck.ipynb": "notebooks/ScienceData/03/04.01-Machine-Bottleneck.ipynb",
-            "04.02-Job-Shop-Scheduling.ipynb": "notebooks/ScienceData/03/04.02-Job-Shop-Scheduling.ipynb",
-            "04.03-Maintenance-Planning.ipynb": "notebooks/ScienceData/03/04.03-Maintenance-Planning.ipynb",
-            "04.04-Scheduling-Multipurpose-Batch-Processes-using-State-Task_Networks.ipynb": "notebooks/ScienceData/03/04.04-Scheduling-Multipurpose-Batch-Processes-using-State-Task_Networks.ipynb",
-            "04.05-Unit-Commitment.ipynb": "notebooks/ScienceData/03/04.05-Unit-Commitment.ipynb",
-            "05.00-Simulation.ipynb": "notebooks/ScienceData/03/05.00-Simulation.ipynb",
-            "05.01-Response-of-a-First-Order-System-to-Step-and-Square-Wave-Inputs.ipynb": "notebooks/ScienceData/03/05.01-Response-of-a-First-Order-System-to-Step-and-Square-Wave-Inputs.ipynb",
-            "05.02-Exothermic-CSTR.ipynb": "notebooks/ScienceData/03/05.02-Exothermic-CSTR.ipynb",
-            "05.03-Heat_Conduction_in_Various_Geometries.ipynb": "notebooks/ScienceData/03/05.03-Heat_Conduction_in_Various_Geometries.ipynb",
-            "06.00-Differential-Algebraic-Equations.ipynb": "notebooks/ScienceData/03/06.00-Differential-Algebraic-Equations.ipynb",
-            "06.01-Unconstrained-Scalar-Optimization.ipynb": "notebooks/ScienceData/03/06.01-Unconstrained-Scalar-Optimization.ipynb",
-            "06.02-Maximizing-Concentration-of-an-Intermediate-in-a-Batch-Reactor.ipynb": "notebooks/ScienceData/03/06.02-Maximizing-Concentration-of-an-Intermediate-in-a-Batch-Reactor.ipynb",
-            "06.03-Path-Planning-for-a-Simple-Car.ipynb": "notebooks/ScienceData/03/06.03-Path-Planning-for-a-Simple-Car.ipynb",
-            "06.04-Soft-Landing-Apollo-11-on-the-Moon.ipynb": "notebooks/ScienceData/03/06.04-Soft-Landing-Apollo-11-on-the-Moon.ipynb",
-            "07.00-Parameter-Estimation.ipynb": "notebooks/ScienceData/03/07.00-Parameter-Estimation.ipynb",
-            "07.01-Parameter-Estimation-Catalytic-Reactor.ipynb": "notebooks/ScienceData/03/07.01-Parameter-Estimation-Catalytic-Reactor.ipynb",
-            "08.00-Financial-Applications.ipynb": "notebooks/ScienceData/03/08.00-Financial-Applications.ipynb",
-            "08.01-Obtaining-Historical-Stock_-ata.ipynb": "notebooks/ScienceData/03/08.01-Obtaining-Historical-Stock_-ata.ipynb",
-            "08.02-Consolidating-and-Charting-Stock-Data.ipynb": "notebooks/ScienceData/03/08.02-Consolidating-and-Charting-Stock-Data.ipynb",
-            "08.03-Binomial-Model-for-Pricing-Options.ipynb": "notebooks/ScienceData/03/08.03-Binomial-Model-for-Pricing-Options.ipynb",
-            "08.04-MAD-Portfolio-Optimization.ipynb": "notebooks/ScienceData/03/08.04-MAD-Portfolio-Optimization.ipynb",
-            "08.05-Real-Options.ipynb": "notebooks/ScienceData/03/08.05-Real-Options.ipynb",
-            "A.00-Style-Guide.ipynb": "notebooks/ScienceData/03/A.00-Style-Guide.ipynb",
-            "index.ipynb": "notebooks/ScienceData/03/index.ipynb",
-            "toc.ipynb": "notebooks/ScienceData/03/toc.ipynb"
-        },
-        "04": {
-            "01.00-Introduction.ipynb": "notebooks/ScienceData/04/01.00-Introduction.ipynb",
-            "02.00-Challenge_of_Controlling_Natural_Watersheds.ipynb": "notebooks/ScienceData/04/02.00-Challenge_of_Controlling_Natural_Watersheds.ipynb",
-            "02.01-Namakan_and_Rainy_Lake_Water_Levels_1970-2010.ipynb": "notebooks/ScienceData/04/02.01-Namakan_and_Rainy_Lake_Water_Levels_1970-2010.ipynb",
-            "02.02-Changes_in_Rainy_River_Flows_1970-2010-Copy1.ipynb": "notebooks/ScienceData/04/02.02-Changes_in_Rainy_River_Flows_1970-2010-Copy1.ipynb",
-            "02.03-Changes_in_Rainy_River_Flows_1970-2010.ipynb": "notebooks/ScienceData/04/02.03-Changes_in_Rainy_River_Flows_1970-2010.ipynb",
-            "02.04-Flow_Constrictions_on_Upper_Rainy_River.ipynb": "notebooks/ScienceData/04/02.04-Flow_Constrictions_on_Upper_Rainy_River.ipynb",
-            "02.05-State-of-Nature-Flows.ipynb": "notebooks/ScienceData/04/02.05-State-of-Nature-Flows.ipynb",
-            "03.00-Analysis_and_Design_of_Rule_Curves.ipynb": "notebooks/ScienceData/04/03.00-Analysis_and_Design_of_Rule_Curves.ipynb",
-            "03.01-Feasibility_of_Rainy_Lake_Rule_Curves.ipynb": "notebooks/ScienceData/04/03.01-Feasibility_of_Rainy_Lake_Rule_Curves.ipynb",
-            "03.02-Imputing_the_Effect_of_the_2000_Rule_Curve_Changes_on_Rainy_River.ipynb": "notebooks/ScienceData/04/03.02-Imputing_the_Effect_of_the_2000_Rule_Curve_Changes_on_Rainy_River.ipynb",
-            "03.03-Limits_to_Rule_Curve_Performance.ipynb": "notebooks/ScienceData/04/03.03-Limits_to_Rule_Curve_Performance.ipynb",
-            "03.04-Harmonizing_Rule_Curves_to_Seasonal_Inflows.ipynb": "notebooks/ScienceData/04/03.04-Harmonizing_Rule_Curves_to_Seasonal_Inflows.ipynb",
-            "03.05-Rule_Curve_Optimization.ipynb": "notebooks/ScienceData/04/03.05-Rule_Curve_Optimization.ipynb",
-            "04.00-Estimation.ipynb": "notebooks/ScienceData/04/04.00-Estimation.ipynb",
-            "04.01-Estimating_Rainy_Lake_Inflows_1971-2010.ipynb": "notebooks/ScienceData/04/04.01-Estimating_Rainy_Lake_Inflows_1971-2010.ipynb",
-            "05.00-Control.ipynb": "notebooks/ScienceData/04/05.00-Control.ipynb",
-            "05.01-Lumped_Parameter_Model_for_Lake_Dynamics.ipynb": "notebooks/ScienceData/04/05.01-Lumped_Parameter_Model_for_Lake_Dynamics.ipynb",
-            "05.02-Implementation_of_Rainy_Lake_Rule_Curves_with_Feedback_Control.ipynb": "notebooks/ScienceData/04/05.02-Implementation_of_Rainy_Lake_Rule_Curves_with_Feedback_Control.ipynb",
-            "05.03-Model_Predictive_Control.ipynb": "notebooks/ScienceData/04/05.03-Model_Predictive_Control.ipynb",
-            "06.00-Adaptive_Management.ipynb": "notebooks/ScienceData/04/06.00-Adaptive_Management.ipynb",
-            "06.01-Ice_Out_Predictor_for_Rainy_Lake.ipynb": "notebooks/ScienceData/04/06.01-Ice_Out_Predictor_for_Rainy_Lake.ipynb",
-            "06.02-Freshet_Predictor_for_Rainy_Lake.ipynb": "notebooks/ScienceData/04/06.02-Freshet_Predictor_for_Rainy_Lake.ipynb",
-            "A.00-Data_Sources.ipynb": "notebooks/ScienceData/04/A.00-Data_Sources.ipynb",
-            "A.01-Water_Survey_of_Canada_HYDAT_Database.ipynb": "notebooks/ScienceData/04/A.01-Water_Survey_of_Canada_HYDAT_Database.ipynb",
-            "A.02-Water_Survey_of_Canada_Usage.ipynb": "notebooks/ScienceData/04/A.02-Water_Survey_of_Canada_Usage.ipynb",
-            "A.03-Rainy_Lake_Water_Levels.ipynb": "notebooks/ScienceData/04/A.03-Rainy_Lake_Water_Levels.ipynb",
-            "A.04-Namakan_Lake_Water_Levels.ipynb": "notebooks/ScienceData/04/A.04-Namakan_Lake_Water_Levels.ipynb",
-            "A.05-Rainy_River_Flows.ipynb": "notebooks/ScienceData/04/A.05-Rainy_River_Flows.ipynb",
-            "A.06-Namakan_Lake_Outflows.ipynb": "notebooks/ScienceData/04/A.06-Namakan_Lake_Outflows.ipynb",
-            "A.07-USGS_Surface_Water_Daily_Data.ipynb": "notebooks/ScienceData/04/A.07-USGS_Surface_Water_Daily_Data.ipynb",
-            "A.08-Stage-Volume_Relationships.ipynb": "notebooks/ScienceData/04/A.08-Stage-Volume_Relationships.ipynb",
-            "A.09-Rule_Curves_for_Rainy_and_Namakan_Lakes.ipynb": "notebooks/ScienceData/04/A.09-Rule_Curves_for_Rainy_and_Namakan_Lakes.ipynb",
-            "A.10-Ice_Out_Dates.ipynb": "notebooks/ScienceData/04/A.10-Ice_Out_Dates.ipynb",
-            "A.11-Global_Historical_Climatology_Network.ipynb": "notebooks/ScienceData/04/A.11-Global_Historical_Climatology_Network.ipynb",
-            "A.12-Precipitation_at_International_Falls_1970-2010.ipynb": "notebooks/ScienceData/04/A.12-Precipitation_at_International_Falls_1970-2010.ipynb",
-            "A.13-ENSO.ipynb": "notebooks/ScienceData/04/A.13-ENSO.ipynb",
-            "B.00-Projects.ipynb": "notebooks/ScienceData/04/B.00-Projects.ipynb",
-            "B.01-Solar_Cycle.ipynb": "notebooks/ScienceData/04/B.01-Solar_Cycle.ipynb",
-            "B.02-Dashboard.ipynb": "notebooks/ScienceData/04/B.02-Dashboard.ipynb",
-            "index.ipynb": "notebooks/ScienceData/04/index.ipynb",
-            "toc.ipynb": "notebooks/ScienceData/04/toc.ipynb"
-        },
-        "05": {
-            "050-Pandas-Intro.ipynb": "notebooks/ScienceData/05/050-Pandas-Intro.ipynb",
-            "051-Pandas-Ejercicios.ipynb": "notebooks/ScienceData/05/051-Pandas-Ejercicios.ipynb",
-            "COVID-19.ipynb": "notebooks/ScienceData/05/COVID-19.ipynb",
-            "T1 - 1 - Data Cleaning - Carga de datos.ipynb": "notebooks/ScienceData/05/T1 - 1 - Data Cleaning - Carga de datos.ipynb",
-            "T1 - 2 - Data Cleaning - Análisis Preliminar de los Datos.ipynb": "notebooks/ScienceData/05/T1 - 2 - Data Cleaning - Análisis Preliminar de los Datos.ipynb",
-            "T1 - 3 - Data Cleaning - Plots.ipynb": "notebooks/ScienceData/05/T1 - 3 - Data Cleaning - Plots.ipynb",
-            "T10 - 1 - Analisis de Componentes Principales.ipynb": "notebooks/ScienceData/05/T10 - 1 - Analisis de Componentes Principales.ipynb",
-            "T10 - 2 - Analisis de Componentes Principales SK Learn.ipynb": "notebooks/ScienceData/05/T10 - 2 - Analisis de Componentes Principales SK Learn.ipynb",
-            "T10 - 3 - Plotly para dibujar.ipynb": "notebooks/ScienceData/05/T10 - 3 - Plotly para dibujar.ipynb",
-            "T11 - 1 - TensorFlow101.ipynb": "notebooks/ScienceData/05/T11 - 1 - TensorFlow101.ipynb",
-            "T11 - 2 - Señales de tráfico.ipynb": "notebooks/ScienceData/05/T11 - 2 - Señales de tráfico.ipynb",
-            "T11 - 3 - Reconocimiento de texto escrito.ipynb": "notebooks/ScienceData/05/T11 - 3 - Reconocimiento de texto escrito.ipynb",
-            "T12 - 1 - R y Python.ipynb": "notebooks/ScienceData/05/T12 - 1 - R y Python.ipynb",
-            "T2 - 1 - Data Cleaning - Data Wrangling.ipynb": "notebooks/ScienceData/05/T2 - 1 - Data Cleaning - Data Wrangling.ipynb",
-            "T2 - 2 - Data Cleaning - Funciones de distribución de probabilidad.ipynb": "notebooks/ScienceData/05/T2 - 2 - Data Cleaning - Funciones de distribución de probabilidad.ipynb",
-            "T2 - 3 - Data Cleaning - Agrupación de datos.ipynb": "notebooks/ScienceData/05/T2 - 3 - Data Cleaning - Agrupación de datos.ipynb",
-            "T2 - 4 - Data Cleaning - Concatenación de datos.ipynb": "notebooks/ScienceData/05/T2 - 4 - Data Cleaning - Concatenación de datos.ipynb",
-            "T3 - 1 - Statistics - Correlación.ipynb": "notebooks/ScienceData/05/T3 - 1 - Statistics - Correlación.ipynb",
-            "T4 - 1 - Linear Regression - Datos ficticios.ipynb": "notebooks/ScienceData/05/T4 - 1 - Linear Regression - Datos ficticios.ipynb",
-            "T4 - 2 - Linear Regression - Regresión lineal con statsmodel.ipynb": "notebooks/ScienceData/05/T4 - 2 - Linear Regression - Regresión lineal con statsmodel.ipynb",
-            "T4 - 3 - Linear Regression - Validación del modelo.ipynb": "notebooks/ScienceData/05/T4 - 3 - Linear Regression - Validación del modelo.ipynb",
-            "T4 - 4 - Linear Regression - SciKit-Learn.ipynb": "notebooks/ScienceData/05/T4 - 4 - Linear Regression - SciKit-Learn.ipynb",
-            "T4 - 5 - Linear Regression - Problemas con la regresión lineal.ipynb": "notebooks/ScienceData/05/T4 - 5 - Linear Regression - Problemas con la regresión lineal.ipynb",
-            "T5 - 1 - Logistic Regression - Matemáticas.ipynb": "notebooks/ScienceData/05/T5 - 1 - Logistic Regression - Matemáticas.ipynb",
-            "T5 - 2 - Logistic Regression - Implementación.ipynb": "notebooks/ScienceData/05/T5 - 2 - Logistic Regression - Implementación.ipynb",
-            "T5 - 3 - Logistic Regression - Implementación con Python.ipynb": "notebooks/ScienceData/05/T5 - 3 - Logistic Regression - Implementación con Python.ipynb",
-            "T6 - 1 - Distancias.ipynb": "notebooks/ScienceData/05/T6 - 1 - Distancias.ipynb",
-            "T6 - 2 - Clustering Jerárquico.ipynb": "notebooks/ScienceData/05/T6 - 2 - Clustering Jerárquico.ipynb",
-            "T6 - 3 - K-Means.ipynb": "notebooks/ScienceData/05/T6 - 3 - K-Means.ipynb",
-            "T6 - 4 - Clustering completo.ipynb": "notebooks/ScienceData/05/T6 - 4 - Clustering completo.ipynb",
-            "T6 - 5 - Método del codo y la silueta.ipynb": "notebooks/ScienceData/05/T6 - 5 - Método del codo y la silueta.ipynb",
-            "T6 - 6 - Propagación de la afinidad.ipynb": "notebooks/ScienceData/05/T6 - 6 - Propagación de la afinidad.ipynb",
-            "T6 - 7 - K Medoides.ipynb": "notebooks/ScienceData/05/T6 - 7 - K Medoides.ipynb",
-            "T7 - 1 - Trees - Árboles de Decisión.ipynb": "notebooks/ScienceData/05/T7 - 1 - Trees - Árboles de Decisión.ipynb",
-            "T7 - 2 - Trees - Árboles de Regresión.ipynb": "notebooks/ScienceData/05/T7 - 2 - Trees - Árboles de Regresión.ipynb",
-            "T8 - 1 - SVM - Linear SVC.ipynb": "notebooks/ScienceData/05/T8 - 1 - SVM - Linear SVC.ipynb",
-            "T8 - 2 - SVM - Model.ipynb": "notebooks/ScienceData/05/T8 - 2 - SVM - Model.ipynb",
-            "T8 - 3 - SVM - Kernels.ipynb": "notebooks/ScienceData/05/T8 - 3 - SVM - Kernels.ipynb",
-            "T8 - 4 - SVM - Face Recognition.ipynb": "notebooks/ScienceData/05/T8 - 4 - SVM - Face Recognition.ipynb",
-            "T8 - 5 - SVM - Clasificación de Iris.ipynb": "notebooks/ScienceData/05/T8 - 5 - SVM - Clasificación de Iris.ipynb",
-            "T8 - 6 - SVM - Regresión.ipynb": "notebooks/ScienceData/05/T8 - 6 - SVM - Regresión.ipynb",
-            "T9 - 1 - K Nearest Neighbors.ipynb": "notebooks/ScienceData/05/T9 - 1 - K Nearest Neighbors.ipynb",
-            "T9 - 2 - K Nearest Neighbors Implementation.ipynb": "notebooks/ScienceData/05/T9 - 2 - K Nearest Neighbors Implementation.ipynb",
-            "T9 - 3 - Sistemas de recomendación.ipynb": "notebooks/ScienceData/05/T9 - 3 - Sistemas de recomendación.ipynb"
-        },
-        "06": {
-            "01.00-Getting-Started-Guides.ipynb": "notebooks/ScienceData/06/01.00-Getting-Started-Guides.ipynb",
-            "01.01-Getting-Started-with-CVXPY.ipynb": "notebooks/ScienceData/06/01.01-Getting-Started-with-CVXPY.ipynb",
-            "01.02-Getting-Started-with-Gurobi.ipynb": "notebooks/ScienceData/06/01.02-Getting-Started-with-Gurobi.ipynb",
-            "01.03-Getting-Started-with-GNU-MathProg.ipynb": "notebooks/ScienceData/06/01.03-Getting-Started-with-GNU-MathProg.ipynb",
-            "01.04-Getting-Started-with-Pandas.ipynb": "notebooks/ScienceData/06/01.04-Getting-Started-with-Pandas.ipynb",
-            "02.00-Simulation-of-Discrete-Event-Systems.ipynb": "notebooks/ScienceData/06/02.00-Simulation-of-Discrete-Event-Systems.ipynb",
-            "02.01-Getting-Started-with-SimPy.ipynb": "notebooks/ScienceData/06/02.01-Getting-Started-with-SimPy.ipynb",
-            "02.02-Queuing-Systems.ipynb": "notebooks/ScienceData/06/02.02-Queuing-Systems.ipynb",
-            "02.03-Emergency_Room_Simulation.ipynb": "notebooks/ScienceData/06/02.03-Emergency_Room_Simulation.ipynb",
-            "02.04-Discrete-Event-Simulation-of-a-Batch-Process.ipynb": "notebooks/ScienceData/06/02.04-Discrete-Event-Simulation-of-a-Batch-Process.ipynb",
-            "02.05-Extracting_Information_from_Discrete-Event_Simulations.ipynb": "notebooks/ScienceData/06/02.05-Extracting_Information_from_Discrete-Event_Simulations.ipynb",
-            "02.06-Spankys-Pizzeria.ipynb": "notebooks/ScienceData/06/02.06-Spankys-Pizzeria.ipynb",
-            "02.07-Warehouse-Fulfillment-Operations.ipynb": "notebooks/ScienceData/06/02.07-Warehouse-Fulfillment-Operations.ipynb",
-            "02.08-Geometric-Brownian-Price-Process.ipynb": "notebooks/ScienceData/06/02.08-Geometric-Brownian-Price-Process.ipynb",
-            "02.09-Continuous-Time-Simulation-in-SimPy.ipynb": "notebooks/ScienceData/06/02.09-Continuous-Time-Simulation-in-SimPy.ipynb",
-            "02.10-Decentralized-Control-in-a-Supply-Chain.ipynb": "notebooks/ScienceData/06/02.10-Decentralized-Control-in-a-Supply-Chain.ipynb",
-            "03.00-Linear-Optimization.ipynb": "notebooks/ScienceData/06/03.00-Linear-Optimization.ipynb",
-            "03.01-Production-Models-with-Constraints.ipynb": "notebooks/ScienceData/06/03.01-Production-Models-with-Constraints.ipynb",
-            "03.02-Transportation-Networks.ipynb": "notebooks/ScienceData/06/03.02-Transportation-Networks.ipynb",
-            "03.03-Data-Reconciliation.ipynb": "notebooks/ScienceData/06/03.03-Data-Reconciliation.ipynb",
-            "04.00-Scheduling.ipynb": "notebooks/ScienceData/06/04.00-Scheduling.ipynb",
-            "04.01-Critical-Path-Method.ipynb": "notebooks/ScienceData/06/04.01-Critical-Path-Method.ipynb",
-            "04.02-Machine-Bottleneck.ipynb": "notebooks/ScienceData/06/04.02-Machine-Bottleneck.ipynb",
-            "04.03-Job-Shop-Scheduling.ipynb": "notebooks/ScienceData/06/04.03-Job-Shop-Scheduling.ipynb",
-            "04.04-Jesuit-Volunteer-Corps.ipynb": "notebooks/ScienceData/06/04.04-Jesuit-Volunteer-Corps.ipynb",
-            "04.05-Unit-Commitment.ipynb": "notebooks/ScienceData/06/04.05-Unit-Commitment.ipynb",
-            "04.06-Scheduling-Multipurpose-Batch-Processes-using-State-Task-Networks.ipynb": "notebooks/ScienceData/06/04.06-Scheduling-Multipurpose-Batch-Processes-using-State-Task-Networks.ipynb",
-            "05.00-Logistics.ipynb": "notebooks/ScienceData/06/05.00-Logistics.ipynb",
-            "05.01-Economic-Order-Quantity.ipynb": "notebooks/ScienceData/06/05.01-Economic-Order-Quantity.ipynb",
-            "05.02-Assignment-Problems.ipynb": "notebooks/ScienceData/06/05.02-Assignment-Problems.ipynb",
-            "05.03-Vehicle-Routing.ipynb": "notebooks/ScienceData/06/05.03-Vehicle-Routing.ipynb",
-            "05.04-Vehicle-Routing-with-Time-Windows.ipynb": "notebooks/ScienceData/06/05.04-Vehicle-Routing-with-Time-Windows.ipynb",
-            "05.05-Traveling-Salesman-Problem-with-Time-Windows.ipynb": "notebooks/ScienceData/06/05.05-Traveling-Salesman-Problem-with-Time-Windows.ipynb",
-            "05.06-Pickup-and-Delivery.ipynb": "notebooks/ScienceData/06/05.06-Pickup-and-Delivery.ipynb",
-            "05.07-Stock-Cutting.ipynb": "notebooks/ScienceData/06/05.07-Stock-Cutting.ipynb",
-            "06.00-Optimization-under-Uncertainty.ipynb": "notebooks/ScienceData/06/06.00-Optimization-under-Uncertainty.ipynb",
-            "06.01-Newsvendor-Problem.ipynb": "notebooks/ScienceData/06/06.01-Newsvendor-Problem.ipynb",
-            "06.02-Scenario-Analysis-for-a-Plant-Expansion.ipynb": "notebooks/ScienceData/06/06.02-Scenario-Analysis-for-a-Plant-Expansion.ipynb",
-            "06.03-Risk-Neutral-Gambler.ipynb": "notebooks/ScienceData/06/06.03-Risk-Neutral-Gambler.ipynb",
-            "06.04-Risk-Averse-Gambler.ipynb": "notebooks/ScienceData/06/06.04-Risk-Averse-Gambler.ipynb",
-            "06.05-Points-after-Touchdown-Decision.ipynb": "notebooks/ScienceData/06/06.05-Points-after-Touchdown-Decision.ipynb",
-            "07.00-Risk-and-Diversification.ipynb": "notebooks/ScienceData/06/07.00-Risk-and-Diversification.ipynb",
-            "07.01-Measuring-Return.ipynb": "notebooks/ScienceData/06/07.01-Measuring-Return.ipynb",
-            "07.02-Geometric-Brownian-Motion.ipynb": "notebooks/ScienceData/06/07.02-Geometric-Brownian-Motion.ipynb",
-            "07.03-Binomial-Model-for-Pricing-Options.ipynb": "notebooks/ScienceData/06/07.03-Binomial-Model-for-Pricing-Options.ipynb",
-            "07.04-Real-Options.ipynb": "notebooks/ScienceData/06/07.04-Real-Options.ipynb",
-            "07.05-Portfolio-Optimization.ipynb": "notebooks/ScienceData/06/07.05-Portfolio-Optimization.ipynb",
-            "07.06-Portfolio-Optimization-using-Mean-Absolute-Deviation.ipynb": "notebooks/ScienceData/06/07.06-Portfolio-Optimization-using-Mean-Absolute-Deviation.ipynb",
-            "07.07-MAD-Portfolio-Optimization.ipynb": "notebooks/ScienceData/06/07.07-MAD-Portfolio-Optimization.ipynb",
-            "07.08-Log-Optimal-Growth-and-the-Kelly-Criterion.ipynb": "notebooks/ScienceData/06/07.08-Log-Optimal-Growth-and-the-Kelly-Criterion.ipynb",
-            "07.09-Log-Optimal-Portfolios.ipynb": "notebooks/ScienceData/06/07.09-Log-Optimal-Portfolios.ipynb",
-            "08.00-Optimization-in-Google-Sheets.ipynb": "notebooks/ScienceData/06/08.00-Optimization-in-Google-Sheets.ipynb",
-            "09.00-Student-Projects.ipynb": "notebooks/ScienceData/06/09.00-Student-Projects.ipynb",
-            "index.ipynb": "notebooks/ScienceData/06/index.ipynb",
-            "toc.ipynb": "notebooks/ScienceData/06/toc.ipynb"
-        },
-        "07": {
-            "Assignment Problems.ipynb": "notebooks/ScienceData/07/Assignment Problems.ipynb",
-            "Case Study - Landhills Winery.ipynb": "notebooks/ScienceData/07/Case Study - Landhills Winery.ipynb",
-            "Energy ETF's.ipynb": "notebooks/ScienceData/07/Energy ETF's.ipynb",
-            "FernandoDemo.ipynb": "notebooks/ScienceData/07/FernandoDemo.ipynb",
-            "Getting Started with Discrete Event Simulation.ipynb": "notebooks/ScienceData/07/Getting Started with Discrete Event Simulation.ipynb",
-            "Getting Started with GNU MathProg.ipynb": "notebooks/ScienceData/07/Getting Started with GNU MathProg.ipynb",
-            "Getting Started with IPython.ipynb": "notebooks/ScienceData/07/Getting Started with IPython.ipynb",
-            "Inventory Management.ipynb": "notebooks/ScienceData/07/Inventory Management.ipynb",
-            "Jesuit Volunteer Corps.ipynb": "notebooks/ScienceData/07/Jesuit Volunteer Corps.ipynb",
-            "LP Problems in Development.ipynb": "notebooks/ScienceData/07/LP Problems in Development.ipynb",
-            "Landhills Winery.ipynb": "notebooks/ScienceData/07/Landhills Winery.ipynb",
-            "Log-optimal Growth and the Kelly Criterion.ipynb": "notebooks/ScienceData/07/Log-optimal Growth and the Kelly Criterion.ipynb",
-            "Machine Bottleneck.ipynb": "notebooks/ScienceData/07/Machine Bottleneck.ipynb",
-            "Machine Shop Throughput.ipynb": "notebooks/ScienceData/07/Machine Shop Throughput.ipynb",
-            "Newsvendor Problem.ipynb": "notebooks/ScienceData/07/Newsvendor Problem.ipynb",
-            "Optimal Mixture and Blending Problems.ipynb": "notebooks/ScienceData/07/Optimal Mixture and Blending Problems.ipynb",
-            "Portfolio Optimization using Mean Absolute Deviation.ipynb": "notebooks/ScienceData/07/Portfolio Optimization using Mean Absolute Deviation.ipynb",
-            "Production Models with Constraints.ipynb": "notebooks/ScienceData/07/Production Models with Constraints.ipynb",
-            "PuLP Demo.ipynb": "notebooks/ScienceData/07/PuLP Demo.ipynb",
-            "Stochastic Price Models.ipynb": "notebooks/ScienceData/07/Stochastic Price Models.ipynb",
-            "Transportation Networks.ipynb": "notebooks/ScienceData/07/Transportation Networks.ipynb",
-            "Warehouse Fulfillment Operations.ipynb": "notebooks/ScienceData/07/Warehouse Fulfillment Operations.ipynb"
-        }
-    }
+    "root": "https://jupyternbs.herokuapp.com/notebooks",
+    "total_size": 209.705775104
 }
