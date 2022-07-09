@@ -13,7 +13,7 @@ folders = [
 class Info:
 
     def __init__(self):
-        self.file = path.joinpath("info.json")
+        self.file = path.joinpath("dataset.json")
         self.data = dict(
             root="https://jupyternbs.herokuapp.com/notebooks",
             available_space=True,
@@ -38,6 +38,16 @@ class Content:
             self.get_folder(name)
         self.info.save()
 
+    def save(self, folder):
+        Path.cwd().joinpath(folder, "notebooks.json").open("w").write(
+            dumps(
+                self.info.data,
+                indent=4,
+                sort_keys=True,
+                ensure_ascii=False
+            )
+        )
+
     def get_folder(self, name):
         self.info.data["content"][name] = dict()
         for module in path.joinpath(f"nbs/{name}").iterdir():
@@ -59,11 +69,11 @@ def run():
 
 
 def push():
-    Content()
     system(f"cd {str(path)} && bash push.sh")
 
 
 if __name__ == "__main__":
+    Content()
     if "run" in argv:
         run()
     elif "push" in argv:
