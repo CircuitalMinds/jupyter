@@ -2530,9 +2530,4156 @@
                     "path": "intro/01/014-SciPy-EcuacionesNoLineales.ipynb",
                     "size": 0.176848896
                 }
+            ],
+            "02": [
+                {
+                    "name": "swap_values.ipynb",
+                    "path": "intro/02/swap_values.ipynb",
+                    "size": 0.0034283520000000004
+                },
+                {
+                    "name": "collections_deque_queue.ipynb",
+                    "path": "intro/02/collections_deque_queue.ipynb",
+                    "size": 0.001700864
+                },
+                {
+                    "name": "re_match_search_fullmatch.ipynb",
+                    "path": "intro/02/re_match_search_fullmatch.ipynb",
+                    "size": 0.0036188160000000004
+                },
+                {
+                    "name": "re_match_object.ipynb",
+                    "path": "intro/02/re_match_object.ipynb",
+                    "size": 0.012275712000000001
+                },
+                {
+                    "name": "re_character_type_pattern_example.ipynb",
+                    "path": "intro/02/re_character_type_pattern_example.ipynb",
+                    "size": 0.012557312000000001
+                },
+                {
+                    "name": "numpy_normalization.ipynb",
+                    "path": "intro/02/numpy_normalization.ipynb",
+                    "size": 0.010800128
+                },
+                {
+                    "name": "scipy_sparse_triu_tril.ipynb",
+                    "path": "intro/02/scipy_sparse_triu_tril.ipynb",
+                    "size": 0.0040120320000000004
+                },
+                {
+                    "name": "inf_numpy.ipynb",
+                    "path": "intro/02/inf_numpy.ipynb",
+                    "size": 0.001368064
+                },
+                {
+                    "name": "pandas_rolling.ipynb",
+                    "path": "intro/02/pandas_rolling.ipynb",
+                    "size": 0.008388608
+                },
+                {
+                    "name": "csv_pandas.ipynb",
+                    "path": "intro/02/csv_pandas.ipynb",
+                    "size": 0.004166656
+                },
+                {
+                    "name": "numpy_cumsum_cumprod.ipynb",
+                    "path": "intro/02/numpy_cumsum_cumprod.ipynb",
+                    "size": 0.011020288000000001
+                },
+                {
+                    "name": "opencv_draw_mask.ipynb",
+                    "path": "intro/02/opencv_draw_mask.ipynb",
+                    "size": 0.0033761280000000004
+                },
+                {
+                    "name": "divmod-test.ipynb",
+                    "path": "intro/02/divmod-test.ipynb",
+                    "size": 0.001354752
+                },
+                {
+                    "name": "sklearn_preprocessing_min_max_standard.ipynb",
+                    "path": "intro/02/sklearn_preprocessing_min_max_standard.ipynb",
+                    "size": 0.005710848
+                },
+                {
+                    "name": "bool_test.ipynb",
+                    "path": "intro/02/bool_test.ipynb",
+                    "size": 0.002765824
+                },
+                {
+                    "name": "unicode_escape.ipynb",
+                    "path": "intro/02/unicode_escape.ipynb",
+                    "size": 0.011544576
+                },
+                {
+                    "name": "opencv_videocapture_camera.ipynb",
+                    "path": "intro/02/opencv_videocapture_camera.ipynb",
+                    "size": 0.00189952
+                },
+                {
+                    "name": "dictionary.ipynb",
+                    "path": "intro/02/dictionary.ipynb",
+                    "size": 0.0033986560000000003
+                },
+                {
+                    "name": "scipy_shortest_path.ipynb",
+                    "path": "intro/02/scipy_shortest_path.ipynb",
+                    "size": 0.013789184000000001
+                },
+                {
+                    "name": "pass_def_class.ipynb",
+                    "path": "intro/02/pass_def_class.ipynb",
+                    "size": 0.0014878720000000001
+                },
+                {
+                    "name": "numpy_stack.ipynb",
+                    "path": "intro/02/numpy_stack.ipynb",
+                    "size": 0.011173888
+                },
+                {
+                    "name": "split_strip_list.ipynb",
+                    "path": "intro/02/split_strip_list.ipynb",
+                    "size": 0.008496128
+                },
+                {
+                    "name": "calendar_day_of_nth_dow.ipynb",
+                    "path": "intro/02/calendar_day_of_nth_dow.ipynb",
+                    "size": 0.0058890240000000005
+                },
+                {
+                    "name": "skimage_peak_signal_noise_ratio.ipynb",
+                    "path": "intro/02/skimage_peak_signal_noise_ratio.ipynb",
+                    "size": 0.002484224
+                },
+                {
+                    "name": "pandas_round_decimal.ipynb",
+                    "path": "intro/02/pandas_round_decimal.ipynb",
+                    "size": 0.016023552
+                },
+                {
+                    "name": "argument_expand_dict.ipynb",
+                    "path": "intro/02/argument_expand_dict.ipynb",
+                    "size": 0.004533248
+                },
+                {
+                    "name": "time_time_usage.ipynb",
+                    "path": "intro/02/time_time_usage.ipynb",
+                    "size": 0.001723392
+                },
+                {
+                    "name": "pandas_time_series_pct_change.ipynb",
+                    "path": "intro/02/pandas_time_series_pct_change.ipynb",
+                    "size": 0.0034785280000000003
+                },
+                {
+                    "name": "while_usage.ipynb",
+                    "path": "intro/02/while_usage.ipynb",
+                    "size": 0.004854784
+                },
+                {
+                    "name": "complex_cmath.ipynb",
+                    "path": "intro/02/complex_cmath.ipynb",
+                    "size": 0.005522432000000001
+                },
+                {
+                    "name": "sys_float_info.ipynb",
+                    "path": "intro/02/sys_float_info.ipynb",
+                    "size": 0.00486912
+                },
+                {
+                    "name": "list_duplicate_check.ipynb",
+                    "path": "intro/02/list_duplicate_check.ipynb",
+                    "size": 0.003847168
+                },
+                {
+                    "name": "enumerate_start.ipynb",
+                    "path": "intro/02/enumerate_start.ipynb",
+                    "size": 0.00267264
+                },
+                {
+                    "name": "str_in_find_rfind_count.ipynb",
+                    "path": "intro/02/str_in_find_rfind_count.ipynb",
+                    "size": 0.009480192
+                },
+                {
+                    "name": "csv_dictwriter.ipynb",
+                    "path": "intro/02/csv_dictwriter.ipynb",
+                    "size": 0.002876416
+                },
+                {
+                    "name": "numpy_array_equal_array_equiv.ipynb",
+                    "path": "intro/02/numpy_array_equal_array_equiv.ipynb",
+                    "size": 0.006893568
+                },
+                {
+                    "name": "str_len.ipynb",
+                    "path": "intro/02/str_len.ipynb",
+                    "size": 0.0067901440000000006
+                },
+                {
+                    "name": "numpy_ravel_flatten_timeit.ipynb",
+                    "path": "intro/02/numpy_ravel_flatten_timeit.ipynb",
+                    "size": 0.0031559680000000003
+                },
+                {
+                    "name": "seaborn_heatmap.ipynb",
+                    "path": "intro/02/seaborn_heatmap.ipynb",
+                    "size": 0.010181632000000001
+                },
+                {
+                    "name": "numpy_tile_basic.ipynb",
+                    "path": "intro/02/numpy_tile_basic.ipynb",
+                    "size": 0.0050626560000000004
+                },
+                {
+                    "name": "list_tuple.ipynb",
+                    "path": "intro/02/list_tuple.ipynb",
+                    "size": 0.004788224000000001
+                },
+                {
+                    "name": "sklearn_precision_score_average.ipynb",
+                    "path": "intro/02/sklearn_precision_score_average.ipynb",
+                    "size": 0.006359040000000001
+                },
+                {
+                    "name": "dict_in_values_items.ipynb",
+                    "path": "intro/02/dict_in_values_items.ipynb",
+                    "size": 0.003465216
+                },
+                {
+                    "name": "opencv_read_write.ipynb",
+                    "path": "intro/02/opencv_read_write.ipynb",
+                    "size": 0.00740864
+                },
+                {
+                    "name": "tensorflow_mnist_softmax.ipynb",
+                    "path": "intro/02/tensorflow_mnist_softmax.ipynb",
+                    "size": 0.004721664
+                },
+                {
+                    "name": "numpy_vstack.ipynb",
+                    "path": "intro/02/numpy_vstack.ipynb",
+                    "size": 0.003874816
+                },
+                {
+                    "name": "pandas_series_to_dataframe.ipynb",
+                    "path": "intro/02/pandas_series_to_dataframe.ipynb",
+                    "size": 0.019636224
+                },
+                {
+                    "name": "itertools_permutations_combinations.ipynb",
+                    "path": "intro/02/itertools_permutations_combinations.ipynb",
+                    "size": 0.009253888
+                },
+                {
+                    "name": "dir.ipynb",
+                    "path": "intro/02/dir.ipynb",
+                    "size": 0.004401152
+                },
+                {
+                    "name": "pandas_map_replace_timeit.ipynb",
+                    "path": "intro/02/pandas_map_replace_timeit.ipynb",
+                    "size": 0.004834304
+                },
+                {
+                    "name": "pandas_transpose.ipynb",
+                    "path": "intro/02/pandas_transpose.ipynb",
+                    "size": 0.014253056
+                },
+                {
+                    "name": "inf_float.ipynb",
+                    "path": "intro/02/inf_float.ipynb",
+                    "size": 0.0040765440000000005
+                },
+                {
+                    "name": "datetime_basic.ipynb",
+                    "path": "intro/02/datetime_basic.ipynb",
+                    "size": 0.016273408
+                },
+                {
+                    "name": "scipy_stats_zscore.ipynb",
+                    "path": "intro/02/scipy_stats_zscore.ipynb",
+                    "size": 0.0044800000000000005
+                },
+                {
+                    "name": "range_usage.ipynb",
+                    "path": "intro/02/range_usage.ipynb",
+                    "size": 0.007536640000000001
+                },
+                {
+                    "name": "pillow_imagedraw.ipynb",
+                    "path": "intro/02/pillow_imagedraw.ipynb",
+                    "size": 0.004381696
+                },
+                {
+                    "name": "numpy_broadcasting_multiply.ipynb",
+                    "path": "intro/02/numpy_broadcasting_multiply.ipynb",
+                    "size": 0.009017344
+                },
+                {
+                    "name": "numpy_gcd.ipynb",
+                    "path": "intro/02/numpy_gcd.ipynb",
+                    "size": 0.004657152
+                },
+                {
+                    "name": "requests_download.ipynb",
+                    "path": "intro/02/requests_download.ipynb",
+                    "size": 0.002951168
+                },
+                {
+                    "name": "numpy_ravel_flatten.ipynb",
+                    "path": "intro/02/numpy_ravel_flatten.ipynb",
+                    "size": 0.010206208000000001
+                },
+                {
+                    "name": "all_any_timeit.ipynb",
+                    "path": "intro/02/all_any_timeit.ipynb",
+                    "size": 0.004741120000000001
+                },
+                {
+                    "name": "numpy_broadcasting.ipynb",
+                    "path": "intro/02/numpy_broadcasting.ipynb",
+                    "size": 0.008664064
+                },
+                {
+                    "name": "print_basic.ipynb",
+                    "path": "intro/02/print_basic.ipynb",
+                    "size": 0.010366976
+                },
+                {
+                    "name": "opencv_warp_func.ipynb",
+                    "path": "intro/02/opencv_warp_func.ipynb",
+                    "size": 0.0047912960000000004
+                },
+                {
+                    "name": "pandas_str_slice.ipynb",
+                    "path": "intro/02/pandas_str_slice.ipynb",
+                    "size": 0.005243904000000001
+                },
+                {
+                    "name": "opencv_videocapture_prop_fps.ipynb",
+                    "path": "intro/02/opencv_videocapture_prop_fps.ipynb",
+                    "size": 0.002225152
+                },
+                {
+                    "name": "numpy_set_all_values.ipynb",
+                    "path": "intro/02/numpy_set_all_values.ipynb",
+                    "size": 0.002663424
+                },
+                {
+                    "name": "pandas_option_display.ipynb",
+                    "path": "intro/02/pandas_option_display.ipynb",
+                    "size": 0.022475776000000003
+                },
+                {
+                    "name": "reverse_reversed.ipynb",
+                    "path": "intro/02/reverse_reversed.ipynb",
+                    "size": 0.004916224
+                },
+                {
+                    "name": "hatena_bookmark_api_example.ipynb",
+                    "path": "intro/02/hatena_bookmark_api_example.ipynb",
+                    "size": 0.00816128
+                },
+                {
+                    "name": "random_sample.ipynb",
+                    "path": "intro/02/random_sample.ipynb",
+                    "size": 0.004130816
+                },
+                {
+                    "name": "random_uniform.ipynb",
+                    "path": "intro/02/random_uniform.ipynb",
+                    "size": 0.0016988160000000001
+                },
+                {
+                    "name": "datetime_fromisoformat.ipynb",
+                    "path": "intro/02/datetime_fromisoformat.ipynb",
+                    "size": 0.009526272
+                },
+                {
+                    "name": "combinations_count.ipynb",
+                    "path": "intro/02/combinations_count.ipynb",
+                    "size": 0.001499136
+                },
+                {
+                    "name": "pandas_filter.ipynb",
+                    "path": "intro/02/pandas_filter.ipynb",
+                    "size": 0.00879616
+                },
+                {
+                    "name": "empty_dir.ipynb",
+                    "path": "intro/02/empty_dir.ipynb",
+                    "size": 0.001816576
+                },
+                {
+                    "name": "pandas_normalization.ipynb",
+                    "path": "intro/02/pandas_normalization.ipynb",
+                    "size": 0.011032576
+                },
+                {
+                    "name": "str_search_regex.ipynb",
+                    "path": "intro/02/str_search_regex.ipynb",
+                    "size": 0.005856256000000001
+                },
+                {
+                    "name": "numpy_vsplit.ipynb",
+                    "path": "intro/02/numpy_vsplit.ipynb",
+                    "size": 0.002379776
+                },
+                {
+                    "name": "keyword_example.ipynb",
+                    "path": "intro/02/keyword_example.ipynb",
+                    "size": 0.003008512
+                },
+                {
+                    "name": "str_swap.ipynb",
+                    "path": "intro/02/str_swap.ipynb",
+                    "size": 0.00265216
+                },
+                {
+                    "name": "key_usage_with_operator.ipynb",
+                    "path": "intro/02/key_usage_with_operator.ipynb",
+                    "size": 0.009240576
+                },
+                {
+                    "name": "numpy_append.ipynb",
+                    "path": "intro/02/numpy_append.ipynb",
+                    "size": 0.015755264
+                },
+                {
+                    "name": "numpy_swap_select.ipynb",
+                    "path": "intro/02/numpy_swap_select.ipynb",
+                    "size": 0.004662272
+                },
+                {
+                    "name": "os_stat.ipynb",
+                    "path": "intro/02/os_stat.ipynb",
+                    "size": 0.010836992
+                },
+                {
+                    "name": "pandas_read_excel.ipynb",
+                    "path": "intro/02/pandas_read_excel.ipynb",
+                    "size": 0.008364032
+                },
+                {
+                    "name": "shutil_move_all.ipynb",
+                    "path": "intro/02/shutil_move_all.ipynb",
+                    "size": 0.002695168
+                },
+                {
+                    "name": "zip_archive.ipynb",
+                    "path": "intro/02/zip_archive.ipynb",
+                    "size": 0.010045440000000001
+                },
+                {
+                    "name": "numpy_logical_and_or_xor_not.ipynb",
+                    "path": "intro/02/numpy_logical_and_or_xor_not.ipynb",
+                    "size": 0.009951232
+                },
+                {
+                    "name": "pypdf2_metadata_remove.ipynb",
+                    "path": "intro/02/pypdf2_metadata_remove.ipynb",
+                    "size": 0.009170944
+                },
+                {
+                    "name": "regex_method_basic.ipynb",
+                    "path": "intro/02/regex_method_basic.ipynb",
+                    "size": 0.007898112
+                },
+                {
+                    "name": "locale_getpreferredencoding.ipynb",
+                    "path": "intro/02/locale_getpreferredencoding.ipynb",
+                    "size": 0.0008611840000000001
+                },
+                {
+                    "name": "scipy_connected_components.ipynb",
+                    "path": "intro/02/scipy_connected_components.ipynb",
+                    "size": 0.008593408
+                },
+                {
+                    "name": "numpy_matrix_inv.ipynb",
+                    "path": "intro/02/numpy_matrix_inv.ipynb",
+                    "size": 0.00551936
+                },
+                {
+                    "name": "numpy_comparison_operator.ipynb",
+                    "path": "intro/02/numpy_comparison_operator.ipynb",
+                    "size": 0.013003776000000002
+                },
+                {
+                    "name": "pillow_expand_to_square.ipynb",
+                    "path": "intro/02/pillow_expand_to_square.ipynb",
+                    "size": 0.0016015360000000002
+                },
+                {
+                    "name": "scipy_sparse_construct_list_ndarray.ipynb",
+                    "path": "intro/02/scipy_sparse_construct_list_ndarray.ipynb",
+                    "size": 0.0055306240000000005
+                },
+                {
+                    "name": "numpy_rot90.ipynb",
+                    "path": "intro/02/numpy_rot90.ipynb",
+                    "size": 0.011001856
+                },
+                {
+                    "name": "seaborn_iris.ipynb",
+                    "path": "intro/02/seaborn_iris.ipynb",
+                    "size": 0.001458176
+                },
+                {
+                    "name": "pandas_ohlc_downsampling.ipynb",
+                    "path": "intro/02/pandas_ohlc_downsampling.ipynb",
+                    "size": 0.00694272
+                },
+                {
+                    "name": "mecab-test.ipynb",
+                    "path": "intro/02/mecab-test.ipynb",
+                    "size": 0.002530304
+                },
+                {
+                    "name": "math_floor.ipynb",
+                    "path": "intro/02/math_floor.ipynb",
+                    "size": 0.0028846080000000003
+                },
+                {
+                    "name": "pandas_rank.ipynb",
+                    "path": "intro/02/pandas_rank.ipynb",
+                    "size": 0.008710144000000001
+                },
+                {
+                    "name": "pandas_str_num_conversion_separator.ipynb",
+                    "path": "intro/02/pandas_str_num_conversion_separator.ipynb",
+                    "size": 0.00197632
+                },
+                {
+                    "name": "os_getcwd_chdir.ipynb",
+                    "path": "intro/02/os_getcwd_chdir.ipynb",
+                    "size": 0.001723392
+                },
+                {
+                    "name": "numpy_save.ipynb",
+                    "path": "intro/02/numpy_save.ipynb",
+                    "size": 0.002448384
+                },
+                {
+                    "name": "copy_deepcopy.ipynb",
+                    "path": "intro/02/copy_deepcopy.ipynb",
+                    "size": 0.011120640000000001
+                },
+                {
+                    "name": "sys_version.ipynb",
+                    "path": "intro/02/sys_version.ipynb",
+                    "size": 0.0026644480000000003
+                },
+                {
+                    "name": "numpy_squeeze.ipynb",
+                    "path": "intro/02/numpy_squeeze.ipynb",
+                    "size": 0.007748608000000001
+                },
+                {
+                    "name": "str_literal.ipynb",
+                    "path": "intro/02/str_literal.ipynb",
+                    "size": 0.007107584
+                },
+                {
+                    "name": "numpy_tril.ipynb",
+                    "path": "intro/02/numpy_tril.ipynb",
+                    "size": 0.00494592
+                },
+                {
+                    "name": "raw_string_escape.ipynb",
+                    "path": "intro/02/raw_string_escape.ipynb",
+                    "size": 0.005573632
+                },
+                {
+                    "name": "scipy_minimum_spanning_tree_timeit.ipynb",
+                    "path": "intro/02/scipy_minimum_spanning_tree_timeit.ipynb",
+                    "size": 0.00487936
+                },
+                {
+                    "name": "scipy_special_perm.ipynb",
+                    "path": "intro/02/scipy_special_perm.ipynb",
+                    "size": 0.001380352
+                },
+                {
+                    "name": "collections_deque_basic.ipynb",
+                    "path": "intro/02/collections_deque_basic.ipynb",
+                    "size": 0.012741632000000001
+                },
+                {
+                    "name": "os_mkdir_makedirs.ipynb",
+                    "path": "intro/02/os_mkdir_makedirs.ipynb",
+                    "size": 0.002904064
+                },
+                {
+                    "name": "random_random.ipynb",
+                    "path": "intro/02/random_random.ipynb",
+                    "size": 0.001990656
+                },
+                {
+                    "name": "pandas_to_pickle_read_pickle.ipynb",
+                    "path": "intro/02/pandas_to_pickle_read_pickle.ipynb",
+                    "size": 0.006255616
+                },
+                {
+                    "name": "opencv_cvtcolor_bgr_rgb.ipynb",
+                    "path": "intro/02/opencv_cvtcolor_bgr_rgb.ipynb",
+                    "size": 0.003631104
+                },
+                {
+                    "name": "opencv_bitwise_and.ipynb",
+                    "path": "intro/02/opencv_bitwise_and.ipynb",
+                    "size": 0.0022272
+                },
+                {
+                    "name": "args.ipynb",
+                    "path": "intro/02/args.ipynb",
+                    "size": 0.0044001280000000005
+                },
+                {
+                    "name": "pandas_time_series_multiindex.ipynb",
+                    "path": "intro/02/pandas_time_series_multiindex.ipynb",
+                    "size": 0.025342976000000003
+                },
+                {
+                    "name": "qiita_api_test.ipynb",
+                    "path": "intro/02/qiita_api_test.ipynb",
+                    "size": 0.010312704
+                },
+                {
+                    "name": "positive_negative_zero.ipynb",
+                    "path": "intro/02/positive_negative_zero.ipynb",
+                    "size": 0.0024176640000000004
+                },
+                {
+                    "name": "list_comprehension.ipynb",
+                    "path": "intro/02/list_comprehension.ipynb",
+                    "size": 0.0075171840000000005
+                },
+                {
+                    "name": "pillow_invert.ipynb",
+                    "path": "intro/02/pillow_invert.ipynb",
+                    "size": 0.0015687680000000001
+                },
+                {
+                    "name": "os_removedirs.ipynb",
+                    "path": "intro/02/os_removedirs.ipynb",
+                    "size": 0.0018094080000000002
+                },
+                {
+                    "name": "grep_like.ipynb",
+                    "path": "intro/02/grep_like.ipynb",
+                    "size": 0.007426048
+                },
+                {
+                    "name": "list_1d_to_2d.ipynb",
+                    "path": "intro/02/list_1d_to_2d.ipynb",
+                    "size": 0.00275968
+                },
+                {
+                    "name": "list_index.ipynb",
+                    "path": "intro/02/list_index.ipynb",
+                    "size": 0.010165248
+                },
+                {
+                    "name": "opencv_warp_perspective_get.ipynb",
+                    "path": "intro/02/opencv_warp_perspective_get.ipynb",
+                    "size": 0.0034385920000000003
+                },
+                {
+                    "name": "numpy_image_trimming.ipynb",
+                    "path": "intro/02/numpy_image_trimming.ipynb",
+                    "size": 0.0029419520000000003
+                },
+                {
+                    "name": "numpy_image_mask.ipynb",
+                    "path": "intro/02/numpy_image_mask.ipynb",
+                    "size": 0.0040069120000000005
+                },
+                {
+                    "name": "pandas_read_clipboard.ipynb",
+                    "path": "intro/02/pandas_read_clipboard.ipynb",
+                    "size": 0.001399808
+                },
+                {
+                    "name": "numpy_psnr.ipynb",
+                    "path": "intro/02/numpy_psnr.ipynb",
+                    "size": 0.002338816
+                },
+                {
+                    "name": "pandas_read_html.ipynb",
+                    "path": "intro/02/pandas_read_html.ipynb",
+                    "size": 0.009408512
+                },
+                {
+                    "name": "os_path_getsize.ipynb",
+                    "path": "intro/02/os_path_getsize.ipynb",
+                    "size": 0.00426496
+                },
+                {
+                    "name": "pandas_reset_index.ipynb",
+                    "path": "intro/02/pandas_reset_index.ipynb",
+                    "size": 0.005738496
+                },
+                {
+                    "name": "numpy_allclose.ipynb",
+                    "path": "intro/02/numpy_allclose.ipynb",
+                    "size": 0.00396288
+                },
+                {
+                    "name": "pillow_gif.ipynb",
+                    "path": "intro/02/pillow_gif.ipynb",
+                    "size": 0.0016967680000000002
+                },
+                {
+                    "name": "pandas_setting_with_copy_warning.ipynb",
+                    "path": "intro/02/pandas_setting_with_copy_warning.ipynb",
+                    "size": 0.013212672
+                },
+                {
+                    "name": "dict_list_sort.ipynb",
+                    "path": "intro/02/dict_list_sort.ipynb",
+                    "size": 0.009662464
+                },
+                {
+                    "name": "add_module_import.ipynb",
+                    "path": "intro/02/add_module_import.ipynb",
+                    "size": 0.0008581120000000001
+                },
+                {
+                    "name": "scipy_minimum_spanning_tree.ipynb",
+                    "path": "intro/02/scipy_minimum_spanning_tree.ipynb",
+                    "size": 0.010575872
+                },
+                {
+                    "name": "pandas_to_csv_float.ipynb",
+                    "path": "intro/02/pandas_to_csv_float.ipynb",
+                    "size": 0.006453248
+                },
+                {
+                    "name": "pandas_dataframe_to_series.ipynb",
+                    "path": "intro/02/pandas_dataframe_to_series.ipynb",
+                    "size": 0.016155648
+                },
+                {
+                    "name": "itertools_cycle.ipynb",
+                    "path": "intro/02/itertools_cycle.ipynb",
+                    "size": 0.0022384640000000003
+                },
+                {
+                    "name": "sklearn_iris_svm.ipynb",
+                    "path": "intro/02/sklearn_iris_svm.ipynb",
+                    "size": 0.006451200000000001
+                },
+                {
+                    "name": "numpy_slice.ipynb",
+                    "path": "intro/02/numpy_slice.ipynb",
+                    "size": 0.017007616
+                },
+                {
+                    "name": "pandas_series_swap_index_values.ipynb",
+                    "path": "intro/02/pandas_series_swap_index_values.ipynb",
+                    "size": 0.0052992000000000004
+                },
+                {
+                    "name": "pandas_replace.ipynb",
+                    "path": "intro/02/pandas_replace.ipynb",
+                    "size": 0.01327616
+                },
+                {
+                    "name": "pandas_list_as_value.ipynb",
+                    "path": "intro/02/pandas_list_as_value.ipynb",
+                    "size": 0.007194624
+                },
+                {
+                    "name": "doctest_exe.ipynb",
+                    "path": "intro/02/doctest_exe.ipynb",
+                    "size": 0.0056924160000000005
+                },
+                {
+                    "name": "short_circuit.ipynb",
+                    "path": "intro/02/short_circuit.ipynb",
+                    "size": 0.0017684480000000002
+                },
+                {
+                    "name": "pandas_dataframe_constructor.ipynb",
+                    "path": "intro/02/pandas_dataframe_constructor.ipynb",
+                    "size": 0.008909824
+                },
+                {
+                    "name": "opencv_warp.ipynb",
+                    "path": "intro/02/opencv_warp.ipynb",
+                    "size": 0.00788992
+                },
+                {
+                    "name": "chr_ord.ipynb",
+                    "path": "intro/02/chr_ord.ipynb",
+                    "size": 0.008423424
+                },
+                {
+                    "name": "numpy_ellipsis.ipynb",
+                    "path": "intro/02/numpy_ellipsis.ipynb",
+                    "size": 0.004591616000000001
+                },
+                {
+                    "name": "dict_keys_items_set.ipynb",
+                    "path": "intro/02/dict_keys_items_set.ipynb",
+                    "size": 0.006294528000000001
+                },
+                {
+                    "name": "pandas_get_set_data.ipynb",
+                    "path": "intro/02/pandas_get_set_data.ipynb",
+                    "size": 0.023914496
+                },
+                {
+                    "name": "mimetypes_test.ipynb",
+                    "path": "intro/02/mimetypes_test.ipynb",
+                    "size": 0.055929856
+                },
+                {
+                    "name": "pathlib_basic.ipynb",
+                    "path": "intro/02/pathlib_basic.ipynb",
+                    "size": 0.010820608
+                },
+                {
+                    "name": "numpy_dtype.ipynb",
+                    "path": "intro/02/numpy_dtype.ipynb",
+                    "size": 0.00560128
+                },
+                {
+                    "name": "scipy_sparse_arithmetic_operations.ipynb",
+                    "path": "intro/02/scipy_sparse_arithmetic_operations.ipynb",
+                    "size": 0.017333248000000002
+                },
+                {
+                    "name": "inf_compare.ipynb",
+                    "path": "intro/02/inf_compare.ipynb",
+                    "size": 0.010647552000000001
+                },
+                {
+                    "name": "numpy_maximum_minimum_fmax_fmin_reduce.ipynb",
+                    "path": "intro/02/numpy_maximum_minimum_fmax_fmin_reduce.ipynb",
+                    "size": 0.006284288000000001
+                },
+                {
+                    "name": "pandas_str_extract.ipynb",
+                    "path": "intro/02/pandas_str_extract.ipynb",
+                    "size": 0.003418112
+                },
+                {
+                    "name": "scipy_sparse_calc_indptr.ipynb",
+                    "path": "intro/02/scipy_sparse_calc_indptr.ipynb",
+                    "size": 0.002225152
+                },
+                {
+                    "name": "numpy_implicit_type_conversion.ipynb",
+                    "path": "intro/02/numpy_implicit_type_conversion.ipynb",
+                    "size": 0.006018048000000001
+                },
+                {
+                    "name": "sort_sorted.ipynb",
+                    "path": "intro/02/sort_sorted.ipynb",
+                    "size": 0.005225472
+                },
+                {
+                    "name": "scipy_sparse_get_values_timeit_random.ipynb",
+                    "path": "intro/02/scipy_sparse_get_values_timeit_random.ipynb",
+                    "size": 0.012106752
+                },
+                {
+                    "name": "opencv_mosaic_gif.ipynb",
+                    "path": "intro/02/opencv_mosaic_gif.ipynb",
+                    "size": 0.0016824320000000002
+                },
+                {
+                    "name": "numpy_sort_argsort.ipynb",
+                    "path": "intro/02/numpy_sort_argsort.ipynb",
+                    "size": 0.010687488
+                },
+                {
+                    "name": "sklearn_roc_auc_score.ipynb",
+                    "path": "intro/02/sklearn_roc_auc_score.ipynb",
+                    "size": 0.003487744
+                },
+                {
+                    "name": "numpy_matrix_eig.ipynb",
+                    "path": "intro/02/numpy_matrix_eig.ipynb",
+                    "size": 0.004231168
+                },
+                {
+                    "name": "str_index_slice.ipynb",
+                    "path": "intro/02/str_index_slice.ipynb",
+                    "size": 0.007783424000000001
+                },
+                {
+                    "name": "all_example.ipynb",
+                    "path": "intro/02/all_example.ipynb",
+                    "size": 0.0023019520000000003
+                },
+                {
+                    "name": "dict_value_max_min.ipynb",
+                    "path": "intro/02/dict_value_max_min.ipynb",
+                    "size": 0.004758528000000001
+                },
+                {
+                    "name": "glob_example_make_files.ipynb",
+                    "path": "intro/02/glob_example_make_files.ipynb",
+                    "size": 0.0016619520000000002
+                },
+                {
+                    "name": "pandas_add_column.ipynb",
+                    "path": "intro/02/pandas_add_column.ipynb",
+                    "size": 0.012151808
+                },
+                {
+                    "name": "datetime_timezone_tzinfo_utcoffset.ipynb",
+                    "path": "intro/02/datetime_timezone_tzinfo_utcoffset.ipynb",
+                    "size": 0.0033024
+                },
+                {
+                    "name": "ordereddict_example.ipynb",
+                    "path": "intro/02/ordereddict_example.ipynb",
+                    "size": 0.008497152000000001
+                },
+                {
+                    "name": "sort_num_str_re.ipynb",
+                    "path": "intro/02/sort_num_str_re.ipynb",
+                    "size": 0.009479168000000001
+                },
+                {
+                    "name": "sympy_basic.ipynb",
+                    "path": "intro/02/sympy_basic.ipynb",
+                    "size": 0.009366528
+                },
+                {
+                    "name": "numpy_tile_image.ipynb",
+                    "path": "intro/02/numpy_tile_image.ipynb",
+                    "size": 0.001697792
+                },
+                {
+                    "name": "lambda_example.ipynb",
+                    "path": "intro/02/lambda_example.ipynb",
+                    "size": 0.006562816000000001
+                },
+                {
+                    "name": "os_remove_glob_re.ipynb",
+                    "path": "intro/02/os_remove_glob_re.ipynb",
+                    "size": 0.0011366400000000002
+                },
+                {
+                    "name": "pillow_flip_mirror.ipynb",
+                    "path": "intro/02/pillow_flip_mirror.ipynb",
+                    "size": 0.00271872
+                },
+                {
+                    "name": "sklearn_train_test_split_usage.ipynb",
+                    "path": "intro/02/sklearn_train_test_split_usage.ipynb",
+                    "size": 0.01613824
+                },
+                {
+                    "name": "joblib_parallel_example_file.ipynb",
+                    "path": "intro/02/joblib_parallel_example_file.ipynb",
+                    "size": 0.00404992
+                },
+                {
+                    "name": "numpy_count.ipynb",
+                    "path": "intro/02/numpy_count.ipynb",
+                    "size": 0.007185408000000001
+                },
+                {
+                    "name": "numpy_transpose.ipynb",
+                    "path": "intro/02/numpy_transpose.ipynb",
+                    "size": 0.016222208000000002
+                },
+                {
+                    "name": "ellipsis_object.ipynb",
+                    "path": "intro/02/ellipsis_object.ipynb",
+                    "size": 0.001741824
+                },
+                {
+                    "name": "numpy_image_paste.ipynb",
+                    "path": "intro/02/numpy_image_paste.ipynb",
+                    "size": 0.0019333120000000002
+                },
+                {
+                    "name": "opencv_face_eye_detection_camera.ipynb",
+                    "path": "intro/02/opencv_face_eye_detection_camera.ipynb",
+                    "size": 0.002207744
+                },
+                {
+                    "name": "sys_maxsize.ipynb",
+                    "path": "intro/02/sys_maxsize.ipynb",
+                    "size": 0.004670464
+                },
+                {
+                    "name": "tuple_single_empty.ipynb",
+                    "path": "intro/02/tuple_single_empty.ipynb",
+                    "size": 0.0055306240000000005
+                },
+                {
+                    "name": "any_example.ipynb",
+                    "path": "intro/02/any_example.ipynb",
+                    "size": 0.00289792
+                },
+                {
+                    "name": "numpy_image_inverse.ipynb",
+                    "path": "intro/02/numpy_image_inverse.ipynb",
+                    "size": 0.001206272
+                },
+                {
+                    "name": "numpy_signbit.ipynb",
+                    "path": "intro/02/numpy_signbit.ipynb",
+                    "size": 0.009006080000000001
+                },
+                {
+                    "name": "numpy_image_gamma.ipynb",
+                    "path": "intro/02/numpy_image_gamma.ipynb",
+                    "size": 0.0014254080000000002
+                },
+                {
+                    "name": "dict_keys_values_items.ipynb",
+                    "path": "intro/02/dict_keys_values_items.ipynb",
+                    "size": 0.0050227200000000005
+                },
+                {
+                    "name": "numpy_linspace.ipynb",
+                    "path": "intro/02/numpy_linspace.ipynb",
+                    "size": 0.006701056
+                },
+                {
+                    "name": "pandas_time_series_resample_agg.ipynb",
+                    "path": "intro/02/pandas_time_series_resample_agg.ipynb",
+                    "size": 0.005929984
+                },
+                {
+                    "name": "pandas_time_series_resample.ipynb",
+                    "path": "intro/02/pandas_time_series_resample.ipynb",
+                    "size": 0.009280512000000001
+                },
+                {
+                    "name": "pandas_to_numpy_method.ipynb",
+                    "path": "intro/02/pandas_to_numpy_method.ipynb",
+                    "size": 0.004828160000000001
+                },
+                {
+                    "name": "str_re_split.ipynb",
+                    "path": "intro/02/str_re_split.ipynb",
+                    "size": 0.002349056
+                },
+                {
+                    "name": "list_normalization.ipynb",
+                    "path": "intro/02/list_normalization.ipynb",
+                    "size": 0.008921088
+                },
+                {
+                    "name": "str_strip_lstrip_rstrip.ipynb",
+                    "path": "intro/02/str_strip_lstrip_rstrip.ipynb",
+                    "size": 0.00633856
+                },
+                {
+                    "name": "urllib_parse_query_string.ipynb",
+                    "path": "intro/02/urllib_parse_query_string.ipynb",
+                    "size": 0.013435904
+                },
+                {
+                    "name": "numpy_matrix_det.ipynb",
+                    "path": "intro/02/numpy_matrix_det.ipynb",
+                    "size": 0.001031168
+                },
+                {
+                    "name": "key_usage.ipynb",
+                    "path": "intro/02/key_usage.ipynb",
+                    "size": 0.005618688
+                },
+                {
+                    "name": "pypdf2_metadata_get.ipynb",
+                    "path": "intro/02/pypdf2_metadata_get.ipynb",
+                    "size": 0.002603008
+                },
+                {
+                    "name": "pypdf2_password.ipynb",
+                    "path": "intro/02/pypdf2_password.ipynb",
+                    "size": 0.0075919360000000005
+                },
+                {
+                    "name": "scipy_special_comb.ipynb",
+                    "path": "intro/02/scipy_special_comb.ipynb",
+                    "size": 0.0016558080000000001
+                },
+                {
+                    "name": "datetime_timedelta_calc.ipynb",
+                    "path": "intro/02/datetime_timedelta_calc.ipynb",
+                    "size": 0.012406784
+                },
+                {
+                    "name": "numpy_bitwise_and_or_xor_not_shift.ipynb",
+                    "path": "intro/02/numpy_bitwise_and_or_xor_not_shift.ipynb",
+                    "size": 0.011215872
+                },
+                {
+                    "name": "jupyter_system_command_cd.ipynb",
+                    "path": "intro/02/jupyter_system_command_cd.ipynb",
+                    "size": 0.004302848000000001
+                },
+                {
+                    "name": "typing_example.ipynb",
+                    "path": "intro/02/typing_example.ipynb",
+                    "size": 0.001132544
+                },
+                {
+                    "name": "dict_add_update.ipynb",
+                    "path": "intro/02/dict_add_update.ipynb",
+                    "size": 0.006458368000000001
+                },
+                {
+                    "name": "pandas_crosstab.ipynb",
+                    "path": "intro/02/pandas_crosstab.ipynb",
+                    "size": 0.011478016
+                },
+                {
+                    "name": "pypdf2_merge_page.ipynb",
+                    "path": "intro/02/pypdf2_merge_page.ipynb",
+                    "size": 0.0028487680000000002
+                },
+                {
+                    "name": "pandas_reindex_like.ipynb",
+                    "path": "intro/02/pandas_reindex_like.ipynb",
+                    "size": 0.0032092160000000004
+                },
+                {
+                    "name": "opencv_videocapture_prop.ipynb",
+                    "path": "intro/02/opencv_videocapture_prop.ipynb",
+                    "size": 0.003975168
+                },
+                {
+                    "name": "opencv_numpy_gray.ipynb",
+                    "path": "intro/02/opencv_numpy_gray.ipynb",
+                    "size": 0.006798336
+                },
+                {
+                    "name": "pillow_imagegrab_grabclipboard.ipynb",
+                    "path": "intro/02/pillow_imagegrab_grabclipboard.ipynb",
+                    "size": 0.002194432
+                },
+                {
+                    "name": "pillow_composite.ipynb",
+                    "path": "intro/02/pillow_composite.ipynb",
+                    "size": 0.00451072
+                },
+                {
+                    "name": "for_usage.ipynb",
+                    "path": "intro/02/for_usage.ipynb",
+                    "size": 0.00413184
+                },
+                {
+                    "name": "digit_float.ipynb",
+                    "path": "intro/02/digit_float.ipynb",
+                    "size": 0.013494272000000002
+                },
+                {
+                    "name": "jupyter_lsmagic.ipynb",
+                    "path": "intro/02/jupyter_lsmagic.ipynb",
+                    "size": 0.0060958720000000004
+                },
+                {
+                    "name": "in_basic.ipynb",
+                    "path": "intro/02/in_basic.ipynb",
+                    "size": 0.012087296
+                },
+                {
+                    "name": "numpy_roll.ipynb",
+                    "path": "intro/02/numpy_roll.ipynb",
+                    "size": 0.0061081600000000005
+                },
+                {
+                    "name": "numpy_clip.ipynb",
+                    "path": "intro/02/numpy_clip.ipynb",
+                    "size": 0.004685824
+                },
+                {
+                    "name": "pillow_size.ipynb",
+                    "path": "intro/02/pillow_size.ipynb",
+                    "size": 0.0023480320000000003
+                },
+                {
+                    "name": "pandas_select_dtypes.ipynb",
+                    "path": "intro/02/pandas_select_dtypes.ipynb",
+                    "size": 0.0067205120000000005
+                },
+                {
+                    "name": "numpy_image_alpha_blend.ipynb",
+                    "path": "intro/02/numpy_image_alpha_blend.ipynb",
+                    "size": 0.003072
+                },
+                {
+                    "name": "pandas_concat.ipynb",
+                    "path": "intro/02/pandas_concat.ipynb",
+                    "size": 0.011958272
+                },
+                {
+                    "name": "int_truncate.ipynb",
+                    "path": "intro/02/int_truncate.ipynb",
+                    "size": 0.002690048
+                },
+                {
+                    "name": "import_example_package_bash.ipynb",
+                    "path": "intro/02/import_example_package_bash.ipynb",
+                    "size": 0.0029429760000000004
+                },
+                {
+                    "name": "sklearn_load_iris.ipynb",
+                    "path": "intro/02/sklearn_load_iris.ipynb",
+                    "size": 0.012943360000000001
+                },
+                {
+                    "name": "re_character_type_process.ipynb",
+                    "path": "intro/02/re_character_type_process.ipynb",
+                    "size": 0.005030912
+                },
+                {
+                    "name": "pandas_multiindex_set_reset_sort_swap.ipynb",
+                    "path": "intro/02/pandas_multiindex_set_reset_sort_swap.ipynb",
+                    "size": 0.020507648
+                },
+                {
+                    "name": "operator_usage.ipynb",
+                    "path": "intro/02/operator_usage.ipynb",
+                    "size": 0.012881920000000002
+                },
+                {
+                    "name": "qrcode_image_paste.ipynb",
+                    "path": "intro/02/qrcode_image_paste.ipynb",
+                    "size": 0.0025968640000000004
+                },
+                {
+                    "name": "standard_library_example.ipynb",
+                    "path": "intro/02/standard_library_example.ipynb",
+                    "size": 0.001229824
+                },
+                {
+                    "name": "pyperclip_usage.ipynb",
+                    "path": "intro/02/pyperclip_usage.ipynb",
+                    "size": 0.0038891520000000003
+                },
+                {
+                    "name": "numpy_sign.ipynb",
+                    "path": "intro/02/numpy_sign.ipynb",
+                    "size": 0.0070615040000000006
+                },
+                {
+                    "name": "pandas_to_dict_series.ipynb",
+                    "path": "intro/02/pandas_to_dict_series.ipynb",
+                    "size": 0.003760128
+                },
+                {
+                    "name": "pandas_multiindex_level_stats.ipynb",
+                    "path": "intro/02/pandas_multiindex_level_stats.ipynb",
+                    "size": 0.016706560000000002
+                },
+                {
+                    "name": "str_replace_translate.ipynb",
+                    "path": "intro/02/str_replace_translate.ipynb",
+                    "size": 0.008426496
+                },
+                {
+                    "name": "pandas_series_rename.ipynb",
+                    "path": "intro/02/pandas_series_rename.ipynb",
+                    "size": 0.0030177280000000003
+                },
+                {
+                    "name": "re_findall_finditer.ipynb",
+                    "path": "intro/02/re_findall_finditer.ipynb",
+                    "size": 0.006197248000000001
+                },
+                {
+                    "name": "collections_counter.ipynb",
+                    "path": "intro/02/collections_counter.ipynb",
+                    "size": 0.012921856
+                },
+                {
+                    "name": "list_initialize.ipynb",
+                    "path": "intro/02/list_initialize.ipynb",
+                    "size": 0.007064576
+                },
+                {
+                    "name": "opencv_size.ipynb",
+                    "path": "intro/02/opencv_size.ipynb",
+                    "size": 0.004560896
+                },
+                {
+                    "name": "sympy_from_import.ipynb",
+                    "path": "intro/02/sympy_from_import.ipynb",
+                    "size": 0.001347584
+                },
+                {
+                    "name": "math_factorial.ipynb",
+                    "path": "intro/02/math_factorial.ipynb",
+                    "size": 0.0034846720000000003
+                },
+                {
+                    "name": "nan_usage.ipynb",
+                    "path": "intro/02/nan_usage.ipynb",
+                    "size": 0.009948160000000001
+                },
+                {
+                    "name": "pandas_str_combine.ipynb",
+                    "path": "intro/02/pandas_str_combine.ipynb",
+                    "size": 0.009757696000000001
+                },
+                {
+                    "name": "numpy_select_fancy_index.ipynb",
+                    "path": "intro/02/numpy_select_fancy_index.ipynb",
+                    "size": 0.004707328
+                },
+                {
+                    "name": "for_range.ipynb",
+                    "path": "intro/02/for_range.ipynb",
+                    "size": 0.002725888
+                },
+                {
+                    "name": "pandas_reindex_time_series.ipynb",
+                    "path": "intro/02/pandas_reindex_time_series.ipynb",
+                    "size": 0.005082112000000001
+                },
+                {
+                    "name": "numpy_savez.ipynb",
+                    "path": "intro/02/numpy_savez.ipynb",
+                    "size": 0.0048384000000000005
+                },
+                {
+                    "name": "pandas_to_csv.ipynb",
+                    "path": "intro/02/pandas_to_csv.ipynb",
+                    "size": 0.004020224
+                },
+                {
+                    "name": "list_remove_item.ipynb",
+                    "path": "intro/02/list_remove_item.ipynb",
+                    "size": 0.010553344000000001
+                },
+                {
+                    "name": "scipy_shortest_path_timeit_dense.ipynb",
+                    "path": "intro/02/scipy_shortest_path_timeit_dense.ipynb",
+                    "size": 0.006110208000000001
+                },
+                {
+                    "name": "argparse_demo.ipynb",
+                    "path": "intro/02/argparse_demo.ipynb",
+                    "size": 0.0036290560000000003
+                },
+                {
+                    "name": "itertools_groupby.ipynb",
+                    "path": "intro/02/itertools_groupby.ipynb",
+                    "size": 0.0069171200000000006
+                },
+                {
+                    "name": "numpy_nan_replace.ipynb",
+                    "path": "intro/02/numpy_nan_replace.ipynb",
+                    "size": 0.006617088
+                },
+                {
+                    "name": "glob_example_detail.ipynb",
+                    "path": "intro/02/glob_example_detail.ipynb",
+                    "size": 0.009324544
+                },
+                {
+                    "name": "slice_usage.ipynb",
+                    "path": "intro/02/slice_usage.ipynb",
+                    "size": 0.018089984
+                },
+                {
+                    "name": "for_reversed.ipynb",
+                    "path": "intro/02/for_reversed.ipynb",
+                    "size": 0.0032952320000000004
+                },
+                {
+                    "name": "opencv_videocapture_read_file.ipynb",
+                    "path": "intro/02/opencv_videocapture_read_file.ipynb",
+                    "size": 0.006372352
+                },
+                {
+                    "name": "pillow_image.ipynb",
+                    "path": "intro/02/pillow_image.ipynb",
+                    "size": 0.002512896
+                },
+                {
+                    "name": "sklearn_confusion_matrix.ipynb",
+                    "path": "intro/02/sklearn_confusion_matrix.ipynb",
+                    "size": 0.004670464
+                },
+                {
+                    "name": "pillow_method_chain.ipynb",
+                    "path": "intro/02/pillow_method_chain.ipynb",
+                    "size": 0.0016005120000000001
+                },
+                {
+                    "name": "conditional_expressions.ipynb",
+                    "path": "intro/02/conditional_expressions.ipynb",
+                    "size": 0.00613376
+                },
+                {
+                    "name": "datetime_isoformat.ipynb",
+                    "path": "intro/02/datetime_isoformat.ipynb",
+                    "size": 0.010624000000000001
+                },
+                {
+                    "name": "in_timeit.ipynb",
+                    "path": "intro/02/in_timeit.ipynb",
+                    "size": 0.007365632
+                },
+                {
+                    "name": "kwargs.ipynb",
+                    "path": "intro/02/kwargs.ipynb",
+                    "size": 0.0024801280000000003
+                },
+                {
+                    "name": "datetime_timestamp.ipynb",
+                    "path": "intro/02/datetime_timestamp.ipynb",
+                    "size": 0.006153216
+                },
+                {
+                    "name": "break_nested_loops.ipynb",
+                    "path": "intro/02/break_nested_loops.ipynb",
+                    "size": 0.00571392
+                },
+                {
+                    "name": "comment.ipynb",
+                    "path": "intro/02/comment.ipynb",
+                    "size": 0.0038533120000000002
+                },
+                {
+                    "name": "calendar_datetime_leap.ipynb",
+                    "path": "intro/02/calendar_datetime_leap.ipynb",
+                    "size": 0.0042434560000000005
+                },
+                {
+                    "name": "requests_json.ipynb",
+                    "path": "intro/02/requests_json.ipynb",
+                    "size": 0.00796672
+                },
+                {
+                    "name": "list_str_select_replace.ipynb",
+                    "path": "intro/02/list_str_select_replace.ipynb",
+                    "size": 0.005747712
+                },
+                {
+                    "name": "builtins_module.ipynb",
+                    "path": "intro/02/builtins_module.ipynb",
+                    "size": 0.0026828800000000003
+                },
+                {
+                    "name": "numpy_maximum_fmax.ipynb",
+                    "path": "intro/02/numpy_maximum_fmax.ipynb",
+                    "size": 0.006550528000000001
+                },
+                {
+                    "name": "all_any_comprehension.ipynb",
+                    "path": "intro/02/all_any_comprehension.ipynb",
+                    "size": 0.0033003520000000003
+                },
+                {
+                    "name": "math_modf.ipynb",
+                    "path": "intro/02/math_modf.ipynb",
+                    "size": 0.002871296
+                },
+                {
+                    "name": "opencv_warp_affine_basic.ipynb",
+                    "path": "intro/02/opencv_warp_affine_basic.ipynb",
+                    "size": 0.008779776000000001
+                },
+                {
+                    "name": "math_sin_cos_tan.ipynb",
+                    "path": "intro/02/math_sin_cos_tan.ipynb",
+                    "size": 0.01314816
+                },
+                {
+                    "name": "itertools_product_timeit.ipynb",
+                    "path": "intro/02/itertools_product_timeit.ipynb",
+                    "size": 0.006331392000000001
+                },
+                {
+                    "name": "list_flatten_timeit.ipynb",
+                    "path": "intro/02/list_flatten_timeit.ipynb",
+                    "size": 0.004506624
+                },
+                {
+                    "name": "pandas_duplicated_drop_duplicates.ipynb",
+                    "path": "intro/02/pandas_duplicated_drop_duplicates.ipynb",
+                    "size": 0.010669056000000001
+                },
+                {
+                    "name": "list_2d_sort.ipynb",
+                    "path": "intro/02/list_2d_sort.ipynb",
+                    "size": 0.01051136
+                },
+                {
+                    "name": "str_extract_re.ipynb",
+                    "path": "intro/02/str_extract_re.ipynb",
+                    "size": 0.011576320000000001
+                },
+                {
+                    "name": "numpy_count_nan.ipynb",
+                    "path": "intro/02/numpy_count_nan.ipynb",
+                    "size": 0.0031682560000000004
+                },
+                {
+                    "name": "numeric_types.ipynb",
+                    "path": "intro/02/numeric_types.ipynb",
+                    "size": 0.011885568000000001
+                },
+                {
+                    "name": "sort_in_any_order_tdfk.ipynb",
+                    "path": "intro/02/sort_in_any_order_tdfk.ipynb",
+                    "size": 0.010789888000000001
+                },
+                {
+                    "name": "list_flatten.ipynb",
+                    "path": "intro/02/list_flatten.ipynb",
+                    "size": 0.0075048960000000005
+                },
+                {
+                    "name": "numpy_method_chain.ipynb",
+                    "path": "intro/02/numpy_method_chain.ipynb",
+                    "size": 0.0021053440000000003
+                },
+                {
+                    "name": "namedtuple_test.ipynb",
+                    "path": "intro/02/namedtuple_test.ipynb",
+                    "size": 0.005339136
+                },
+                {
+                    "name": "float_hex_fromhex.ipynb",
+                    "path": "intro/02/float_hex_fromhex.ipynb",
+                    "size": 0.008118272000000001
+                },
+                {
+                    "name": "str_compare_re.ipynb",
+                    "path": "intro/02/str_compare_re.ipynb",
+                    "size": 0.005251072000000001
+                },
+                {
+                    "name": "collections_deque_stack.ipynb",
+                    "path": "intro/02/collections_deque_stack.ipynb",
+                    "size": 0.0016967680000000002
+                },
+                {
+                    "name": "break_nested_loops_timeit.ipynb",
+                    "path": "intro/02/break_nested_loops_timeit.ipynb",
+                    "size": 0.002522112
+                },
+                {
+                    "name": "scipy_sparse_index.ipynb",
+                    "path": "intro/02/scipy_sparse_index.ipynb",
+                    "size": 0.00498688
+                },
+                {
+                    "name": "isinstance.ipynb",
+                    "path": "intro/02/isinstance.ipynb",
+                    "size": 0.0076492800000000005
+                },
+                {
+                    "name": "calendar_days_of_month.ipynb",
+                    "path": "intro/02/calendar_days_of_month.ipynb",
+                    "size": 0.003095552
+                },
+                {
+                    "name": "sklearn_f1_score.ipynb",
+                    "path": "intro/02/sklearn_f1_score.ipynb",
+                    "size": 0.001107968
+                },
+                {
+                    "name": "zip_longest_example.ipynb",
+                    "path": "intro/02/zip_longest_example.ipynb",
+                    "size": 0.00423936
+                },
+                {
+                    "name": "long_string.ipynb",
+                    "path": "intro/02/long_string.ipynb",
+                    "size": 0.0036423680000000004
+                },
+                {
+                    "name": "math_ulp.ipynb",
+                    "path": "intro/02/math_ulp.ipynb",
+                    "size": 0.001132544
+                },
+                {
+                    "name": "numpy_iinfo_finfo.ipynb",
+                    "path": "intro/02/numpy_iinfo_finfo.ipynb",
+                    "size": 0.010732544
+                },
+                {
+                    "name": "pillow_image_resize_all.ipynb",
+                    "path": "intro/02/pillow_image_resize_all.ipynb",
+                    "size": 0.0027688960000000003
+                },
+                {
+                    "name": "numpy_set_printoptions_float_formatter.ipynb",
+                    "path": "intro/02/numpy_set_printoptions_float_formatter.ipynb",
+                    "size": 0.013175808
+                },
+                {
+                    "name": "numpy_isclose.ipynb",
+                    "path": "intro/02/numpy_isclose.ipynb",
+                    "size": 0.005506048
+                },
+                {
+                    "name": "seaborn_pairplot.ipynb",
+                    "path": "intro/02/seaborn_pairplot.ipynb",
+                    "size": 0.007246848
+                },
+                {
+                    "name": "pandas_to_json.ipynb",
+                    "path": "intro/02/pandas_to_json.ipynb",
+                    "size": 0.010257408
+                },
+                {
+                    "name": "dict_comprehension.ipynb",
+                    "path": "intro/02/dict_comprehension.ipynb",
+                    "size": 0.002241536
+                },
+                {
+                    "name": "list_add_item.ipynb",
+                    "path": "intro/02/list_add_item.ipynb",
+                    "size": 0.0057323520000000005
+                },
+                {
+                    "name": "arxiv_api.ipynb",
+                    "path": "intro/02/arxiv_api.ipynb",
+                    "size": 0.017916928000000002
+                },
+                {
+                    "name": "opencv_delaunay_voronoi.ipynb",
+                    "path": "intro/02/opencv_delaunay_voronoi.ipynb",
+                    "size": 0.013666304
+                },
+                {
+                    "name": "f_strings.ipynb",
+                    "path": "intro/02/f_strings.ipynb",
+                    "size": 0.013904896000000002
+                },
+                {
+                    "name": "numpy_flip.ipynb",
+                    "path": "intro/02/numpy_flip.ipynb",
+                    "size": 0.009803776
+                },
+                {
+                    "name": "pandas_index_select_query.ipynb",
+                    "path": "intro/02/pandas_index_select_query.ipynb",
+                    "size": 0.00212992
+                },
+                {
+                    "name": "pillow_ndarray_io.ipynb",
+                    "path": "intro/02/pillow_ndarray_io.ipynb",
+                    "size": 0.00638976
+                },
+                {
+                    "name": "markdown_get_links_regex.ipynb",
+                    "path": "intro/02/markdown_get_links_regex.ipynb",
+                    "size": 0.0071362560000000005
+                },
+                {
+                    "name": "pandas_dataframe_rename.ipynb",
+                    "path": "intro/02/pandas_dataframe_rename.ipynb",
+                    "size": 0.008045568000000001
+                },
+                {
+                    "name": "is_compare.ipynb",
+                    "path": "intro/02/is_compare.ipynb",
+                    "size": 0.0014970880000000002
+                },
+                {
+                    "name": "itertools_accumulate.ipynb",
+                    "path": "intro/02/itertools_accumulate.ipynb",
+                    "size": 0.005755904
+                },
+                {
+                    "name": "pandas_quantile.ipynb",
+                    "path": "intro/02/pandas_quantile.ipynb",
+                    "size": 0.012136448000000001
+                },
+                {
+                    "name": "errors.ipynb",
+                    "path": "intro/02/errors.ipynb",
+                    "size": 0.01011712
+                },
+                {
+                    "name": "pandas_interpolate.ipynb",
+                    "path": "intro/02/pandas_interpolate.ipynb",
+                    "size": 0.016062464000000002
+                },
+                {
+                    "name": "numpy_expand_dims.ipynb",
+                    "path": "intro/02/numpy_expand_dims.ipynb",
+                    "size": 0.0047738880000000004
+                },
+                {
+                    "name": "pandas_ohlc_candlestick_chart.ipynb",
+                    "path": "intro/02/pandas_ohlc_candlestick_chart.ipynb",
+                    "size": 0.009540608
+                },
+                {
+                    "name": "feedparser_example.ipynb",
+                    "path": "intro/02/feedparser_example.ipynb",
+                    "size": 0.030256128
+                },
+                {
+                    "name": "pandas_time_series_freq.ipynb",
+                    "path": "intro/02/pandas_time_series_freq.ipynb",
+                    "size": 0.017982464
+                },
+                {
+                    "name": "pandas_pct_change.ipynb",
+                    "path": "intro/02/pandas_pct_change.ipynb",
+                    "size": 0.005661696000000001
+                },
+                {
+                    "name": "format.ipynb",
+                    "path": "intro/02/format.ipynb",
+                    "size": 0.02167296
+                },
+                {
+                    "name": "pypdf2_merge_full.ipynb",
+                    "path": "intro/02/pypdf2_merge_full.ipynb",
+                    "size": 0.002830336
+                },
+                {
+                    "name": "pandas_time_series_asfreq.ipynb",
+                    "path": "intro/02/pandas_time_series_asfreq.ipynb",
+                    "size": 0.008368128
+                },
+                {
+                    "name": "pandas_index_boolean_indexing.ipynb",
+                    "path": "intro/02/pandas_index_boolean_indexing.ipynb",
+                    "size": 0.006276096
+                },
+                {
+                    "name": "return_multiple_values.ipynb",
+                    "path": "intro/02/return_multiple_values.ipynb",
+                    "size": 0.004189184
+                },
+                {
+                    "name": "string_concat.ipynb",
+                    "path": "intro/02/string_concat.ipynb",
+                    "size": 0.007815168
+                },
+                {
+                    "name": "numpy_condition.ipynb",
+                    "path": "intro/02/numpy_condition.ipynb",
+                    "size": 0.016636928000000002
+                },
+                {
+                    "name": "ast_literal_eval_example.ipynb",
+                    "path": "intro/02/ast_literal_eval_example.ipynb",
+                    "size": 0.009767936000000001
+                },
+                {
+                    "name": "pandas_to_clipboard.ipynb",
+                    "path": "intro/02/pandas_to_clipboard.ipynb",
+                    "size": 0.00213504
+                },
+                {
+                    "name": "pandas_datetime_timestamp.ipynb",
+                    "path": "intro/02/pandas_datetime_timestamp.ipynb",
+                    "size": 0.023228416
+                },
+                {
+                    "name": "pandas_index.ipynb",
+                    "path": "intro/02/pandas_index.ipynb",
+                    "size": 0.010688512
+                },
+                {
+                    "name": "third_party_library_example.ipynb",
+                    "path": "intro/02/third_party_library_example.ipynb",
+                    "size": 0.001255424
+                },
+                {
+                    "name": "numpy_reshape.ipynb",
+                    "path": "intro/02/numpy_reshape.ipynb",
+                    "size": 0.019666944000000002
+                },
+                {
+                    "name": "sklearn_precision_score.ipynb",
+                    "path": "intro/02/sklearn_precision_score.ipynb",
+                    "size": 0.001122304
+                },
+                {
+                    "name": "bool_example.ipynb",
+                    "path": "intro/02/bool_example.ipynb",
+                    "size": 0.005431296
+                },
+                {
+                    "name": "decimal_quantize.ipynb",
+                    "path": "intro/02/decimal_quantize.ipynb",
+                    "size": 0.0112384
+                },
+                {
+                    "name": "pandas_index_num.ipynb",
+                    "path": "intro/02/pandas_index_num.ipynb",
+                    "size": 0.0044032
+                },
+                {
+                    "name": "sqlite3_module.ipynb",
+                    "path": "intro/02/sqlite3_module.ipynb",
+                    "size": 0.002632704
+                },
+                {
+                    "name": "re_joyo_kanji.ipynb",
+                    "path": "intro/02/re_joyo_kanji.ipynb",
+                    "size": 0.013596672
+                },
+                {
+                    "name": "skimage_util_montage_image.ipynb",
+                    "path": "intro/02/skimage_util_montage_image.ipynb",
+                    "size": 0.0031027200000000002
+                },
+                {
+                    "name": "pass_exception.ipynb",
+                    "path": "intro/02/pass_exception.ipynb",
+                    "size": 0.0018206720000000002
+                },
+                {
+                    "name": "datetime_pytz.ipynb",
+                    "path": "intro/02/datetime_pytz.ipynb",
+                    "size": 0.007774208
+                },
+                {
+                    "name": "skimage_util_montage.ipynb",
+                    "path": "intro/02/skimage_util_montage.ipynb",
+                    "size": 0.007975936000000001
+                },
+                {
+                    "name": "xlrd_example.ipynb",
+                    "path": "intro/02/xlrd_example.ipynb",
+                    "size": 0.007396352
+                },
+                {
+                    "name": "print_len_lbyl.ipynb",
+                    "path": "intro/02/print_len_lbyl.ipynb",
+                    "size": 0.00321536
+                },
+                {
+                    "name": "datetime_last_date.ipynb",
+                    "path": "intro/02/datetime_last_date.ipynb",
+                    "size": 0.003598336
+                },
+                {
+                    "name": "numpy_split.ipynb",
+                    "path": "intro/02/numpy_split.ipynb",
+                    "size": 0.009461760000000001
+                },
+                {
+                    "name": "numpy_concatenate.ipynb",
+                    "path": "intro/02/numpy_concatenate.ipynb",
+                    "size": 0.005936128000000001
+                },
+                {
+                    "name": "pandas_to_numpy_copy.ipynb",
+                    "path": "intro/02/pandas_to_numpy_copy.ipynb",
+                    "size": 0.009674752
+                },
+                {
+                    "name": "numpy_count_inf.ipynb",
+                    "path": "intro/02/numpy_count_inf.ipynb",
+                    "size": 0.0017172480000000002
+                },
+                {
+                    "name": "exception_handling.ipynb",
+                    "path": "intro/02/exception_handling.ipynb",
+                    "size": 0.01009664
+                },
+                {
+                    "name": "dict_clear_pop_popitem_del.ipynb",
+                    "path": "intro/02/dict_clear_pop_popitem_del.ipynb",
+                    "size": 0.004125696
+                },
+                {
+                    "name": "numpy_txt_pandas.ipynb",
+                    "path": "intro/02/numpy_txt_pandas.ipynb",
+                    "size": 0.0071239680000000005
+                },
+                {
+                    "name": "numpy_error_ambiguous.ipynb",
+                    "path": "intro/02/numpy_error_ambiguous.ipynb",
+                    "size": 0.016880640000000002
+                },
+                {
+                    "name": "numpy_fancy_indexing.ipynb",
+                    "path": "intro/02/numpy_fancy_indexing.ipynb",
+                    "size": 0.016072704
+                },
+                {
+                    "name": "numpy_vector_inner.ipynb",
+                    "path": "intro/02/numpy_vector_inner.ipynb",
+                    "size": 0.004939776
+                },
+                {
+                    "name": "pandas_shift.ipynb",
+                    "path": "intro/02/pandas_shift.ipynb",
+                    "size": 0.0037867520000000004
+                },
+                {
+                    "name": "numpy_ndarray_example.ipynb",
+                    "path": "intro/02/numpy_ndarray_example.ipynb",
+                    "size": 0.002686976
+                },
+                {
+                    "name": "multi_variables_values.ipynb",
+                    "path": "intro/02/multi_variables_values.ipynb",
+                    "size": 0.009814016
+                },
+                {
+                    "name": "opencv_flip.ipynb",
+                    "path": "intro/02/opencv_flip.ipynb",
+                    "size": 0.0023592960000000003
+                },
+                {
+                    "name": "statistics_example.ipynb",
+                    "path": "intro/02/statistics_example.ipynb",
+                    "size": 0.0070440960000000006
+                },
+                {
+                    "name": "my_round.ipynb",
+                    "path": "intro/02/my_round.ipynb",
+                    "size": 0.004957184
+                },
+                {
+                    "name": "calendar_weeks_of_month.ipynb",
+                    "path": "intro/02/calendar_weeks_of_month.ipynb",
+                    "size": 0.004204544
+                },
+                {
+                    "name": "pandas_version.ipynb",
+                    "path": "intro/02/pandas_version.ipynb",
+                    "size": 0.002433024
+                },
+                {
+                    "name": "jupyter_precision.ipynb",
+                    "path": "intro/02/jupyter_precision.ipynb",
+                    "size": 0.004845568000000001
+                },
+                {
+                    "name": "sklearn_recall_score.ipynb",
+                    "path": "intro/02/sklearn_recall_score.ipynb",
+                    "size": 0.0011008
+                },
+                {
+                    "name": "numpy_pil_conversion.ipynb",
+                    "path": "intro/02/numpy_pil_conversion.ipynb",
+                    "size": 0.002388992
+                },
+                {
+                    "name": "calendar_list.ipynb",
+                    "path": "intro/02/calendar_list.ipynb",
+                    "size": 0.00550912
+                },
+                {
+                    "name": "qrcode_test.ipynb",
+                    "path": "intro/02/qrcode_test.ipynb",
+                    "size": 0.002123776
+                },
+                {
+                    "name": "sklearn_roc_curve.ipynb",
+                    "path": "intro/02/sklearn_roc_curve.ipynb",
+                    "size": 0.0044052480000000005
+                },
+                {
+                    "name": "gcd_lcm_multi.ipynb",
+                    "path": "intro/02/gcd_lcm_multi.ipynb",
+                    "size": 0.004483072
+                },
+                {
+                    "name": "pandas_implicit_type_conversion_row.ipynb",
+                    "path": "intro/02/pandas_implicit_type_conversion_row.ipynb",
+                    "size": 0.004089856
+                },
+                {
+                    "name": "datetime_timezone_convert.ipynb",
+                    "path": "intro/02/datetime_timezone_convert.ipynb",
+                    "size": 0.007370752
+                },
+                {
+                    "name": "builtin_functions.ipynb",
+                    "path": "intro/02/builtin_functions.ipynb",
+                    "size": 0.000950272
+                },
+                {
+                    "name": "pandas_datareader_morningstar.ipynb",
+                    "path": "intro/02/pandas_datareader_morningstar.ipynb",
+                    "size": 0.006049792
+                },
+                {
+                    "name": "pandas_merge_join.ipynb",
+                    "path": "intro/02/pandas_merge_join.ipynb",
+                    "size": 0.017477632
+                },
+                {
+                    "name": "numpy_sin_cos_tan.ipynb",
+                    "path": "intro/02/numpy_sin_cos_tan.ipynb",
+                    "size": 0.012949504
+                },
+                {
+                    "name": "datetime_module.ipynb",
+                    "path": "intro/02/datetime_module.ipynb",
+                    "size": 0.005362688
+                },
+                {
+                    "name": "scipy_sparse_save_load_npz.ipynb",
+                    "path": "intro/02/scipy_sparse_save_load_npz.ipynb",
+                    "size": 0.004666368000000001
+                },
+                {
+                    "name": "import_example_package_urllib.ipynb",
+                    "path": "intro/02/import_example_package_urllib.ipynb",
+                    "size": 0.0035440640000000004
+                },
+                {
+                    "name": "opencv_mosaic.ipynb",
+                    "path": "intro/02/opencv_mosaic.ipynb",
+                    "size": 0.003263488
+                },
+                {
+                    "name": "pandas_json_normalize_string.ipynb",
+                    "path": "intro/02/pandas_json_normalize_string.ipynb",
+                    "size": 0.004174848
+                },
+                {
+                    "name": "pandas_value_counts.ipynb",
+                    "path": "intro/02/pandas_value_counts.ipynb",
+                    "size": 0.01478656
+                },
+                {
+                    "name": "file_path_bash.ipynb",
+                    "path": "intro/02/file_path_bash.ipynb",
+                    "size": 0.0062228480000000004
+                },
+                {
+                    "name": "keras_mnist_softmax.ipynb",
+                    "path": "intro/02/keras_mnist_softmax.ipynb",
+                    "size": 0.005392384
+                },
+                {
+                    "name": "pandas_pivot_table.ipynb",
+                    "path": "intro/02/pandas_pivot_table.ipynb",
+                    "size": 0.008809472
+                },
+                {
+                    "name": "decorator.ipynb",
+                    "path": "intro/02/decorator.ipynb",
+                    "size": 0.001434624
+                },
+                {
+                    "name": "numpy_triu.ipynb",
+                    "path": "intro/02/numpy_triu.ipynb",
+                    "size": 0.003360768
+                },
+                {
+                    "name": "pandas_describe.ipynb",
+                    "path": "intro/02/pandas_describe.ipynb",
+                    "size": 0.019693568
+                },
+                {
+                    "name": "numpy_select_multi.ipynb",
+                    "path": "intro/02/numpy_select_multi.ipynb",
+                    "size": 0.005863424000000001
+                },
+                {
+                    "name": "list_example.ipynb",
+                    "path": "intro/02/list_example.ipynb",
+                    "size": 0.00370688
+                },
+                {
+                    "name": "calendar_bash.ipynb",
+                    "path": "intro/02/calendar_bash.ipynb",
+                    "size": 0.0024391680000000002
+                },
+                {
+                    "name": "numpy_hsplit.ipynb",
+                    "path": "intro/02/numpy_hsplit.ipynb",
+                    "size": 0.0036362240000000004
+                },
+                {
+                    "name": "numpy_image_processing.ipynb",
+                    "path": "intro/02/numpy_image_processing.ipynb",
+                    "size": 0.00406016
+                },
+                {
+                    "name": "pillow_rotate.ipynb",
+                    "path": "intro/02/pillow_rotate.ipynb",
+                    "size": 0.005289984
+                },
+                {
+                    "name": "pandas_nan_judge_count.ipynb",
+                    "path": "intro/02/pandas_nan_judge_count.ipynb",
+                    "size": 0.010859520000000001
+                },
+                {
+                    "name": "pandas_pd_np.ipynb",
+                    "path": "intro/02/pandas_pd_np.ipynb",
+                    "size": 0.003158016
+                },
+                {
+                    "name": "unicodedata_east_asian_width_test.ipynb",
+                    "path": "intro/02/unicodedata_east_asian_width_test.ipynb",
+                    "size": 0.004026368000000001
+                },
+                {
+                    "name": "pandas_time_series_rolling_resample.ipynb",
+                    "path": "intro/02/pandas_time_series_rolling_resample.ipynb",
+                    "size": 0.003575808
+                },
+                {
+                    "name": "numpy_version.ipynb",
+                    "path": "intro/02/numpy_version.ipynb",
+                    "size": 0.002233344
+                },
+                {
+                    "name": "calendar_text.ipynb",
+                    "path": "intro/02/calendar_text.ipynb",
+                    "size": 0.014405632000000002
+                },
+                {
+                    "name": "requests_url_params.ipynb",
+                    "path": "intro/02/requests_url_params.ipynb",
+                    "size": 0.0014100480000000001
+                },
+                {
+                    "name": "import_example_relative_other.ipynb",
+                    "path": "intro/02/import_example_relative_other.ipynb",
+                    "size": 0.00187392
+                },
+                {
+                    "name": "type.ipynb",
+                    "path": "intro/02/type.ipynb",
+                    "size": 0.005476352
+                },
+                {
+                    "name": "json_example.ipynb",
+                    "path": "intro/02/json_example.ipynb",
+                    "size": 0.02440704
+                },
+                {
+                    "name": "csv_numpy.ipynb",
+                    "path": "intro/02/csv_numpy.ipynb",
+                    "size": 0.002510848
+                },
+                {
+                    "name": "filter_usage.ipynb",
+                    "path": "intro/02/filter_usage.ipynb",
+                    "size": 0.008278016000000001
+                },
+                {
+                    "name": "numpy_array_split.ipynb",
+                    "path": "intro/02/numpy_array_split.ipynb",
+                    "size": 0.002881536
+                },
+                {
+                    "name": "numpy_unique.ipynb",
+                    "path": "intro/02/numpy_unique.ipynb",
+                    "size": 0.020555776
+                },
+                {
+                    "name": "numpy_flip_image.ipynb",
+                    "path": "intro/02/numpy_flip_image.ipynb",
+                    "size": 0.001804288
+                },
+                {
+                    "name": "numpy_diagonal.ipynb",
+                    "path": "intro/02/numpy_diagonal.ipynb",
+                    "size": 0.0036751360000000003
+                },
+                {
+                    "name": "pandas_row_column_number.ipynb",
+                    "path": "intro/02/pandas_row_column_number.ipynb",
+                    "size": 0.011586560000000001
+                },
+                {
+                    "name": "pprint_example.ipynb",
+                    "path": "intro/02/pprint_example.ipynb",
+                    "size": 0.01134592
+                },
+                {
+                    "name": "pypdf2_split.ipynb",
+                    "path": "intro/02/pypdf2_split.ipynb",
+                    "size": 0.001705984
+                },
+                {
+                    "name": "dict_merge.ipynb",
+                    "path": "intro/02/dict_merge.ipynb",
+                    "size": 0.002997248
+                },
+                {
+                    "name": "pillow_thumbnail.ipynb",
+                    "path": "intro/02/pillow_thumbnail.ipynb",
+                    "size": 0.0041809920000000006
+                },
+                {
+                    "name": "my_sign.ipynb",
+                    "path": "intro/02/my_sign.ipynb",
+                    "size": 0.011357184000000001
+                },
+                {
+                    "name": "pandas_dataframe_basic.ipynb",
+                    "path": "intro/02/pandas_dataframe_basic.ipynb",
+                    "size": 0.015840256
+                },
+                {
+                    "name": "pass_continue.ipynb",
+                    "path": "intro/02/pass_continue.ipynb",
+                    "size": 0.001229824
+                },
+                {
+                    "name": "pandas_mode.ipynb",
+                    "path": "intro/02/pandas_mode.ipynb",
+                    "size": 0.011197440000000001
+                },
+                {
+                    "name": "math_ceil.ipynb",
+                    "path": "intro/02/math_ceil.ipynb",
+                    "size": 0.002875392
+                },
+                {
+                    "name": "opencv_videocapture_file.ipynb",
+                    "path": "intro/02/opencv_videocapture_file.ipynb",
+                    "size": 0.00182784
+                },
+                {
+                    "name": "array_example.ipynb",
+                    "path": "intro/02/array_example.ipynb",
+                    "size": 0.00204288
+                },
+                {
+                    "name": "numpy_max.ipynb",
+                    "path": "intro/02/numpy_max.ipynb",
+                    "size": 0.001659904
+                },
+                {
+                    "name": "skimage_util_view_as_blocks_image.ipynb",
+                    "path": "intro/02/skimage_util_view_as_blocks_image.ipynb",
+                    "size": 0.003648512
+                },
+                {
+                    "name": "numpy_broadcasting_error.ipynb",
+                    "path": "intro/02/numpy_broadcasting_error.ipynb",
+                    "size": 0.0043827200000000005
+                },
+                {
+                    "name": "scipy_sparse_method.ipynb",
+                    "path": "intro/02/scipy_sparse_method.ipynb",
+                    "size": 0.008979456
+                },
+                {
+                    "name": "list_len_count.ipynb",
+                    "path": "intro/02/list_len_count.ipynb",
+                    "size": 0.005623808
+                },
+                {
+                    "name": "numpy_select_boolian_index.ipynb",
+                    "path": "intro/02/numpy_select_boolian_index.ipynb",
+                    "size": 0.005194752
+                },
+                {
+                    "name": "numpy_fliplr.ipynb",
+                    "path": "intro/02/numpy_fliplr.ipynb",
+                    "size": 0.0035543040000000003
+                },
+                {
+                    "name": "pandas_read_csv_web.ipynb",
+                    "path": "intro/02/pandas_read_csv_web.ipynb",
+                    "size": 0.004094976
+                },
+                {
+                    "name": "scipy_sparse_construct_data_row_column.ipynb",
+                    "path": "intro/02/scipy_sparse_construct_data_row_column.ipynb",
+                    "size": 0.004525056
+                },
+                {
+                    "name": "numpy_savez_compressed.ipynb",
+                    "path": "intro/02/numpy_savez_compressed.ipynb",
+                    "size": 0.0037908480000000003
+                },
+                {
+                    "name": "and_or_bit.ipynb",
+                    "path": "intro/02/and_or_bit.ipynb",
+                    "size": 0.004827136
+                },
+                {
+                    "name": "pandas_index_columns_select.ipynb",
+                    "path": "intro/02/pandas_index_columns_select.ipynb",
+                    "size": 0.005039104
+                },
+                {
+                    "name": "digit_int.ipynb",
+                    "path": "intro/02/digit_int.ipynb",
+                    "size": 0.00666624
+                },
+                {
+                    "name": "opencv_face_detection.ipynb",
+                    "path": "intro/02/opencv_face_detection.ipynb",
+                    "size": 0.00257536
+                },
+                {
+                    "name": "pandas_agg.ipynb",
+                    "path": "intro/02/pandas_agg.ipynb",
+                    "size": 0.016299008
+                },
+                {
+                    "name": "skimage_util_view_as_blocks.ipynb",
+                    "path": "intro/02/skimage_util_view_as_blocks.ipynb",
+                    "size": 0.005694464000000001
+                },
+                {
+                    "name": "pandas_query.ipynb",
+                    "path": "intro/02/pandas_query.ipynb",
+                    "size": 0.019953664000000003
+                },
+                {
+                    "name": "set.ipynb",
+                    "path": "intro/02/set.ipynb",
+                    "size": 0.014613504000000001
+                },
+                {
+                    "name": "pypdf2_split_pages.ipynb",
+                    "path": "intro/02/pypdf2_split_pages.ipynb",
+                    "size": 0.001275904
+                },
+                {
+                    "name": "str_re_sub.ipynb",
+                    "path": "intro/02/str_re_sub.ipynb",
+                    "size": 0.0037580800000000004
+                },
+                {
+                    "name": "pandas_random_sort_shuffle.ipynb",
+                    "path": "intro/02/pandas_random_sort_shuffle.ipynb",
+                    "size": 0.004438016
+                },
+                {
+                    "name": "regex_property.ipynb",
+                    "path": "intro/02/regex_property.ipynb",
+                    "size": 0.002571264
+                },
+                {
+                    "name": "numpy_ndim_shape_size.ipynb",
+                    "path": "intro/02/numpy_ndim_shape_size.ipynb",
+                    "size": 0.007502848
+                },
+                {
+                    "name": "mro_bases.ipynb",
+                    "path": "intro/02/mro_bases.ipynb",
+                    "size": 0.004995072000000001
+                },
+                {
+                    "name": "numpy_minimum_fmin.ipynb",
+                    "path": "intro/02/numpy_minimum_fmin.ipynb",
+                    "size": 0.003319808
+                },
+                {
+                    "name": "pandas_dtypes_select.ipynb",
+                    "path": "intro/02/pandas_dtypes_select.ipynb",
+                    "size": 0.00861184
+                },
+                {
+                    "name": "numpy_broadcast_to.ipynb",
+                    "path": "intro/02/numpy_broadcast_to.ipynb",
+                    "size": 0.0020224
+                },
+                {
+                    "name": "pandas_to_dict.ipynb",
+                    "path": "intro/02/pandas_to_dict.ipynb",
+                    "size": 0.011853824
+                },
+                {
+                    "name": "pandas_corr.ipynb",
+                    "path": "intro/02/pandas_corr.ipynb",
+                    "size": 0.006294528000000001
+                },
+                {
+                    "name": "dict_setdefault.ipynb",
+                    "path": "intro/02/dict_setdefault.ipynb",
+                    "size": 0.0036986880000000003
+                },
+                {
+                    "name": "str_num_conversion.ipynb",
+                    "path": "intro/02/str_num_conversion.ipynb",
+                    "size": 0.006423552000000001
+                },
+                {
+                    "name": "pandas_nan_fillna.ipynb",
+                    "path": "intro/02/pandas_nan_fillna.ipynb",
+                    "size": 0.013114368000000001
+                },
+                {
+                    "name": "re_sub_subn.ipynb",
+                    "path": "intro/02/re_sub_subn.ipynb",
+                    "size": 0.004110336
+                },
+                {
+                    "name": "pandas_time_series_interpolation.ipynb",
+                    "path": "intro/02/pandas_time_series_interpolation.ipynb",
+                    "size": 0.011460608
+                },
+                {
+                    "name": "warnings_basic.ipynb",
+                    "path": "intro/02/warnings_basic.ipynb",
+                    "size": 0.00751104
+                },
+                {
+                    "name": "pandas_time_series_diff.ipynb",
+                    "path": "intro/02/pandas_time_series_diff.ipynb",
+                    "size": 0.004161536
+                },
+                {
+                    "name": "os_remove_glob.ipynb",
+                    "path": "intro/02/os_remove_glob.ipynb",
+                    "size": 0.001069056
+                },
+                {
+                    "name": "pandas_groupby_statistics.ipynb",
+                    "path": "intro/02/pandas_groupby_statistics.ipynb",
+                    "size": 0.011368448000000001
+                },
+                {
+                    "name": "str_constructor.ipynb",
+                    "path": "intro/02/str_constructor.ipynb",
+                    "size": 0.006397952
+                },
+                {
+                    "name": "numpy_ndarray_list.ipynb",
+                    "path": "intro/02/numpy_ndarray_list.ipynb",
+                    "size": 0.005926912
+                },
+                {
+                    "name": "scipy_sparse_construct_timeit.ipynb",
+                    "path": "intro/02/scipy_sparse_construct_timeit.ipynb",
+                    "size": 0.008668160000000001
+                },
+                {
+                    "name": "numpy-image-negative-positive-reversal.ipynb",
+                    "path": "intro/02/numpy-image-negative-positive-reversal.ipynb",
+                    "size": 0.00228864
+                },
+                {
+                    "name": "pandas_str_select.ipynb",
+                    "path": "intro/02/pandas_str_select.ipynb",
+                    "size": 0.010540032000000001
+                },
+                {
+                    "name": "sklearn_train_test_split_iris.ipynb",
+                    "path": "intro/02/sklearn_train_test_split_iris.ipynb",
+                    "size": 0.006135808
+                },
+                {
+                    "name": "pandas_dtype.ipynb",
+                    "path": "intro/02/pandas_dtype.ipynb",
+                    "size": 0.009790464
+                },
+                {
+                    "name": "numpy_nan_remove.ipynb",
+                    "path": "intro/02/numpy_nan_remove.ipynb",
+                    "size": 0.00480256
+                },
+                {
+                    "name": "numpy_select_index.ipynb",
+                    "path": "intro/02/numpy_select_index.ipynb",
+                    "size": 0.004230144
+                },
+                {
+                    "name": "pandas_add_row.ipynb",
+                    "path": "intro/02/pandas_add_row.ipynb",
+                    "size": 0.013096960000000001
+                },
+                {
+                    "name": "arxiv_download.ipynb",
+                    "path": "intro/02/arxiv_download.ipynb",
+                    "size": 0.0018114560000000001
+                },
+                {
+                    "name": "sklearn_classification_report_multi.ipynb",
+                    "path": "intro/02/sklearn_classification_report_multi.ipynb",
+                    "size": 0.003587072
+                },
+                {
+                    "name": "numpy_tile.ipynb",
+                    "path": "intro/02/numpy_tile.ipynb",
+                    "size": 0.002898944
+                },
+                {
+                    "name": "numpy_matrix_ndarray_list.ipynb",
+                    "path": "intro/02/numpy_matrix_ndarray_list.ipynb",
+                    "size": 0.018973696
+                },
+                {
+                    "name": "tensorflow_add_mul.ipynb",
+                    "path": "intro/02/tensorflow_add_mul.ipynb",
+                    "size": 0.002476032
+                },
+                {
+                    "name": "shutil_move.ipynb",
+                    "path": "intro/02/shutil_move.ipynb",
+                    "size": 0.009220096
+                },
+                {
+                    "name": "numpy_image_split.ipynb",
+                    "path": "intro/02/numpy_image_split.ipynb",
+                    "size": 0.004857856000000001
+                },
+                {
+                    "name": "str_removeprefix_removesuffix.ipynb",
+                    "path": "intro/02/str_removeprefix_removesuffix.ipynb",
+                    "size": 0.0038379520000000004
+                },
+                {
+                    "name": "inf_math.ipynb",
+                    "path": "intro/02/inf_math.ipynb",
+                    "size": 0.0013670400000000001
+                },
+                {
+                    "name": "numpy_select_view_copy.ipynb",
+                    "path": "intro/02/numpy_select_view_copy.ipynb",
+                    "size": 0.006435840000000001
+                },
+                {
+                    "name": "pandas_str_split.ipynb",
+                    "path": "intro/02/pandas_str_split.ipynb",
+                    "size": 0.0044103680000000004
+                },
+                {
+                    "name": "pandas_diff.ipynb",
+                    "path": "intro/02/pandas_diff.ipynb",
+                    "size": 0.005487616000000001
+                },
+                {
+                    "name": "scipy_sparse_ndarray_timeit.ipynb",
+                    "path": "intro/02/scipy_sparse_ndarray_timeit.ipynb",
+                    "size": 0.0104448
+                },
+                {
+                    "name": "if_basic.ipynb",
+                    "path": "intro/02/if_basic.ipynb",
+                    "size": 0.009667584
+                },
+                {
+                    "name": "numpy_diag_construct.ipynb",
+                    "path": "intro/02/numpy_diag_construct.ipynb",
+                    "size": 0.0032901120000000004
+                },
+                {
+                    "name": "list_str_num_conversion.ipynb",
+                    "path": "intro/02/list_str_num_conversion.ipynb",
+                    "size": 0.007017472
+                },
+                {
+                    "name": "shutil_move_glob.ipynb",
+                    "path": "intro/02/shutil_move_glob.ipynb",
+                    "size": 0.001226752
+                },
+                {
+                    "name": "pandas_implicit_type_conversion.ipynb",
+                    "path": "intro/02/pandas_implicit_type_conversion.ipynb",
+                    "size": 0.007107584
+                },
+                {
+                    "name": "tensorflow_constant.ipynb",
+                    "path": "intro/02/tensorflow_constant.ipynb",
+                    "size": 0.001616896
+                },
+                {
+                    "name": "pandas_stack_unstack_pivot_estat_example.ipynb",
+                    "path": "intro/02/pandas_stack_unstack_pivot_estat_example.ipynb",
+                    "size": 0.009724928
+                },
+                {
+                    "name": "import_example_from.ipynb",
+                    "path": "intro/02/import_example_from.ipynb",
+                    "size": 0.0033280000000000002
+                },
+                {
+                    "name": "pandas_error_ambiguous.ipynb",
+                    "path": "intro/02/pandas_error_ambiguous.ipynb",
+                    "size": 0.005552128
+                },
+                {
+                    "name": "prime_factorization_timeit.ipynb",
+                    "path": "intro/02/prime_factorization_timeit.ipynb",
+                    "size": 0.002898944
+                },
+                {
+                    "name": "scipy_ndimage_filter.ipynb",
+                    "path": "intro/02/scipy_ndimage_filter.ipynb",
+                    "size": 0.109128704
+                },
+                {
+                    "name": "sklearn_roc_curve_explain.ipynb",
+                    "path": "intro/02/sklearn_roc_curve_explain.ipynb",
+                    "size": 0.014396416
+                },
+                {
+                    "name": "re_character_type_pattern.ipynb",
+                    "path": "intro/02/re_character_type_pattern.ipynb",
+                    "size": 0.005090304
+                },
+                {
+                    "name": "tensorflow_mnist_cnn.ipynb",
+                    "path": "intro/02/tensorflow_mnist_cnn.ipynb",
+                    "size": 0.007931904
+                },
+                {
+                    "name": "opencv_face_eye_detection.ipynb",
+                    "path": "intro/02/opencv_face_eye_detection.ipynb",
+                    "size": 0.004402176000000001
+                },
+                {
+                    "name": "pandas_read_csv_encoding.ipynb",
+                    "path": "intro/02/pandas_read_csv_encoding.ipynb",
+                    "size": 0.0013957120000000001
+                },
+                {
+                    "name": "os_ntpath.ipynb",
+                    "path": "intro/02/os_ntpath.ipynb",
+                    "size": 0.004354048
+                },
+                {
+                    "name": "pandas_nan_none_na.ipynb",
+                    "path": "intro/02/pandas_nan_none_na.ipynb",
+                    "size": 0.012954624000000001
+                },
+                {
+                    "name": "pandas_datareader_stock.ipynb",
+                    "path": "intro/02/pandas_datareader_stock.ipynb",
+                    "size": 0.006504448
+                },
+                {
+                    "name": "unicord_test.ipynb",
+                    "path": "intro/02/unicord_test.ipynb",
+                    "size": 0.003748864
+                },
+                {
+                    "name": "name_main_test_bash.ipynb",
+                    "path": "intro/02/name_main_test_bash.ipynb",
+                    "size": 0.003303424
+                },
+                {
+                    "name": "numpy_symmetric.ipynb",
+                    "path": "intro/02/numpy_symmetric.ipynb",
+                    "size": 0.0076544000000000004
+                },
+                {
+                    "name": "requests_request_header.ipynb",
+                    "path": "intro/02/requests_request_header.ipynb",
+                    "size": 0.001325056
+                },
+                {
+                    "name": "dict_value_max_min_series.ipynb",
+                    "path": "intro/02/dict_value_max_min_series.ipynb",
+                    "size": 0.006274048000000001
+                },
+                {
+                    "name": "magic_commands.ipynb",
+                    "path": "intro/02/magic_commands.ipynb",
+                    "size": 0.0060958720000000004
+                },
+                {
+                    "name": "numpy_list_to_ndarray.ipynb",
+                    "path": "intro/02/numpy_list_to_ndarray.ipynb",
+                    "size": 0.0017131520000000001
+                },
+                {
+                    "name": "subclasses.ipynb",
+                    "path": "intro/02/subclasses.ipynb",
+                    "size": 0.00361984
+                },
+                {
+                    "name": "math_isclose.ipynb",
+                    "path": "intro/02/math_isclose.ipynb",
+                    "size": 0.006838272
+                },
+                {
+                    "name": "numpy_select_basic.ipynb",
+                    "path": "intro/02/numpy_select_basic.ipynb",
+                    "size": 0.002743296
+                },
+                {
+                    "name": "numpy_image_binarization.ipynb",
+                    "path": "intro/02/numpy_image_binarization.ipynb",
+                    "size": 0.005901312000000001
+                },
+                {
+                    "name": "pillow_putalpha.ipynb",
+                    "path": "intro/02/pillow_putalpha.ipynb",
+                    "size": 0.0036802560000000002
+                },
+                {
+                    "name": "beautiful_soup_image.ipynb",
+                    "path": "intro/02/beautiful_soup_image.ipynb",
+                    "size": 0.0026757120000000002
+                },
+                {
+                    "name": "str_remove_slice.ipynb",
+                    "path": "intro/02/str_remove_slice.ipynb",
+                    "size": 0.0028221440000000004
+                },
+                {
+                    "name": "pandas_dataframe_iter_timeit.ipynb",
+                    "path": "intro/02/pandas_dataframe_iter_timeit.ipynb",
+                    "size": 0.004390912
+                },
+                {
+                    "name": "opencv_getbuildinformation.ipynb",
+                    "path": "intro/02/opencv_getbuildinformation.ipynb",
+                    "size": 0.011175936000000001
+                },
+                {
+                    "name": "complex.ipynb",
+                    "path": "intro/02/complex.ipynb",
+                    "size": 0.006216704
+                },
+                {
+                    "name": "dict_get.ipynb",
+                    "path": "intro/02/dict_get.ipynb",
+                    "size": 0.002771968
+                },
+                {
+                    "name": "numpy_split_view.ipynb",
+                    "path": "intro/02/numpy_split_view.ipynb",
+                    "size": 0.004743168
+                },
+                {
+                    "name": "numpy_sum_mean_axis.ipynb",
+                    "path": "intro/02/numpy_sum_mean_axis.ipynb",
+                    "size": 0.007087104
+                },
+                {
+                    "name": "max_min_sorted.ipynb",
+                    "path": "intro/02/max_min_sorted.ipynb",
+                    "size": 0.004118528000000001
+                },
+                {
+                    "name": "numpy_select_assign.ipynb",
+                    "path": "intro/02/numpy_select_assign.ipynb",
+                    "size": 0.005792768
+                },
+                {
+                    "name": "shutil_move_glob_re.ipynb",
+                    "path": "intro/02/shutil_move_glob_re.ipynb",
+                    "size": 0.00131584
+                },
+                {
+                    "name": "datetime_now_today.ipynb",
+                    "path": "intro/02/datetime_now_today.ipynb",
+                    "size": 0.011204608000000001
+                },
+                {
+                    "name": "markdown_get_links_html.ipynb",
+                    "path": "intro/02/markdown_get_links_html.ipynb",
+                    "size": 0.011758592
+                },
+                {
+                    "name": "pandas_drop.ipynb",
+                    "path": "intro/02/pandas_drop.ipynb",
+                    "size": 0.013846528
+                },
+                {
+                    "name": "pandas_index_series.ipynb",
+                    "path": "intro/02/pandas_index_series.ipynb",
+                    "size": 0.006184960000000001
+                },
+                {
+                    "name": "dict_create.ipynb",
+                    "path": "intro/02/dict_create.ipynb",
+                    "size": 0.008245248
+                },
+                {
+                    "name": "scipy_sparse_hstack_vstack.ipynb",
+                    "path": "intro/02/scipy_sparse_hstack_vstack.ipynb",
+                    "size": 0.003574784
+                },
+                {
+                    "name": "pandas_cut_qcut.ipynb",
+                    "path": "intro/02/pandas_cut_qcut.ipynb",
+                    "size": 0.017783808
+                },
+                {
+                    "name": "jupyter_youtube_vimeo.ipynb",
+                    "path": "intro/02/jupyter_youtube_vimeo.ipynb",
+                    "size": 0.050796544000000006
+                },
+                {
+                    "name": "numpy_hstack.ipynb",
+                    "path": "intro/02/numpy_hstack.ipynb",
+                    "size": 0.003718144
+                },
+                {
+                    "name": "os_remove.ipynb",
+                    "path": "intro/02/os_remove.ipynb",
+                    "size": 0.0018288640000000001
+                },
+                {
+                    "name": "dir_builtins.ipynb",
+                    "path": "intro/02/dir_builtins.ipynb",
+                    "size": 0.007721984
+                },
+                {
+                    "name": "calendar_module.ipynb",
+                    "path": "intro/02/calendar_module.ipynb",
+                    "size": 0.0048435200000000005
+                },
+                {
+                    "name": "janome_analyzer.ipynb",
+                    "path": "intro/02/janome_analyzer.ipynb",
+                    "size": 0.012004352000000001
+                },
+                {
+                    "name": "function_basic.ipynb",
+                    "path": "intro/02/function_basic.ipynb",
+                    "size": 0.014304256000000001
+                },
+                {
+                    "name": "numpy_set_printoptions_threshold.ipynb",
+                    "path": "intro/02/numpy_set_printoptions_threshold.ipynb",
+                    "size": 0.018688
+                },
+                {
+                    "name": "version.ipynb",
+                    "path": "intro/02/version.ipynb",
+                    "size": 0.004337664000000001
+                },
+                {
+                    "name": "re_complie.ipynb",
+                    "path": "intro/02/re_complie.ipynb",
+                    "size": 0.002801664
+                },
+                {
+                    "name": "datetime_isoformat_timezone.ipynb",
+                    "path": "intro/02/datetime_isoformat_timezone.ipynb",
+                    "size": 0.00487936
+                },
+                {
+                    "name": "tuple_operation.ipynb",
+                    "path": "intro/02/tuple_operation.ipynb",
+                    "size": 0.0062126080000000005
+                },
+                {
+                    "name": "pandas_set_index.ipynb",
+                    "path": "intro/02/pandas_set_index.ipynb",
+                    "size": 0.009216
+                },
+                {
+                    "name": "sklearn_classification_report.ipynb",
+                    "path": "intro/02/sklearn_classification_report.ipynb",
+                    "size": 0.006560768000000001
+                },
+                {
+                    "name": "scipy_sparse_basic.ipynb",
+                    "path": "intro/02/scipy_sparse_basic.ipynb",
+                    "size": 0.006623232000000001
+                },
+                {
+                    "name": "os_path_basename_dirname_split_splitext.ipynb",
+                    "path": "intro/02/os_path_basename_dirname_split_splitext.ipynb",
+                    "size": 0.011309056000000001
+                },
+                {
+                    "name": "numpy_flags.ipynb",
+                    "path": "intro/02/numpy_flags.ipynb",
+                    "size": 0.008700928
+                },
+                {
+                    "name": "numpy_savetxt.ipynb",
+                    "path": "intro/02/numpy_savetxt.ipynb",
+                    "size": 0.006129664000000001
+                },
+                {
+                    "name": "sklearn_load_data_import.ipynb",
+                    "path": "intro/02/sklearn_load_data_import.ipynb",
+                    "size": 0.001501184
+                },
+                {
+                    "name": "numpy_roll_image.ipynb",
+                    "path": "intro/02/numpy_roll_image.ipynb",
+                    "size": 0.0014243840000000001
+                },
+                {
+                    "name": "pypdf2_metadata_xmp.ipynb",
+                    "path": "intro/02/pypdf2_metadata_xmp.ipynb",
+                    "size": 0.0022149120000000003
+                },
+                {
+                    "name": "pandas_list.ipynb",
+                    "path": "intro/02/pandas_list.ipynb",
+                    "size": 0.014173184
+                },
+                {
+                    "name": "numpy_flipud.ipynb",
+                    "path": "intro/02/numpy_flipud.ipynb",
+                    "size": 0.004486144
+                },
+                {
+                    "name": "zero_padding.ipynb",
+                    "path": "intro/02/zero_padding.ipynb",
+                    "size": 0.010944512
+                },
+                {
+                    "name": "numpy_newaxis.ipynb",
+                    "path": "intro/02/numpy_newaxis.ipynb",
+                    "size": 0.012912640000000001
+                },
+                {
+                    "name": "list_transpose.ipynb",
+                    "path": "intro/02/list_transpose.ipynb",
+                    "size": 0.0046991360000000005
+                },
+                {
+                    "name": "sort_num_str.ipynb",
+                    "path": "intro/02/sort_num_str.ipynb",
+                    "size": 0.004727808
+                },
+                {
+                    "name": "scipy_sparse_convert.ipynb",
+                    "path": "intro/02/scipy_sparse_convert.ipynb",
+                    "size": 0.005059584000000001
+                },
+                {
+                    "name": "scipy_stats_trim_mean_tmean.ipynb",
+                    "path": "intro/02/scipy_stats_trim_mean_tmean.ipynb",
+                    "size": 0.016918528000000002
+                },
+                {
+                    "name": "pandas_options.ipynb",
+                    "path": "intro/02/pandas_options.ipynb",
+                    "size": 0.029478912000000003
+                },
+                {
+                    "name": "matplotlib_matplotlibrc_stylesheet.ipynb",
+                    "path": "intro/02/matplotlib_matplotlibrc_stylesheet.ipynb",
+                    "size": 0.117740544
+                },
+                {
+                    "name": "str_num_determine.ipynb",
+                    "path": "intro/02/str_num_determine.ipynb",
+                    "size": 0.015280128
+                },
+                {
+                    "name": "sklearn_mnist_svm.ipynb",
+                    "path": "intro/02/sklearn_mnist_svm.ipynb",
+                    "size": 0.00548352
+                },
+                {
+                    "name": "numpy_genfromtxt.ipynb",
+                    "path": "intro/02/numpy_genfromtxt.ipynb",
+                    "size": 0.005297152
+                },
+                {
+                    "name": "pathlib_absolute_relative.ipynb",
+                    "path": "intro/02/pathlib_absolute_relative.ipynb",
+                    "size": 0.007531520000000001
+                },
+                {
+                    "name": "opencv_threshold.ipynb",
+                    "path": "intro/02/opencv_threshold.ipynb",
+                    "size": 0.003673088
+                },
+                {
+                    "name": "numpy_broadcast_arrays.ipynb",
+                    "path": "intro/02/numpy_broadcast_arrays.ipynb",
+                    "size": 0.004021248
+                },
+                {
+                    "name": "pathlib_file.ipynb",
+                    "path": "intro/02/pathlib_file.ipynb",
+                    "size": 0.010494976000000001
+                },
+                {
+                    "name": "print_len_eafp.ipynb",
+                    "path": "intro/02/print_len_eafp.ipynb",
+                    "size": 0.0024217600000000002
+                },
+                {
+                    "name": "joblib_parallel_example_resize.ipynb",
+                    "path": "intro/02/joblib_parallel_example_resize.ipynb",
+                    "size": 0.0022732800000000004
+                },
+                {
+                    "name": "arithmetic_operator_num.ipynb",
+                    "path": "intro/02/arithmetic_operator_num.ipynb",
+                    "size": 0.008510464
+                },
+                {
+                    "name": "opencv_psnr.ipynb",
+                    "path": "intro/02/opencv_psnr.ipynb",
+                    "size": 0.0019968
+                },
+                {
+                    "name": "pandas_astype.ipynb",
+                    "path": "intro/02/pandas_astype.ipynb",
+                    "size": 0.0061603840000000005
+                },
+                {
+                    "name": "re_greedy.ipynb",
+                    "path": "intro/02/re_greedy.ipynb",
+                    "size": 0.0019363840000000002
+                },
+                {
+                    "name": "janome_example.ipynb",
+                    "path": "intro/02/janome_example.ipynb",
+                    "size": 0.011402240000000001
+                },
+                {
+                    "name": "datetime_timezone_str.ipynb",
+                    "path": "intro/02/datetime_timezone_str.ipynb",
+                    "size": 0.0022906880000000004
+                },
+                {
+                    "name": "os_rmdir.ipynb",
+                    "path": "intro/02/os_rmdir.ipynb",
+                    "size": 0.002834432
+                },
+                {
+                    "name": "numpy_where_max_min.ipynb",
+                    "path": "intro/02/numpy_where_max_min.ipynb",
+                    "size": 0.0031959040000000003
+                },
+                {
+                    "name": "import_example.ipynb",
+                    "path": "intro/02/import_example.ipynb",
+                    "size": 0.002357248
+                },
+                {
+                    "name": "argument_expand_list_tuple.ipynb",
+                    "path": "intro/02/argument_expand_list_tuple.ipynb",
+                    "size": 0.0050350080000000005
+                },
+                {
+                    "name": "dict_change_key.ipynb",
+                    "path": "intro/02/dict_change_key.ipynb",
+                    "size": 0.007473152
+                },
+                {
+                    "name": "numpy_argmin.ipynb",
+                    "path": "intro/02/numpy_argmin.ipynb",
+                    "size": 0.00543232
+                },
+                {
+                    "name": "zip_example.ipynb",
+                    "path": "intro/02/zip_example.ipynb",
+                    "size": 0.0031232
+                },
+                {
+                    "name": "numpy_delete.ipynb",
+                    "path": "intro/02/numpy_delete.ipynb",
+                    "size": 0.009252864000000001
+                },
+                {
+                    "name": "pandas_read_csv_zip.ipynb",
+                    "path": "intro/02/pandas_read_csv_zip.ipynb",
+                    "size": 0.001037312
+                },
+                {
+                    "name": "calendar_datetime_nth_dow.ipynb",
+                    "path": "intro/02/calendar_datetime_nth_dow.ipynb",
+                    "size": 0.009392128000000001
+                },
+                {
+                    "name": "numpy_ndarray_base.ipynb",
+                    "path": "intro/02/numpy_ndarray_base.ipynb",
+                    "size": 0.004101120000000001
+                },
+                {
+                    "name": "pandas_json_normalize.ipynb",
+                    "path": "intro/02/pandas_json_normalize.ipynb",
+                    "size": 0.00870912
+                },
+                {
+                    "name": "str_split_rsplit.ipynb",
+                    "path": "intro/02/str_split_rsplit.ipynb",
+                    "size": 0.012127232
+                },
+                {
+                    "name": "numpy_shares_memory_may_share_memory.ipynb",
+                    "path": "intro/02/numpy_shares_memory_may_share_memory.ipynb",
+                    "size": 0.003760128
+                },
+                {
+                    "name": "numpy_ravel_flatten_order.ipynb",
+                    "path": "intro/02/numpy_ravel_flatten_order.ipynb",
+                    "size": 0.008487936
+                },
+                {
+                    "name": "numpy_arange.ipynb",
+                    "path": "intro/02/numpy_arange.ipynb",
+                    "size": 0.005157888
+                },
+                {
+                    "name": "collections_counter_timeit.ipynb",
+                    "path": "intro/02/collections_counter_timeit.ipynb",
+                    "size": 0.0022599680000000002
+                },
+                {
+                    "name": "pandas_tz_convert_tz_localize.ipynb",
+                    "path": "intro/02/pandas_tz_convert_tz_localize.ipynb",
+                    "size": 0.028448768000000003
+                },
+                {
+                    "name": "pandas_at_time_between_time.ipynb",
+                    "path": "intro/02/pandas_at_time_between_time.ipynb",
+                    "size": 0.006984704
+                },
+                {
+                    "name": "pandas_where_mask.ipynb",
+                    "path": "intro/02/pandas_where_mask.ipynb",
+                    "size": 0.019584
+                },
+                {
+                    "name": "float_to_hex.ipynb",
+                    "path": "intro/02/float_to_hex.ipynb",
+                    "size": 0.007836672000000001
+                },
+                {
+                    "name": "scipy_shortest_path_timeit.ipynb",
+                    "path": "intro/02/scipy_shortest_path_timeit.ipynb",
+                    "size": 0.007496704000000001
+                },
+                {
+                    "name": "pandas_time_series_datetimeindex.ipynb",
+                    "path": "intro/02/pandas_time_series_datetimeindex.ipynb",
+                    "size": 0.012652544
+                },
+                {
+                    "name": "csv_dictreader.ipynb",
+                    "path": "intro/02/csv_dictreader.ipynb",
+                    "size": 0.0052244480000000005
+                },
+                {
+                    "name": "input_usage.ipynb",
+                    "path": "intro/02/input_usage.ipynb",
+                    "size": 0.010541056
+                },
+                {
+                    "name": "numpy_floor_trunc_ceil.ipynb",
+                    "path": "intro/02/numpy_floor_trunc_ceil.ipynb",
+                    "size": 0.0038256640000000003
+                },
+                {
+                    "name": "pathlib_name_suffix_parent.ipynb",
+                    "path": "intro/02/pathlib_name_suffix_parent.ipynb",
+                    "size": 0.015222784000000001
+                },
+                {
+                    "name": "pandas_sample.ipynb",
+                    "path": "intro/02/pandas_sample.ipynb",
+                    "size": 0.008634368
+                },
+                {
+                    "name": "numpy_copysign.ipynb",
+                    "path": "intro/02/numpy_copysign.ipynb",
+                    "size": 0.008677376
+                },
+                {
+                    "name": "list_len.ipynb",
+                    "path": "intro/02/list_len.ipynb",
+                    "size": 0.005699584000000001
+                },
+                {
+                    "name": "str_num_conversion_unicodedata.ipynb",
+                    "path": "intro/02/str_num_conversion_unicodedata.ipynb",
+                    "size": 0.002281472
+                },
+                {
+                    "name": "str_upper_lower.ipynb",
+                    "path": "intro/02/str_upper_lower.ipynb",
+                    "size": 0.010215424
+                },
+                {
+                    "name": "builtin_types.ipynb",
+                    "path": "intro/02/builtin_types.ipynb",
+                    "size": 0.0013322240000000001
+                },
+                {
+                    "name": "pandas_str_num_conversion.ipynb",
+                    "path": "intro/02/pandas_str_num_conversion.ipynb",
+                    "size": 0.022293504000000002
+                },
+                {
+                    "name": "collections_deque_maxlen.ipynb",
+                    "path": "intro/02/collections_deque_maxlen.ipynb",
+                    "size": 0.0036126720000000004
+                },
+                {
+                    "name": "gcd_lcm.ipynb",
+                    "path": "intro/02/gcd_lcm.ipynb",
+                    "size": 0.001532928
+                },
+                {
+                    "name": "opencv_warp_affine_get.ipynb",
+                    "path": "intro/02/opencv_warp_affine_get.ipynb",
+                    "size": 0.004842496
+                },
+                {
+                    "name": "numpy_gcd_lcm_reduce.ipynb",
+                    "path": "intro/02/numpy_gcd_lcm_reduce.ipynb",
+                    "size": 0.006172672000000001
+                },
+                {
+                    "name": "urllib_parse_quote_unquote.ipynb",
+                    "path": "intro/02/urllib_parse_quote_unquote.ipynb",
+                    "size": 0.010985472000000001
+                },
+                {
+                    "name": "jupyter_system_command.ipynb",
+                    "path": "intro/02/jupyter_system_command.ipynb",
+                    "size": 0.008949760000000001
+                },
+                {
+                    "name": "str_compare.ipynb",
+                    "path": "intro/02/str_compare.ipynb",
+                    "size": 0.012130304000000001
+                },
+                {
+                    "name": "random_shuffle.ipynb",
+                    "path": "intro/02/random_shuffle.ipynb",
+                    "size": 0.004096000000000001
+                },
+                {
+                    "name": "numpy_where.ipynb",
+                    "path": "intro/02/numpy_where.ipynb",
+                    "size": 0.008987648
+                },
+                {
+                    "name": "numpy_loadtxt.ipynb",
+                    "path": "intro/02/numpy_loadtxt.ipynb",
+                    "size": 0.004672512
+                },
+                {
+                    "name": "pillow_add_margin.ipynb",
+                    "path": "intro/02/pillow_add_margin.ipynb",
+                    "size": 0.001426432
+                },
+                {
+                    "name": "csv_comma.ipynb",
+                    "path": "intro/02/csv_comma.ipynb",
+                    "size": 0.00283136
+                },
+                {
+                    "name": "round_towards_infinity.ipynb",
+                    "path": "intro/02/round_towards_infinity.ipynb",
+                    "size": 0.0028794880000000004
+                },
+                {
+                    "name": "jupyter_precision_numpy.ipynb",
+                    "path": "intro/02/jupyter_precision_numpy.ipynb",
+                    "size": 0.005284864
+                },
+                {
+                    "name": "pandas_map_applymap_apply.ipynb",
+                    "path": "intro/02/pandas_map_applymap_apply.ipynb",
+                    "size": 0.006153216
+                },
+                {
+                    "name": "pandas_len_shape_size.ipynb",
+                    "path": "intro/02/pandas_len_shape_size.ipynb",
+                    "size": 0.007954432
+                },
+                {
+                    "name": "timeit_module.ipynb",
+                    "path": "intro/02/timeit_module.ipynb",
+                    "size": 0.003873792
+                },
+                {
+                    "name": "pandas_dataframe_example.ipynb",
+                    "path": "intro/02/pandas_dataframe_example.ipynb",
+                    "size": 0.00224256
+                },
+                {
+                    "name": "datetime_day_function.ipynb",
+                    "path": "intro/02/datetime_day_function.ipynb",
+                    "size": 0.004944896000000001
+                },
+                {
+                    "name": "re_flag.ipynb",
+                    "path": "intro/02/re_flag.ipynb",
+                    "size": 0.010560512000000001
+                },
+                {
+                    "name": "file_io_with_open.ipynb",
+                    "path": "intro/02/file_io_with_open.ipynb",
+                    "size": 0.010091520000000001
+                },
+                {
+                    "name": "random_randrange_randint.ipynb",
+                    "path": "intro/02/random_randrange_randint.ipynb",
+                    "size": 0.002296832
+                },
+                {
+                    "name": "list_common.ipynb",
+                    "path": "intro/02/list_common.ipynb",
+                    "size": 0.0068925440000000004
+                },
+                {
+                    "name": "numpy_image_alpha_blend_mask.ipynb",
+                    "path": "intro/02/numpy_image_alpha_blend_mask.ipynb",
+                    "size": 0.0026470400000000002
+                },
+                {
+                    "name": "csv_writer.ipynb",
+                    "path": "intro/02/csv_writer.ipynb",
+                    "size": 0.009439232
+                },
+                {
+                    "name": "str_remove_list_line_break.ipynb",
+                    "path": "intro/02/str_remove_list_line_break.ipynb",
+                    "size": 0.004620288
+                },
+                {
+                    "name": "numpy_empty_empty_like.ipynb",
+                    "path": "intro/02/numpy_empty_empty_like.ipynb",
+                    "size": 0.003920896
+                },
+                {
+                    "name": "random_list.ipynb",
+                    "path": "intro/02/random_list.ipynb",
+                    "size": 0.0018442240000000002
+                },
+                {
+                    "name": "tensorflow_placeholder.ipynb",
+                    "path": "intro/02/tensorflow_placeholder.ipynb",
+                    "size": 0.002985984
+                },
+                {
+                    "name": "opencv_videocapture_read_camera.ipynb",
+                    "path": "intro/02/opencv_videocapture_read_camera.ipynb",
+                    "size": 0.002788352
+                },
+                {
+                    "name": "opencv_add_weighted.ipynb",
+                    "path": "intro/02/opencv_add_weighted.ipynb",
+                    "size": 0.002274304
+                },
+                {
+                    "name": "pillow_paste.ipynb",
+                    "path": "intro/02/pillow_paste.ipynb",
+                    "size": 0.004703232
+                },
+                {
+                    "name": "pandas_nan_extract.ipynb",
+                    "path": "intro/02/pandas_nan_extract.ipynb",
+                    "size": 0.006335488
+                },
+                {
+                    "name": "opencv_hconcat_vconcat_np_tile.ipynb",
+                    "path": "intro/02/opencv_hconcat_vconcat_np_tile.ipynb",
+                    "size": 0.006571008000000001
+                },
+                {
+                    "name": "inf_calc.ipynb",
+                    "path": "intro/02/inf_calc.ipynb",
+                    "size": 0.005113856
+                },
+                {
+                    "name": "os_environ_getenv.ipynb",
+                    "path": "intro/02/os_environ_getenv.ipynb",
+                    "size": 0.008290304
+                },
+                {
+                    "name": "numpy_skimage_split_func.ipynb",
+                    "path": "intro/02/numpy_skimage_split_func.ipynb",
+                    "size": 0.007731200000000001
+                },
+                {
+                    "name": "sklearn_train_test_split_df.ipynb",
+                    "path": "intro/02/sklearn_train_test_split_df.ipynb",
+                    "size": 0.007149568
+                },
+                {
+                    "name": "scipy_sparse_get_values_timeit_eye.ipynb",
+                    "path": "intro/02/scipy_sparse_get_values_timeit_eye.ipynb",
+                    "size": 0.011823104000000001
+                },
+                {
+                    "name": "numpy_nansum.ipynb",
+                    "path": "intro/02/numpy_nansum.ipynb",
+                    "size": 0.003648512
+                },
+                {
+                    "name": "requests_redirect.ipynb",
+                    "path": "intro/02/requests_redirect.ipynb",
+                    "size": 0.0038215680000000004
+                },
+                {
+                    "name": "numpy_insert.ipynb",
+                    "path": "intro/02/numpy_insert.ipynb",
+                    "size": 0.018481152
+                },
+                {
+                    "name": "pandas_datareader_wb.ipynb",
+                    "path": "intro/02/pandas_datareader_wb.ipynb",
+                    "size": 0.004425728
+                },
+                {
+                    "name": "pillow_save_lq_images.ipynb",
+                    "path": "intro/02/pillow_save_lq_images.ipynb",
+                    "size": 0.00098816
+                },
+                {
+                    "name": "urllib_request_file.ipynb",
+                    "path": "intro/02/urllib_request_file.ipynb",
+                    "size": 0.0048087040000000005
+                },
+                {
+                    "name": "math_exp_log.ipynb",
+                    "path": "intro/02/math_exp_log.ipynb",
+                    "size": 0.006262784
+                },
+                {
+                    "name": "calendar_day_of_last_week.ipynb",
+                    "path": "intro/02/calendar_day_of_last_week.ipynb",
+                    "size": 0.006601728
+                },
+                {
+                    "name": "arxiv_rss.ipynb",
+                    "path": "intro/02/arxiv_rss.ipynb",
+                    "size": 0.010107904000000001
+                },
+                {
+                    "name": "jupyter_precision_pandas.ipynb",
+                    "path": "intro/02/jupyter_precision_pandas.ipynb",
+                    "size": 0.0059115520000000005
+                },
+                {
+                    "name": "strtobool_test.ipynb",
+                    "path": "intro/02/strtobool_test.ipynb",
+                    "size": 0.003291136
+                },
+                {
+                    "name": "string_line_break.ipynb",
+                    "path": "intro/02/string_line_break.ipynb",
+                    "size": 0.012118016
+                },
+                {
+                    "name": "pandas_get_dummies_multi.ipynb",
+                    "path": "intro/02/pandas_get_dummies_multi.ipynb",
+                    "size": 0.008824832000000001
+                },
+                {
+                    "name": "numpy_argmax.ipynb",
+                    "path": "intro/02/numpy_argmax.ipynb",
+                    "size": 0.007373824
+                },
+                {
+                    "name": "math_copysign.ipynb",
+                    "path": "intro/02/math_copysign.ipynb",
+                    "size": 0.004737024
+                },
+                {
+                    "name": "sklearn_fetch_olivetti_faces.ipynb",
+                    "path": "intro/02/sklearn_fetch_olivetti_faces.ipynb",
+                    "size": 0.0021452800000000003
+                },
+                {
+                    "name": "pass_if.ipynb",
+                    "path": "intro/02/pass_if.ipynb",
+                    "size": 0.0006676480000000001
+                },
+                {
+                    "name": "os_path_exists_isfile_isdir.ipynb",
+                    "path": "intro/02/os_path_exists_isfile_isdir.ipynb",
+                    "size": 0.003166208
+                },
+                {
+                    "name": "pandas_get_dummies.ipynb",
+                    "path": "intro/02/pandas_get_dummies.ipynb",
+                    "size": 0.01143296
+                },
+                {
+                    "name": "shutil_rmtree.ipynb",
+                    "path": "intro/02/shutil_rmtree.ipynb",
+                    "size": 0.0021739520000000003
+                },
+                {
+                    "name": "janome_count.ipynb",
+                    "path": "intro/02/janome_count.ipynb",
+                    "size": 0.006903808000000001
+                },
+                {
+                    "name": "tensorflow_variable.ipynb",
+                    "path": "intro/02/tensorflow_variable.ipynb",
+                    "size": 0.001837056
+                },
+                {
+                    "name": "itertools_count.ipynb",
+                    "path": "intro/02/itertools_count.ipynb",
+                    "size": 0.0040294400000000005
+                },
+                {
+                    "name": "urllib_parse.ipynb",
+                    "path": "intro/02/urllib_parse.ipynb",
+                    "size": 0.002860032
+                },
+                {
+                    "name": "format_error.ipynb",
+                    "path": "intro/02/format_error.ipynb",
+                    "size": 0.001499136
+                },
+                {
+                    "name": "datetime_day_locale.ipynb",
+                    "path": "intro/02/datetime_day_locale.ipynb",
+                    "size": 0.003286016
+                },
+                {
+                    "name": "opencv_rotate.ipynb",
+                    "path": "intro/02/opencv_rotate.ipynb",
+                    "size": 0.002525184
+                },
+                {
+                    "name": "pandas_sort_in_any_order.ipynb",
+                    "path": "intro/02/pandas_sort_in_any_order.ipynb",
+                    "size": 0.006843392
+                },
+                {
+                    "name": "tuple_list_unpack.ipynb",
+                    "path": "intro/02/tuple_list_unpack.ipynb",
+                    "size": 0.008042496
+                },
+                {
+                    "name": "joblib_parallel_usage_timeit.ipynb",
+                    "path": "intro/02/joblib_parallel_usage_timeit.ipynb",
+                    "size": 0.0029952000000000004
+                },
+                {
+                    "name": "numpy_image_difference.ipynb",
+                    "path": "intro/02/numpy_image_difference.ipynb",
+                    "size": 0.009573376
+                },
+                {
+                    "name": "random_choice.ipynb",
+                    "path": "intro/02/random_choice.ipynb",
+                    "size": 0.0022947840000000002
+                },
+                {
+                    "name": "numpy_to_pandas.ipynb",
+                    "path": "intro/02/numpy_to_pandas.ipynb",
+                    "size": 0.00434176
+                },
+                {
+                    "name": "fractions_test.ipynb",
+                    "path": "intro/02/fractions_test.ipynb",
+                    "size": 0.007819264000000001
+                },
+                {
+                    "name": "scipy_sparse_construct_empty.ipynb",
+                    "path": "intro/02/scipy_sparse_construct_empty.ipynb",
+                    "size": 0.0034324480000000003
+                },
+                {
+                    "name": "pandas_view_copy.ipynb",
+                    "path": "intro/02/pandas_view_copy.ipynb",
+                    "size": 0.018857984
+                },
+                {
+                    "name": "numpy_eye_identity.ipynb",
+                    "path": "intro/02/numpy_eye_identity.ipynb",
+                    "size": 0.0038830080000000003
+                },
+                {
+                    "name": "arithmetic_operator_list_tuple_str.ipynb",
+                    "path": "intro/02/arithmetic_operator_list_tuple_str.ipynb",
+                    "size": 0.006858752
+                },
+                {
+                    "name": "pandas_nan_dropna.ipynb",
+                    "path": "intro/02/pandas_nan_dropna.ipynb",
+                    "size": 0.010067968
+                },
+                {
+                    "name": "pandas_to_excel.ipynb",
+                    "path": "intro/02/pandas_to_excel.ipynb",
+                    "size": 0.002891776
+                },
+                {
+                    "name": "pandas_multiple_conditions.ipynb",
+                    "path": "intro/02/pandas_multiple_conditions.ipynb",
+                    "size": 0.005931008000000001
+                },
+                {
+                    "name": "operator_itemgetter_timeit.ipynb",
+                    "path": "intro/02/operator_itemgetter_timeit.ipynb",
+                    "size": 0.004524032
+                },
+                {
+                    "name": "pandas_ohlc.ipynb",
+                    "path": "intro/02/pandas_ohlc.ipynb",
+                    "size": 0.008026112
+                },
+                {
+                    "name": "dict_list_values.ipynb",
+                    "path": "intro/02/dict_list_values.ipynb",
+                    "size": 0.0028610560000000003
+                },
+                {
+                    "name": "numpy_select_slice.ipynb",
+                    "path": "intro/02/numpy_select_slice.ipynb",
+                    "size": 0.008383488
+                },
+                {
+                    "name": "matplotlib_default_axes_range_margin.ipynb",
+                    "path": "intro/02/matplotlib_default_axes_range_margin.ipynb",
+                    "size": 0.05844992
+                },
+                {
+                    "name": "scipy_sparse_getrow_getcol.ipynb",
+                    "path": "intro/02/scipy_sparse_getrow_getcol.ipynb",
+                    "size": 0.006002688
+                },
+                {
+                    "name": "numpy_1d_to_2d.ipynb",
+                    "path": "intro/02/numpy_1d_to_2d.ipynb",
+                    "size": 0.0029030400000000004
+                },
+                {
+                    "name": "check_int_float.ipynb",
+                    "path": "intro/02/check_int_float.ipynb",
+                    "size": 0.007334912000000001
+                },
+                {
+                    "name": "break_nested_loops_itertools_product.ipynb",
+                    "path": "intro/02/break_nested_loops_itertools_product.ipynb",
+                    "size": 0.003475456
+                },
+                {
+                    "name": "pandas_stack_unstack_pivot.ipynb",
+                    "path": "intro/02/pandas_stack_unstack_pivot.ipynb",
+                    "size": 0.01288704
+                },
+                {
+                    "name": "numpy_generate_gradient_image.ipynb",
+                    "path": "intro/02/numpy_generate_gradient_image.ipynb",
+                    "size": 0.0029532160000000003
+                },
+                {
+                    "name": "joblib_parallel_usage.ipynb",
+                    "path": "intro/02/joblib_parallel_usage.ipynb",
+                    "size": 0.006960128
+                },
+                {
+                    "name": "list_select_replace.ipynb",
+                    "path": "intro/02/list_select_replace.ipynb",
+                    "size": 0.0059811840000000005
+                },
+                {
+                    "name": "calendar_leap.ipynb",
+                    "path": "intro/02/calendar_leap.ipynb",
+                    "size": 0.00280576
+                },
+                {
+                    "name": "function_annotations.ipynb",
+                    "path": "intro/02/function_annotations.ipynb",
+                    "size": 0.004743168
+                },
+                {
+                    "name": "pillow_image_draw.ipynb",
+                    "path": "intro/02/pillow_image_draw.ipynb",
+                    "size": 0.0020183040000000003
+                },
+                {
+                    "name": "datetime_timedelta_conversion.ipynb",
+                    "path": "intro/02/datetime_timedelta_conversion.ipynb",
+                    "size": 0.014133248000000001
+                },
+                {
+                    "name": "random_choices.ipynb",
+                    "path": "intro/02/random_choices.ipynb",
+                    "size": 0.002997248
+                },
+                {
+                    "name": "pandas_read_csv_dtype.ipynb",
+                    "path": "intro/02/pandas_read_csv_dtype.ipynb",
+                    "size": 0.006300672
+                },
+                {
+                    "name": "issubclass.ipynb",
+                    "path": "intro/02/issubclass.ipynb",
+                    "size": 0.004190208
+                },
+                {
+                    "name": "textwrap_test.ipynb",
+                    "path": "intro/02/textwrap_test.ipynb",
+                    "size": 0.0069632
+                },
+                {
+                    "name": "union_find_basic_usage.ipynb",
+                    "path": "intro/02/union_find_basic_usage.ipynb",
+                    "size": 0.005990400000000001
+                },
+                {
+                    "name": "prime_factorization.ipynb",
+                    "path": "intro/02/prime_factorization.ipynb",
+                    "size": 0.0033515520000000003
+                },
+                {
+                    "name": "pandas_head_tail.ipynb",
+                    "path": "intro/02/pandas_head_tail.ipynb",
+                    "size": 0.008670208
+                },
+                {
+                    "name": "pandas_str_replace_strip_etc.ipynb",
+                    "path": "intro/02/pandas_str_replace_strip_etc.ipynb",
+                    "size": 0.0061480960000000005
+                },
+                {
+                    "name": "pandas_str_extract_extractall.ipynb",
+                    "path": "intro/02/pandas_str_extract_extractall.ipynb",
+                    "size": 0.005843968000000001
+                },
+                {
+                    "name": "sort_in_any_order.ipynb",
+                    "path": "intro/02/sort_in_any_order.ipynb",
+                    "size": 0.006908928000000001
+                },
+                {
+                    "name": "rjust_center_ljust.ipynb",
+                    "path": "intro/02/rjust_center_ljust.ipynb",
+                    "size": 0.008395776
+                },
+                {
+                    "name": "pandas_for_iteration.ipynb",
+                    "path": "intro/02/pandas_for_iteration.ipynb",
+                    "size": 0.010988544000000001
+                },
+                {
+                    "name": "list_unique.ipynb",
+                    "path": "intro/02/list_unique.ipynb",
+                    "size": 0.007145472000000001
+                },
+                {
+                    "name": "pathlib_iterdir_glob.ipynb",
+                    "path": "intro/02/pathlib_iterdir_glob.ipynb",
+                    "size": 0.012088320000000001
+                },
+                {
+                    "name": "for_enumerate_zip.ipynb",
+                    "path": "intro/02/for_enumerate_zip.ipynb",
+                    "size": 0.0017653760000000001
+                },
+                {
+                    "name": "numpy_image_color.ipynb",
+                    "path": "intro/02/numpy_image_color.ipynb",
+                    "size": 0.0033751040000000003
+                },
+                {
+                    "name": "glob_example_re.ipynb",
+                    "path": "intro/02/glob_example_re.ipynb",
+                    "size": 0.0017152
+                },
+                {
+                    "name": "argument_default.ipynb",
+                    "path": "intro/02/argument_default.ipynb",
+                    "size": 0.004978688
+                },
+                {
+                    "name": "opencv_drawing.ipynb",
+                    "path": "intro/02/opencv_drawing.ipynb",
+                    "size": 0.005270528
+                },
+                {
+                    "name": "csv_reader.ipynb",
+                    "path": "intro/02/csv_reader.ipynb",
+                    "size": 0.010344448000000001
+                },
+                {
+                    "name": "pandas_nlargest_nsmallest.ipynb",
+                    "path": "intro/02/pandas_nlargest_nsmallest.ipynb",
+                    "size": 0.01606656
+                },
+                {
+                    "name": "pandas_ohlc_candlestick_chart_mplfinance.ipynb",
+                    "path": "intro/02/pandas_ohlc_candlestick_chart_mplfinance.ipynb",
+                    "size": 0.005810176
+                },
+                {
+                    "name": "docstring.ipynb",
+                    "path": "intro/02/docstring.ipynb",
+                    "size": 0.005152768
+                },
+                {
+                    "name": "pandas_reindex.ipynb",
+                    "path": "intro/02/pandas_reindex.ipynb",
+                    "size": 0.012349440000000001
+                },
+                {
+                    "name": "numpy_block.ipynb",
+                    "path": "intro/02/numpy_block.ipynb",
+                    "size": 0.0039946240000000004
+                },
+                {
+                    "name": "pandas_map_replace.ipynb",
+                    "path": "intro/02/pandas_map_replace.ipynb",
+                    "size": 0.006052864000000001
+                },
+                {
+                    "name": "and_or_bool.ipynb",
+                    "path": "intro/02/and_or_bool.ipynb",
+                    "size": 0.010041344
+                },
+                {
+                    "name": "list_str_re.ipynb",
+                    "path": "intro/02/list_str_re.ipynb",
+                    "size": 0.00191488
+                },
+                {
+                    "name": "pandas_plot.ipynb",
+                    "path": "intro/02/pandas_plot.ipynb",
+                    "size": 0.014832640000000001
+                },
+                {
+                    "name": "datetime_timezone_now_utcnow.ipynb",
+                    "path": "intro/02/datetime_timezone_now_utcnow.ipynb",
+                    "size": 0.003441664
+                },
+                {
+                    "name": "beautiful_soup.ipynb",
+                    "path": "intro/02/beautiful_soup.ipynb",
+                    "size": 0.00206336
+                },
+                {
+                    "name": "hex_to_float.ipynb",
+                    "path": "intro/02/hex_to_float.ipynb",
+                    "size": 0.005665792
+                },
+                {
+                    "name": "pandas_to_numpy.ipynb",
+                    "path": "intro/02/pandas_to_numpy.ipynb",
+                    "size": 0.007990272
+                },
+                {
+                    "name": "openpyxl_example.ipynb",
+                    "path": "intro/02/openpyxl_example.ipynb",
+                    "size": 0.011533312
+                },
+                {
+                    "name": "numpy_zeros_ones_full.ipynb",
+                    "path": "intro/02/numpy_zeros_ones_full.ipynb",
+                    "size": 0.005908480000000001
+                },
+                {
+                    "name": "pillow_crop.ipynb",
+                    "path": "intro/02/pillow_crop.ipynb",
+                    "size": 0.002782208
+                },
+                {
+                    "name": "pandas_read_json.ipynb",
+                    "path": "intro/02/pandas_read_json.ipynb",
+                    "size": 0.00947712
+                },
+                {
+                    "name": "pypdf2_merge_dir.ipynb",
+                    "path": "intro/02/pypdf2_merge_dir.ipynb",
+                    "size": 0.0013352960000000001
+                },
+                {
+                    "name": "glob_example.ipynb",
+                    "path": "intro/02/glob_example.ipynb",
+                    "size": 0.002556928
+                },
+                {
+                    "name": "requests_response.ipynb",
+                    "path": "intro/02/requests_response.ipynb",
+                    "size": 0.009148416000000001
+                },
+                {
+                    "name": "scipy_matplotlib_delaunay_voronoi.ipynb",
+                    "path": "intro/02/scipy_matplotlib_delaunay_voronoi.ipynb",
+                    "size": 0.009233408
+                },
+                {
+                    "name": "re_split.ipynb",
+                    "path": "intro/02/re_split.ipynb",
+                    "size": 0.0016506880000000002
+                },
+                {
+                    "name": "dict_swap_key_value.ipynb",
+                    "path": "intro/02/dict_swap_key_value.ipynb",
+                    "size": 0.0021043200000000002
+                },
+                {
+                    "name": "scipy_sparse_linalg.ipynb",
+                    "path": "intro/02/scipy_sparse_linalg.ipynb",
+                    "size": 0.004698112
+                },
+                {
+                    "name": "pandas_shares_memory_ndarray.ipynb",
+                    "path": "intro/02/pandas_shares_memory_ndarray.ipynb",
+                    "size": 0.008221696
+                },
+                {
+                    "name": "numpy_zeros_ones_full_like.ipynb",
+                    "path": "intro/02/numpy_zeros_ones_full_like.ipynb",
+                    "size": 0.004722688
+                },
+                {
+                    "name": "pandas_time_series_shift.ipynb",
+                    "path": "intro/02/pandas_time_series_shift.ipynb",
+                    "size": 0.0074424320000000006
+                },
+                {
+                    "name": "platform_usage_mac.ipynb",
+                    "path": "intro/02/platform_usage_mac.ipynb",
+                    "size": 0.0026245120000000003
+                },
+                {
+                    "name": "numpy_image_declease_color.ipynb",
+                    "path": "intro/02/numpy_image_declease_color.ipynb",
+                    "size": 0.001509376
+                },
+                {
+                    "name": "pandas_csv_tsv.ipynb",
+                    "path": "intro/02/pandas_csv_tsv.ipynb",
+                    "size": 0.023073792000000003
+                },
+                {
+                    "name": "map_usage.ipynb",
+                    "path": "intro/02/map_usage.ipynb",
+                    "size": 0.006028288000000001
+                },
+                {
+                    "name": "import_example_package_collections.ipynb",
+                    "path": "intro/02/import_example_package_collections.ipynb",
+                    "size": 0.001926144
+                },
+                {
+                    "name": "datetime_first_date.ipynb",
+                    "path": "intro/02/datetime_first_date.ipynb",
+                    "size": 0.002958336
+                },
+                {
+                    "name": "import_example_as.ipynb",
+                    "path": "intro/02/import_example_as.ipynb",
+                    "size": 0.0016332800000000002
+                },
+                {
+                    "name": "pandas_count_condition.ipynb",
+                    "path": "intro/02/pandas_count_condition.ipynb",
+                    "size": 0.019654656
+                },
+                {
+                    "name": "pandas_method_chain.ipynb",
+                    "path": "intro/02/pandas_method_chain.ipynb",
+                    "size": 0.00854528
+                },
+                {
+                    "name": "sklearn_confusion_matrix_heatmap.ipynb",
+                    "path": "intro/02/sklearn_confusion_matrix_heatmap.ipynb",
+                    "size": 0.0018268160000000002
+                },
+                {
+                    "name": "numpy_tri.ipynb",
+                    "path": "intro/02/numpy_tri.ipynb",
+                    "size": 0.004788224000000001
+                },
+                {
+                    "name": "name_main_example.ipynb",
+                    "path": "intro/02/name_main_example.ipynb",
+                    "size": 0.0017940480000000001
+                },
+                {
+                    "name": "opencv_video_to_still.ipynb",
+                    "path": "intro/02/opencv_video_to_still.ipynb",
+                    "size": 0.006370304
+                },
+                {
+                    "name": "pandas_median.ipynb",
+                    "path": "intro/02/pandas_median.ipynb",
+                    "size": 0.00422912
+                },
+                {
+                    "name": "pillow_concat.ipynb",
+                    "path": "intro/02/pillow_concat.ipynb",
+                    "size": 0.012018688000000001
+                },
+                {
+                    "name": "len_usage.ipynb",
+                    "path": "intro/02/len_usage.ipynb",
+                    "size": 0.006310912
+                },
+                {
+                    "name": "numpy_dsplit.ipynb",
+                    "path": "intro/02/numpy_dsplit.ipynb",
+                    "size": 0.004204544
+                },
+                {
+                    "name": "sklearn_accuracy_score.ipynb",
+                    "path": "intro/02/sklearn_accuracy_score.ipynb",
+                    "size": 0.0011048960000000002
+                },
+                {
+                    "name": "pass_with_open.ipynb",
+                    "path": "intro/02/pass_with_open.ipynb",
+                    "size": 0.000792576
+                },
+                {
+                    "name": "generator_expressions.ipynb",
+                    "path": "intro/02/generator_expressions.ipynb",
+                    "size": 0.00440832
+                },
+                {
+                    "name": "platform_python_version.ipynb",
+                    "path": "intro/02/platform_python_version.ipynb",
+                    "size": 0.0017141760000000002
+                },
+                {
+                    "name": "itertools_repeat.ipynb",
+                    "path": "intro/02/itertools_repeat.ipynb",
+                    "size": 0.0024924160000000003
+                },
+                {
+                    "name": "print_len_hasattr.ipynb",
+                    "path": "intro/02/print_len_hasattr.ipynb",
+                    "size": 0.003482624
+                },
+                {
+                    "name": "union_find_usage.ipynb",
+                    "path": "intro/02/union_find_usage.ipynb",
+                    "size": 0.014565376000000001
+                },
+                {
+                    "name": "round_test.ipynb",
+                    "path": "intro/02/round_test.ipynb",
+                    "size": 0.005897216
+                },
+                {
+                    "name": "heapq_nlargest_nsmallest.ipynb",
+                    "path": "intro/02/heapq_nlargest_nsmallest.ipynb",
+                    "size": 0.0016005120000000001
+                },
+                {
+                    "name": "scipy_sparse_slice.ipynb",
+                    "path": "intro/02/scipy_sparse_slice.ipynb",
+                    "size": 0.012950528000000001
+                },
+                {
+                    "name": "import_example_relative.ipynb",
+                    "path": "intro/02/import_example_relative.ipynb",
+                    "size": 0.0018524160000000002
+                },
+                {
+                    "name": "chain_comparisons.ipynb",
+                    "path": "intro/02/chain_comparisons.ipynb",
+                    "size": 0.007601152000000001
+                },
+                {
+                    "name": "pandas_sort_values_sort_index.ipynb",
+                    "path": "intro/02/pandas_sort_values_sort_index.ipynb",
+                    "size": 0.010604544
+                },
+                {
+                    "name": "pypdf2_metadata_set.ipynb",
+                    "path": "intro/02/pypdf2_metadata_set.ipynb",
+                    "size": 0.004621312000000001
+                },
+                {
+                    "name": "numpy_broadcasting_3d.ipynb",
+                    "path": "intro/02/numpy_broadcasting_3d.ipynb",
+                    "size": 0.0028897280000000003
+                },
+                {
+                    "name": "numpy_lcm.ipynb",
+                    "path": "intro/02/numpy_lcm.ipynb",
+                    "size": 0.002464768
+                },
+                {
+                    "name": "calendar_html.ipynb",
+                    "path": "intro/02/calendar_html.ipynb",
+                    "size": 0.025575424000000003
+                },
+                {
+                    "name": "numpy_diag_extract.ipynb",
+                    "path": "intro/02/numpy_diag_extract.ipynb",
+                    "size": 0.007955456
+                },
+                {
+                    "name": "datetime_timezone_basic.ipynb",
+                    "path": "intro/02/datetime_timezone_basic.ipynb",
+                    "size": 0.005987328
+                },
+                {
+                    "name": "numpy_shares_memory.ipynb",
+                    "path": "intro/02/numpy_shares_memory.ipynb",
+                    "size": 0.002620416
+                },
+                {
+                    "name": "numpy_rot90_image.ipynb",
+                    "path": "intro/02/numpy_rot90_image.ipynb",
+                    "size": 0.00180224
+                },
+                {
+                    "name": "sys_path_check_bash.ipynb",
+                    "path": "intro/02/sys_path_check_bash.ipynb",
+                    "size": 0.002627584
+                },
+                {
+                    "name": "dict_get_key_from_value.ipynb",
+                    "path": "intro/02/dict_get_key_from_value.ipynb",
+                    "size": 0.005856256000000001
+                },
+                {
+                    "name": "str_replace_with_empty.ipynb",
+                    "path": "intro/02/str_replace_with_empty.ipynb",
+                    "size": 0.0014479360000000001
+                },
+                {
+                    "name": "print_len_collections_abc.ipynb",
+                    "path": "intro/02/print_len_collections_abc.ipynb",
+                    "size": 0.008751104000000001
+                },
+                {
+                    "name": "itertools_product.ipynb",
+                    "path": "intro/02/itertools_product.ipynb",
+                    "size": 0.007979008000000001
+                },
+                {
+                    "name": "pandas_idxmax_idxmin.ipynb",
+                    "path": "intro/02/pandas_idxmax_idxmin.ipynb",
+                    "size": 0.015059968000000002
+                },
+                {
+                    "name": "identifier.ipynb",
+                    "path": "intro/02/identifier.ipynb",
+                    "size": 0.005531648
+                },
+                {
+                    "name": "print_list_elements.ipynb",
+                    "path": "intro/02/print_list_elements.ipynb",
+                    "size": 0.0017766400000000001
+                },
+                {
+                    "name": "xlwt_example.ipynb",
+                    "path": "intro/02/xlwt_example.ipynb",
+                    "size": 0.00347648
+                },
+                {
+                    "name": "pandas_cumsum_cumprod.ipynb",
+                    "path": "intro/02/pandas_cumsum_cumprod.ipynb",
+                    "size": 0.009244672
+                },
+                {
+                    "name": "pandas_multiindex_indexing.ipynb",
+                    "path": "intro/02/pandas_multiindex_indexing.ipynb",
+                    "size": 0.019042304
+                },
+                {
+                    "name": "numpy_dstack.ipynb",
+                    "path": "intro/02/numpy_dstack.ipynb",
+                    "size": 0.004903936
+                },
+                {
+                    "name": "numpy_astype.ipynb",
+                    "path": "intro/02/numpy_astype.ipynb",
+                    "size": 0.005620736
+                },
+                {
+                    "name": "pathlib_dir.ipynb",
+                    "path": "intro/02/pathlib_dir.ipynb",
+                    "size": 0.006150144000000001
+                }
             ]
         }
     },
     "root": "https://jupyternbs.herokuapp.com/notebooks",
-    "total_size": 209.705775104
+    "total_size": 215.499168768
 }
