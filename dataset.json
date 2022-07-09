@@ -562,7 +562,7 @@
                 {
                     "name": "02.01-Namakan_and_Rainy_Lake_Water_Levels_1970-2010.ipynb",
                     "path": "data_science/04/02.01-Namakan_and_Rainy_Lake_Water_Levels_1970-2010.ipynb",
-                    "size": 1.00598272
+                    "size": 1.005664256
                 },
                 {
                     "name": "02.05-State-of-Nature-Flows.ipynb",
@@ -592,7 +592,7 @@
                 {
                     "name": "02.00-Challenge_of_Controlling_Natural_Watersheds.ipynb",
                     "path": "data_science/04/02.00-Challenge_of_Controlling_Natural_Watersheds.ipynb",
-                    "size": 0.0033116160000000003
+                    "size": 0.003324928
                 },
                 {
                     "name": "A.13-ENSO.ipynb",
@@ -2386,148 +2386,148 @@
         "intro": {
             "01": [
                 {
-                    "name": "003-PythonBasico-Funciones.ipynb",
-                    "path": "intro/01/003-PythonBasico-Funciones.ipynb",
-                    "size": 0.01591808
+                    "name": "024-reflection_principle_bm.ipynb",
+                    "path": "intro/01/024-reflection_principle_bm.ipynb",
+                    "size": 0.12698624
                 },
                 {
-                    "name": "005-NumPy-SeccionesArrays.ipynb",
-                    "path": "intro/01/005-NumPy-SeccionesArrays.ipynb",
-                    "size": 0.025198592000000002
+                    "name": "025-rieman_stieltjes_sums.ipynb",
+                    "path": "intro/01/025-rieman_stieltjes_sums.ipynb",
+                    "size": 0.41015193600000005
                 },
                 {
-                    "name": "012-Scipy-Estadistica.ipynb",
-                    "path": "intro/01/012-Scipy-Estadistica.ipynb",
+                    "name": "010-NumPy-EntradaSalida.ipynb",
+                    "path": "intro/01/010-NumPy-EntradaSalida.ipynb",
+                    "size": 0.266287104
+                },
+                {
+                    "name": "015-Scipy-Estadistica.ipynb",
+                    "path": "intro/01/015-Scipy-Estadistica.ipynb",
                     "size": 0.144385024
                 },
                 {
-                    "name": "008-matplotlib-Intro.ipynb",
-                    "path": "intro/01/008-matplotlib-Intro.ipynb",
+                    "name": "028-snowflake.ipynb",
+                    "path": "intro/01/028-snowflake.ipynb",
+                    "size": 0.10358067200000001
+                },
+                {
+                    "name": "021-calculate_area_animation.ipynb",
+                    "path": "intro/01/021-calculate_area_animation.ipynb",
+                    "size": 0.350372864
+                },
+                {
+                    "name": "002-math-Matemáticas_Básicas.ipynb",
+                    "path": "intro/01/002-math-Matemáticas_Básicas.ipynb",
+                    "size": 0.013385728000000001
+                },
+                {
+                    "name": "011-matplotlib-Intro.ipynb",
+                    "path": "intro/01/011-matplotlib-Intro.ipynb",
                     "size": 0.782850048
                 },
                 {
-                    "name": "001-math-Matemáticas_Básicas.ipynb",
-                    "path": "intro/01/001-math-Matemáticas_Básicas.ipynb",
-                    "size": 0.013910016
+                    "name": "012-matplotlib-widgets.ipynb",
+                    "path": "intro/01/012-matplotlib-widgets.ipynb",
+                    "size": 0.19346944000000002
                 },
                 {
-                    "name": "reflection_principle_bm.ipynb",
-                    "path": "intro/01/reflection_principle_bm.ipynb",
-                    "size": 0.12698624
+                    "name": "003-NumPy-Intro.ipynb",
+                    "path": "intro/01/003-NumPy-Intro.ipynb",
+                    "size": 0.032627712
                 },
                 {
                     "name": "001-PythonBasico-JupyterNotebook.ipynb",
                     "path": "intro/01/001-PythonBasico-JupyterNotebook.ipynb",
-                    "size": 0.018977792
+                    "size": 0.016226304
                 },
                 {
-                    "name": "rieman_stieltjes_sums.ipynb",
-                    "path": "intro/01/rieman_stieltjes_sums.ipynb",
-                    "size": 0.41015193600000005
+                    "name": "022-julia_set.ipynb",
+                    "path": "intro/01/022-julia_set.ipynb",
+                    "size": 0.17902694400000002
                 },
                 {
-                    "name": "riemann_sums.ipynb",
-                    "path": "intro/01/riemann_sums.ipynb",
-                    "size": 0.07324672
-                },
-                {
-                    "name": "004-NumPy-Importacion.ipynb",
-                    "path": "intro/01/004-NumPy-Importacion.ipynb",
+                    "name": "007-NumPy-Importacion.ipynb",
+                    "path": "intro/01/007-NumPy-Importacion.ipynb",
                     "size": 0.014633984000000001
                 },
                 {
                     "name": "000-Bienvenido.ipynb",
                     "path": "intro/01/000-Bienvenido.ipynb",
-                    "size": 0.027894784000000002
+                    "size": 0.01655808
                 },
                 {
-                    "name": "002-NumPy-Intro.ipynb",
-                    "path": "intro/01/002-NumPy-Intro.ipynb",
-                    "size": 0.032627712
-                },
-                {
-                    "name": "010-SciPy-FuncionesEspeciales.ipynb",
-                    "path": "intro/01/010-SciPy-FuncionesEspeciales.ipynb",
-                    "size": 0.09867264
-                },
-                {
-                    "name": "003-NumPy-CaracteristicasArrays.ipynb",
-                    "path": "intro/01/003-NumPy-CaracteristicasArrays.ipynb",
+                    "name": "006-NumPy-CaracteristicasArrays.ipynb",
+                    "path": "intro/01/006-NumPy-CaracteristicasArrays.ipynb",
                     "size": 0.017929216
                 },
                 {
-                    "name": "007-NumPy-EntradaSalida.ipynb",
-                    "path": "intro/01/007-NumPy-EntradaSalida.ipynb",
-                    "size": 0.266287104
-                },
-                {
-                    "name": "bifurcation_diagram.ipynb",
-                    "path": "intro/01/bifurcation_diagram.ipynb",
+                    "name": "020-bifurcation_diagram.ipynb",
+                    "path": "intro/01/020-bifurcation_diagram.ipynb",
                     "size": 0.23005184
                 },
                 {
-                    "name": "006-NumPy-AlgerbraLineal.ipynb",
-                    "path": "intro/01/006-NumPy-AlgerbraLineal.ipynb",
-                    "size": 0.027584512000000002
-                },
-                {
-                    "name": "calculate_area_animation.ipynb",
-                    "path": "intro/01/calculate_area_animation.ipynb",
-                    "size": 0.350372864
-                },
-                {
-                    "name": "016-SymPy-Intro.ipynb",
-                    "path": "intro/01/016-SymPy-Intro.ipynb",
-                    "size": 0.15684608
-                },
-                {
-                    "name": "riemann_zeta_zeros.ipynb",
-                    "path": "intro/01/riemann_zeta_zeros.ipynb",
-                    "size": 0.281331712
-                },
-                {
-                    "name": "015-SciPy-EcuacionesDiferencialesOrdinarias.ipynb",
-                    "path": "intro/01/015-SciPy-EcuacionesDiferencialesOrdinarias.ipynb",
+                    "name": "018-SciPy-EcuacionesDiferencialesOrdinarias.ipynb",
+                    "path": "intro/01/018-SciPy-EcuacionesDiferencialesOrdinarias.ipynb",
                     "size": 0.065260544
                 },
                 {
-                    "name": "mandelbrot.ipynb",
-                    "path": "intro/01/mandelbrot.ipynb",
+                    "name": "023-mandelbrot.ipynb",
+                    "path": "intro/01/023-mandelbrot.ipynb",
                     "size": 0.195192832
                 },
                 {
-                    "name": "julia_set.ipynb",
-                    "path": "intro/01/julia_set.ipynb",
-                    "size": 0.17902694400000002
-                },
-                {
-                    "name": "009-matplotlib-widgets.ipynb",
-                    "path": "intro/01/009-matplotlib-widgets.ipynb",
-                    "size": 0.19346944000000002
-                },
-                {
-                    "name": "011-SciPy-CalculoIntegrales.ipynb",
-                    "path": "intro/01/011-SciPy-CalculoIntegrales.ipynb",
+                    "name": "014-SciPy-CalculoIntegrales.ipynb",
+                    "path": "intro/01/014-SciPy-CalculoIntegrales.ipynb",
                     "size": 0.16766361600000002
                 },
                 {
-                    "name": "013-SciPy-InterpolacionAjuste.ipynb",
-                    "path": "intro/01/013-SciPy-InterpolacionAjuste.ipynb",
+                    "name": "027-riemann_zeta_zeros.ipynb",
+                    "path": "intro/01/027-riemann_zeta_zeros.ipynb",
+                    "size": 0.281331712
+                },
+                {
+                    "name": "005-PythonBasico-Funciones.ipynb",
+                    "path": "intro/01/005-PythonBasico-Funciones.ipynb",
+                    "size": 0.01591808
+                },
+                {
+                    "name": "019-SymPy-Intro.ipynb",
+                    "path": "intro/01/019-SymPy-Intro.ipynb",
+                    "size": 0.15684608
+                },
+                {
+                    "name": "016-SciPy-InterpolacionAjuste.ipynb",
+                    "path": "intro/01/016-SciPy-InterpolacionAjuste.ipynb",
                     "size": 0.162630656
                 },
                 {
-                    "name": "snowflake.ipynb",
-                    "path": "intro/01/snowflake.ipynb",
-                    "size": 0.10358067200000001
+                    "name": "026-riemann_sums.ipynb",
+                    "path": "intro/01/026-riemann_sums.ipynb",
+                    "size": 0.07324672
                 },
                 {
-                    "name": "002-PythonBasico-Sintaxis.ipynb",
-                    "path": "intro/01/002-PythonBasico-Sintaxis.ipynb",
+                    "name": "008-NumPy-SeccionesArrays.ipynb",
+                    "path": "intro/01/008-NumPy-SeccionesArrays.ipynb",
+                    "size": 0.025198592000000002
+                },
+                {
+                    "name": "004-PythonBasico-Sintaxis.ipynb",
+                    "path": "intro/01/004-PythonBasico-Sintaxis.ipynb",
                     "size": 0.045157376000000006
                 },
                 {
-                    "name": "014-SciPy-EcuacionesNoLineales.ipynb",
-                    "path": "intro/01/014-SciPy-EcuacionesNoLineales.ipynb",
+                    "name": "009-NumPy-AlgerbraLineal.ipynb",
+                    "path": "intro/01/009-NumPy-AlgerbraLineal.ipynb",
+                    "size": 0.027584512000000002
+                },
+                {
+                    "name": "013-SciPy-FuncionesEspeciales.ipynb",
+                    "path": "intro/01/013-SciPy-FuncionesEspeciales.ipynb",
+                    "size": 0.09867264
+                },
+                {
+                    "name": "017-SciPy-EcuacionesNoLineales.ipynb",
+                    "path": "intro/01/017-SciPy-EcuacionesNoLineales.ipynb",
                     "size": 0.176848896
                 }
             ],
@@ -6681,5 +6681,5 @@
         }
     },
     "root": "https://jupyternbs.herokuapp.com/notebooks",
-    "total_size": 215.499168768
+    "total_size": 215.484251136
 }
