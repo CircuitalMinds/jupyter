@@ -1,11 +1,10 @@
 from sys import argv
 from os import system
-from os.path import join
-from pathlib import Path
 from json import dumps
-path = Path(join("/", *__file__.split("/")[:-1]))
+from libs.utils import base_path
+jupyter_path = base_path.joinpath("application/jupyter")
 folders = [
-    i.name for i in path.joinpath("nbs").iterdir()
+    i.name for i in jupyter_path.joinpath("nbs").iterdir()
     if i.name != "assets"
 ]
 
@@ -13,7 +12,7 @@ folders = [
 class Info:
 
     def __init__(self):
-        self.file = path.joinpath("dataset.json")
+        self.file = jupyter_path.joinpath("dataset.json")
         self.data = dict(
             root="https://jupyternbs.herokuapp.com/notebooks",
             available_space=True,
@@ -38,8 +37,8 @@ class Content:
             self.get_folder(name)
         self.info.save()
 
-    def save(self, folder):
-        Path.cwd().joinpath(folder, "notebooks.json").open("w").write(
+    def save(self):
+        jupyter_path.joinpath("notebooks.json").open("w").write(
             dumps(
                 self.info.data,
                 indent=4,
@@ -50,14 +49,14 @@ class Content:
 
     def get_folder(self, name):
         self.info.data["content"][name] = dict()
-        for module in path.joinpath(f"nbs/{name}").iterdir():
+        for module in jupyter_path.joinpath(f"nbs/{name}").iterdir():
             if module.name != ".ipynb_checkpoints":
                 files = []
                 for file in module.iterdir():
                     if file.name.endswith(".ipynb"):
                         files.append(dict(
                             name=file.name,
-                            path=str(file.relative_to(path.joinpath("nbs"))),
+                            path=str(file.relative_to(jupyter_path.joinpath("nbs"))),
                             size=file.stat().st_size * 1.024e-6
                         ))
                 self.info.data["total_size"] += sum(i["size"] for i in files)
@@ -65,11 +64,11 @@ class Content:
 
 
 def run():
-    system(f"cd {str(path)} && bash run.sh")
+    system(f"cd {str(jupyter_path)} && bash run")
 
 
 def push():
-    system(f"cd {str(path)} && bash push.sh")
+    system(f"cd {str(jupyter_path)} && bash push")
 
 
 if __name__ == "__main__":
